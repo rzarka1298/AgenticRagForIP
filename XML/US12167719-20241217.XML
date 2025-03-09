@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="US12167719-20241217.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20241125" date-publ="20241217">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>12167719</doc-number>
+<kind>B2</kind>
+<date>20241217</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18084681</doc-number>
+<date>20221220</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<us-term-of-grant><us-term-extension>8</us-term-extension></us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>5</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>60</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>N</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>5</main-group>
+<subgroup>0225</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>60</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">Feed spreader including pivotable cargo transport apparatus</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5996869</doc-number>
+<kind>A</kind>
+<name>Belinky</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60R 9/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>116 28 R</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>7347390</doc-number>
+<kind>B2</kind>
+<name>Truan</name>
+<date>20080300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>E01C 19/203</classification-cpc-text>
+<classification-national><country>US</country><main-classification>239661</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>10457187</doc-number>
+<kind>B1</kind>
+<name>Nash</name>
+<date>20191000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60R 9/06</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2003/0164416</doc-number>
+<kind>A1</kind>
+<name>Sauls</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01C 15/124</classification-cpc-text>
+<classification-national><country>US</country><main-classification>239650</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2006/0261111</doc-number>
+<kind>A1</kind>
+<name>McCoy</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60R 9/065</classification-cpc-text>
+<classification-national><country>US</country><main-classification>224526</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2012/0305612</doc-number>
+<kind>A1</kind>
+<name>Bell, Jr.</name>
+<date>20121200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60R 9/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>224519</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2013/0284832</doc-number>
+<kind>A1</kind>
+<name>Hernandez</name>
+<date>20131000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60R 9/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>224502</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2015/0181801</doc-number>
+<kind>A1</kind>
+<name>Niemela</name>
+<date>20150700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01C 17/001</classification-cpc-text>
+<classification-national><country>US</country><main-classification>119 5101</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2018/0064063</doc-number>
+<kind>A1</kind>
+<name>Jahns</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01K 5/0225</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2019/0054482</doc-number>
+<kind>A1</kind>
+<name>Vogt</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01K 5/0225</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2019/0090453</doc-number>
+<kind>A1</kind>
+<name>Dixon</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01K 5/0225</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2019/0099779</doc-number>
+<kind>A1</kind>
+<name>Farmer</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>E01C 19/203</classification-cpc-text>
+</us-citation>
+</us-references-cited>
+<number-of-claims>7</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-cpc-text>A01K 5/0225</classification-cpc-text>
+<classification-cpc-text>A01K 5/0226</classification-cpc-text>
+<classification-cpc-text>B65D 88/26</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>12</number-of-drawing-sheets>
+<number-of-figures>18</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20240196858</doc-number>
+<kind>A1</kind>
+<date>20240620</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Eubank</last-name>
+<first-name>Blake Hall</first-name>
+<address>
+<city>Whitney</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Eubank</last-name>
+<first-name>Blake Hall</first-name>
+<address>
+<city>Whitney</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Roddy</last-name>
+<first-name>Jeffrey</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Frazier</last-name>
+<first-name>Brady W</first-name>
+<department>3642</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Reyes</last-name>
+<first-name>Edgar</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A feed spreader apparatus adapted to mount readily to a receiver hitch includes a feed hopper portion, a hinge assembly that permits the hopper to be pivoted from a first upright position to a second down position providing a platform adapted to transport cargo and unimpeded access to contents of the truck bed.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="109.39mm" wi="158.75mm" file="US12167719-20241217-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="199.98mm" wi="140.89mm" file="US12167719-20241217-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="149.52mm" wi="188.55mm" file="US12167719-20241217-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="229.53mm" wi="167.22mm" file="US12167719-20241217-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="110.24mm" wi="144.78mm" file="US12167719-20241217-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="217.34mm" wi="155.45mm" file="US12167719-20241217-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="229.19mm" wi="138.60mm" file="US12167719-20241217-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="136.74mm" wi="131.74mm" file="US12167719-20241217-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="168.32mm" wi="129.29mm" file="US12167719-20241217-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="196.09mm" wi="153.08mm" file="US12167719-20241217-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="121.84mm" wi="181.95mm" file="US12167719-20241217-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="196.34mm" wi="169.59mm" file="US12167719-20241217-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="136.65mm" wi="185.50mm" file="US12167719-20241217-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">The present invention relates to animal feed dispersal.</p>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Mobile feed spreaders are long known in the art. Typically such feed spreaders include a hopper for holding the animal feed; e.g., corn, and a means to control the rate and amount of feed dispersed. Some spreaders may be integral with a purpose built truck or mountable to a general purpose utility vehicle. Mounting locations may include the truck bed, a receiver hitch or grill guard. Although past feed spreaders work well for their intended use, difficulties remain. For example, when past feed spreaders are mounted to the receiver hitch of a pick up truck, their placement can block access to the truck tail gate and may interfere with other tasks such as loading or unloading materials such as fence pipe, hay, salt licks, etc.</p>
+<p id="p-0004" num="0003">Accordingly, it would be desirable to provide a feed spreader that mounts readily to a receiver hitch, e.g., class III type, and permit access to truck bed contents without necessitating removal of the feed spreader.</p>
+<p id="p-0005" num="0004">It would be additionally desirable to provide a feed spreader that is configured to pivot to a position allowing placement of a truck tail gate in the down position.</p>
+<p id="p-0006" num="0005">Additionally, it would be even further desirable if such a feed spreader provided utility for cargo/material transport in addition to its feed dispersal function.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">Example implementations described herein include a feed spreader. e.g., broadcast spreader, that is mountable to a trailer hitch and capable of at least two positions; a first position wherein the feed dispenser is placed upright and capable of gravity feeding material to an outlet for spreading purposes, and a second position wherein the feed dispenser faces downward and does not block the movement of a truck tail gate or interfere with access to the truck bed contents.</p>
+<p id="p-0008" num="0007">Additionally, in the second position, a substantially broad and flat platform is provided for transport of cargo/material.</p>
+<p id="p-0009" num="0008">In one example implementation according to the present invention, a feed spreader apparatus includes a hopper portion and a platform portion, the hopper portion and platform portion are configured to be secured in a first position where the hopper is capable of spreading feed or other particulate matter, and pivotable to a second position where the platform is adapted to receive and secure objects and articles for transport.</p>
+<p id="p-0010" num="0009">In an aspect combinable with the foregoing example implementation, the feed spreader apparatus includes a hinge assembly and a mount adapted for coupling to a class III receiver tube.</p>
+<p id="p-0011" num="0010">In an aspect combinable with any other aspect described herein, a mounting element of the feed spreader may include a post for insertion into a receiver tube which may be secured therein by a cross-pin.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWING FIGURES</heading>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front side elevation of an example implementation according to the present invention;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a back side elevation of (<figref idref="DRAWINGS">FIG. <b>1</b></figref>) according to the present invention;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a left side view of the implementation in a first position;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side view of the thereof in a second position;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a top plan view thereof;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a bottom plan view thereof;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a perspective view showing a hopper portion, a platform portion and a hinge assembly;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a perspective view showing a top side of the platform portion;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a left side perspective view of a second example implementation;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a right side perspective view thereof;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a perspective view showing a back side of a hopper portion thereof;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is another perspective view showing a platform surface on a back side of the hopper;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a perspective view looking down into the hopper portion interior;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is an enlarged detail view of the motor mounted to a floor of the hopper portion;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is an enlarged detail view of a exterior spreading mechanism, aperture surround and disc spreader;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is another detail view thereof;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a perspective view of a mounted feed dispensing apparatus in a first position;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is a perspective view of the mounted feed dispensing apparatus in a second position.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">REFERENCE LISTING OF THE NAMED ELEMENTS</heading>
+<p id="p-0030" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0029"><b>100</b>, <b>101</b> feed dispensing apparatus</li>
+        <li id="ul0002-0002" num="0030"><b>102</b> hopper portion</li>
+        <li id="ul0002-0003" num="0031"><b>103</b> hopper lid</li>
+        <li id="ul0002-0004" num="0032"><b>104</b> outlet</li>
+        <li id="ul0002-0005" num="0033"><b>107</b> spreader mechanism</li>
+        <li id="ul0002-0006" num="0034"><b>106</b> outlet gate member</li>
+        <li id="ul0002-0007" num="0035"><b>108</b> disc spreader</li>
+        <li id="ul0002-0008" num="0036"><b>109</b> disc fins</li>
+        <li id="ul0002-0009" num="0037"><b>110</b> gate motor</li>
+        <li id="ul0002-0010" num="0038"><b>111</b> outlet surround</li>
+        <li id="ul0002-0011" num="0039"><b>112</b> motor screw</li>
+        <li id="ul0002-0012" num="0040"><b>113</b> coil spring</li>
+        <li id="ul0002-0013" num="0041"><b>114</b> wiring</li>
+        <li id="ul0002-0014" num="0042"><b>115</b> motor shroud</li>
+        <li id="ul0002-0015" num="0043"><b>116</b> motor stand</li>
+        <li id="ul0002-0016" num="0044"><b>117</b> hinge assembly</li>
+        <li id="ul0002-0017" num="0045"><b>117</b><i>a </i>fixed leaf</li>
+        <li id="ul0002-0018" num="0046"><b>117</b><i>b </i>pivotable leaf</li>
+        <li id="ul0002-0019" num="0047"><b>118</b> mounting post</li>
+        <li id="ul0002-0020" num="0048"><b>118</b><i>b </i>receiver tube cross pin</li>
+        <li id="ul0002-0021" num="0049"><b>119</b> alignable hinge locking aperture(s)</li>
+        <li id="ul0002-0022" num="0050"><b>120</b> hinge pin</li>
+        <li id="ul0002-0023" num="0051"><b>121</b> hopper connector post</li>
+        <li id="ul0002-0024" num="0052"><b>124</b> position securing pin</li>
+        <li id="ul0002-0025" num="0053"><b>130</b> platform portion</li>
+        <li id="ul0002-0026" num="0054"><b>131</b> transport surface</li>
+        <li id="ul0002-0027" num="0055"><b>132</b> raised border</li>
+        <li id="ul0002-0028" num="0056"><b>134</b> tie-down apertures</li>
+        <li id="ul0002-0029" num="0057"><b>136</b> apparatus first position</li>
+        <li id="ul0002-0030" num="0058"><b>138</b> apparatus second position</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0005" level="1">DEFINITIONS</heading>
+<p id="p-0031" num="0059">In the following description, the term &#x201c;disperse&#x201d; or &#x201c;spread&#x201d; refers generally to any type of feed or particulate dispersal at any rate or pattern of dispersal whether intermittent or continuous. The term &#x201c;trailer hitch&#x201d; includes class III type hitches but is intended to encompass other less common hitching systems. The term &#x201c;spreader mechanism&#x201d; is intended to encompass typical arrangements of electric motors, outlet gates/valves/retractable plugs, rotating discs and wired or wireless controllers that are conventionally employed to actuate feed spreader mechanisms from the interior of a vehicle as well as variations thereof that would be appreciated by those having skill in the art and access to this disclosure. The singular terms &#x201c;a&#x201d;, &#x201c;an&#x201d;, and &#x201c;the&#x201d; include plural referents unless the context clearly indicates otherwise. Similarly, the word &#x201c;or&#x201d; is intended to include &#x201c;and&#x201d; unless the context clearly indicates otherwise. Although methods and materials similar or equivalent to those described herein can be used in the practice or testing of this disclosure, suitable methods and materials are described below. The term &#x201c;comprises&#x201d; means &#x201c;includes.&#x201d; In case of conflict, the present specification, including explanations of terms, will control. In addition, the materials, methods, and examples are illustrative only and not intended to be limiting. In the various implementations depicted herein, it is intended that any aspect, object or feature of an implementation can be interchanged or shared with any aspect, object or feature of any other implementation depicted herein.</p>
+<p id="p-0032" num="0060">Referring generally to <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>18</b></figref>, implementations of a feed spreader (<b>100</b>, <b>101</b>) shown include a hopper portion (<b>102</b>) a hopper lid (<b>103</b>), feed outlet (<b>104</b>), a hinge assembly (<b>117</b>) that includes a pivotable leaf (<b>117</b><i>b</i>) connected to the hopper portion (<b>102</b>), and a fixed leaf (<b>117</b><i>a</i>) connected to a mounting post (<b>118</b>) adapted to mount to a trailer hitch receiver tube. While typically, fixed and pivotable leaves are hingeably connected by hinge pin (<b>120</b>), in some implementations, a pair of co-axial bolts wherein each bolt of the pair forms the pivoting means for each leaf may be used in lieu of the bridging hinge pin (<b>120</b>) shown. In some implementations it is conceivable that in lieu of the mounting post (<b>118</b>), a short tubular member with an aperture sized and shaped to slip over the receiver tube (<b>117</b><i>a</i>) may fit around the receiver tube and be secured thereon by a clamp or set screw (not shown). Furthermore, in cased employing a short tubular member, it is possible that a detachable mounting post with a flanged end may be insertable in the receiver tube once the short tubular member is placed over the receiver in order to inhibit sliding movement of the short tubular member atop the receiver tube. In the illustrated implementations employing a mounting post (<b>120</b>), the post is inserted inside a hitch receiver tube and secured in a similar manner to a ball mount. Irrespective of the mounting method, hopper portion (<b>102</b>) is pivotable via hinge assembly (<b>117</b>) from a first upright position (<b>136</b>) best shown in (<figref idref="DRAWINGS">FIG. <b>17</b></figref>) to a second position ((<b>138</b>), <figref idref="DRAWINGS">FIG. <b>18</b></figref>) generally at a right angle relative to the first position thereby providing a transport surface (<b>131</b>) of platform portion (<b>130</b>). In the second position (<b>138</b>) surface (<b>131</b>) is adapted for the placement of objects and articles for transport and the tail gate of a truck may be moved to a down position for unimpeded access to the truck bed contents/cargo, hence eliminating the need to remove the feed spreader. A Raised circumferential border/lip/ridge (<b>132</b>) with one or more tie-down apertures therein (<b>134</b>) may surround the platform portion (<b>130</b>). It is intended that the invention may include other tie-down elements not shown, such as bordering cleats, etc., as would be appreciated by those having skill in the art and access to this disclosure. Hopper portion (<b>102</b>) additionally includes a feed outlet (<b>104</b>) around which is an outlet surround (<b>105</b>) and a spreader mechanism (<b>107</b>) which includes an outlet gate member (<b>106</b>) which may be an electrically actuated flap, insert or plug connected to a screw shaft (<b>122</b>) of a motor (<b>110</b>) such that movement of the screw shaft induces the flap or plug to withdraw from the outlet and permit passage therethrough of feed, whereby rotatable disc (<b>108</b>) with fins (<b>109</b>) broadcasts the feed in a desired pattern. In order to better show the claimed features of the hopper (<b>102</b>) and hinge assembly (<b>117</b>), <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>12</b></figref> omit the spreader mechanism, which is then depicted in (<figref idref="DRAWINGS">FIGS. <b>15</b>-<b>18</b></figref>) where the feed spreader attached to a hitch receiver tube of a truck.</p>
+<p id="p-0033" num="0061"><figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref> show respectively, front and rear side elevations of an example implementation. <figref idref="DRAWINGS">FIGS. <b>3</b> and <b>4</b></figref> show respectively, a transition from an upright first position to a second position where the hopper is facing down and platform (<b>130</b>) is facing up and providing a surface (<b>131</b>) for transport of cargo.</p>
+<p id="p-0034" num="0062"><figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref> show respectively, a top plan and a bottom plan view of the spreader (<b>100</b>). <figref idref="DRAWINGS">FIG. <b>7</b></figref> is a perspective view showing the feed spreader in an upright position with a mounting post (<b>118</b>) that can be used to mount the feed spreader to a receiver tube and is secured therein in the typical manner as a conventional ball mount, e.g., a lynch pin or ring pin (<b>124</b>) placed through the receiver tube and mounting post (<b>118</b>). <figref idref="DRAWINGS">FIGS. <b>8</b> and <b>18</b></figref> show the feed spreader in a down position exposing platform surface (<b>131</b>) such that cargo can be readily transported without dismounting the spreader from the hitch.</p>
+<p id="p-0035" num="0063">Moving to <figref idref="DRAWINGS">FIGS. <b>9</b>-<b>12</b></figref>, mounting post (<b>118</b>) welded or otherwise affixed to the spreader hinge assembly (<b>117</b>) and is adapted to fit inside a hitch receiver tube and secured therein in the manner already described.</p>
+<p id="p-0036" num="0064"><figref idref="DRAWINGS">FIG. <b>13</b></figref> shows a floor of the hopper (<b>100</b>) interior that includes a shrouded (<b>115</b>) gate motor (<b>110</b>) and motor stand (<b>116</b>). <figref idref="DRAWINGS">FIG. <b>14</b></figref> is an enlarged detail view showing the hopper outlet (<b>104</b>) gate member (<b>106</b>) and motor shaft. <figref idref="DRAWINGS">FIGS. <b>15</b> and <b>16</b></figref> show feed outlet surround (<b>111</b>) and the exterior of the spreader mechanism (<b>107</b>) with motor screw (<b>112</b>), spring (<b>113</b>) and disc spreader (<b>108</b>) with fins (<b>109</b>).</p>
+<p id="p-0037" num="0065"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is an enlarged detail view showing the various elements of the hinge assembly (<b>117</b>) which includes a hinge pin (<b>120</b>) whereby leaves (<b>117</b><i>a</i>, <b>117</b><i>b</i>) pivot. Also shown is hinge assembly securing pin (<b>124</b>) with a distal end of the pin engageable with a pair of coaxially alignable hinge apertures (<b>119</b>) which align when the pivotable leaf is moved in order to secure the hinge assembly in a desired position. Pin (<b>124</b>) is spring tensioned and is withdrawn in order to disengage the distal end and pivot the assembly to the alternate position.</p>
+<p id="p-0038" num="0066"><figref idref="DRAWINGS">FIGS. <b>17</b> and <b>18</b></figref> show the feed spreader (<b>100</b>) respectively in an upright and folded down position.</p>
+<p id="p-0039" num="0067">In cases where the feed spreader is substantially sheet metal, it is anticipated that relevant fabrication methods may include plasma cutting, stamping, welding, laser cutting, riveting, bending, bolting together by fasteners, etc. It is conceivable some implementations may be partially or entirely cast, injection molded or roto-molded using suitable polymer resins. Other applicable fabrication materials and methods will be appreciated by those having skill in the art.</p>
+<p id="p-0040" num="0068">Control of the feed spreader includes a controller, typically maintained in the cab of a vehicle and includes wired or wireless operation of the gate motor, opens and closes the feed outlet and rotates the disc spreader. Various arrangements of the foregoing elements are known in the art and utilized to distribute feed. Accordingly, any suitable combination of motors, feed outlet closures including valves, plugs or flaps, electronic controller(s) including one or more logic board(s), RF transceiver(s), and rotatable discs for control of the feed outlet and spread rate may be used in any of the implementations described herein.</p>
+<p id="p-0041" num="0069">It should be understood that the drawings and detailed description herein are to be regarded in an illustrative rather than a restrictive manner and are not intended to be limiting to the particular implementations, forms and examples disclosed. In the above-described embodiments and implementations, the size, shape and the like shown in the accompanying drawing figures can be adjusted and still remain within the scope of this disclosure. Accordingly, it is intended that this disclosure encompass any further modifications, changes, rearrangements, substitutions, alternatives, design choices, and implementations as would be appreciated by those of ordinary skill in the art and falling within the spirit and scope of the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A feed spreader comprising:
+<claim-text>a hopper portion including a feed outlet, a front side, back side, left side, right side and interior;</claim-text>
+<claim-text>a hinge assembly including a pivotable leaf joined to the hopper portion and pivotably connected to a fixed leaf, the fixed leaf attached to a mounting post adapted for insertion into a trailer hitch receiver tube;</claim-text>
+<claim-text>a transport surface joined to the hopper portion;</claim-text>
+<claim-text>the hopper portion securable in at least two positions: a first position wherein the hopper is upright and capable of dispensing feed and a second position at a right angle relative to the first position; and,</claim-text>
+<claim-text>in the second position the transport surface is horizontal and forms a cargo supportive platform portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The feed spreader according to <claim-ref idref="CLM-00001">claim 1</claim-ref> including a motor and rotatable disc adjacent to the feed outlet.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The feed spreader according to <claim-ref idref="CLM-00001">claim 1</claim-ref> including a raised border around the cargo supportive platform portion.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A method for installing and operating a feed spreader apparatus comprising the steps of:
+<claim-text>providing a feed spreader apparatus including a hopper portion with a feed outlet, a cargo supportive platform portion, a hinge assembly including a pivotable leaf, a fixed leaf attached to a mounting post adapted for insertion into a receiver of a vehicular hitch and, a transport surface joined to the hopper portion;</claim-text>
+<claim-text>mounting the feed spreader apparatus to the vehicular hitch;</claim-text>
+<claim-text>pivoting and securing the feed spreader in an upright position for dispensing feed or in a downwardly facing position at a right angle relative to the upright position wherein the transport surface forms a cargo supportive platform portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the platform portion is contiguous with a back side of the hopper portion.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, the feed spreader further including a motor and rotatable disc adjacent to the feed outlet.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, the cargo supportive platform portion further including a raised border.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

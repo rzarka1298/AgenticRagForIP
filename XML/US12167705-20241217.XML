@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="US12167705-20241217.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20241126" date-publ="20241217">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>12167705</doc-number>
+<kind>B2</kind>
+<date>20241217</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17330188</doc-number>
+<date>20210525</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<us-term-of-grant><us-term-extension>787</us-term-extension></us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>5</main-group>
+<subgroup>06</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>5</main-group>
+<subgroup>062</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">Gauge wheel system</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>WO</country>
+<doc-number>WO-2018213879</doc-number>
+<kind>A1</kind>
+<date>20181100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 15/16</classification-cpc-text>
+</us-citation>
+</us-references-cited>
+<number-of-claims>10</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-cpc-text>A01C 5/062</classification-cpc-text>
+<classification-cpc-text>A01C 5/064</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20210368664</doc-number>
+<kind>A1</kind>
+<date>20211202</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Ryan Farming Machinery Pty Ltd</orgname>
+<address>
+<city>Horsham</city>
+<country>AU</country>
+</address>
+</addressbook>
+<residence>
+<country>AU</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Ryan</last-name>
+<first-name>Paul</first-name>
+<address>
+<city>Horsham</city>
+<country>AU</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Bochner PLLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Bochner</last-name>
+<first-name>Andrew</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<last-name>Kleinertz</last-name>
+<first-name>Eric</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Ryan Farming Machinery Pty Ltd</orgname>
+<role>03</role>
+<address>
+<city>Horsham</city>
+<country>AU</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Mayo</last-name>
+<first-name>Tara</first-name>
+<department>3671</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates generally to agricultural devices, and in particular, to a gauge wheel system for use in an agricultural device. In one aspect of the invention there is provided a gauge wheel for use on cultivation equipment comprising a hub member having a central bearing portion for mounting to the cultivation equipment; a peripheral flange portion displaced laterally with respect to the hub member; and a resilient coil member mounted to a surface of the hub member at a proximal end and comprising at least two windings that extend between the hub member and the peripheral flange portion to terminate at a free distal end adjacent the peripheral flange portion; wherein the free distal end of the resilient coil member is constrained to prevent contact of the resilient coil member with the peripheral flange portion.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="145.12mm" wi="138.60mm" file="US12167705-20241217-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="170.77mm" wi="140.63mm" file="US12167705-20241217-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="247.48mm" wi="141.22mm" file="US12167705-20241217-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="201.51mm" wi="117.18mm" file="US12167705-20241217-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="176.95mm" wi="73.74mm" file="US12167705-20241217-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="162.90mm" wi="77.72mm" file="US12167705-20241217-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="172.04mm" wi="152.06mm" file="US12167705-20241217-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="231.31mm" wi="90.17mm" file="US12167705-20241217-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="194.31mm" wi="126.32mm" file="US12167705-20241217-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="246.80mm" wi="94.74mm" file="US12167705-20241217-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates generally to agricultural devices, and in particular, to a gauge wheel system for use in an agricultural device.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">In the field of cultivation, gauge wheels are typically employed to control the depth of a disk or tine used for planting seed. Gauge wheels are typically fitted to the outside of a disc assembly or seeding tool and is configured to follow the ground surface to enable the seeding tools to deposit the seed at a desired ground depth. Where the gauge wheel which is placed adjacent to the leading edge of a single disc opener assembly it not only provides depth adjustment, but also functions to clean the leading face of the disc and limit soil lifting and minimising soil layer disturbance.</p>
+<p id="p-0004" num="0003">Traditionally, gauge wheels are typically manufactured with a rubber tyre, which is mounted to the outer periphery of a rim. The rubber of the gauge wheels often wears over time requiring replacement. Further, during use in muddy conditions, mud can build up on the surface of the tyre, which can alter the diameter of the gauge wheel and have an adverse effect on the depth of planting of the seed. The build-up of mud and the like can also cause the rubber wheels to bounce, thereby further minimizing the effectiveness and accuracy of the system. In order to remedy such problems, constant cleaning of the gauge wheel is required, which wastes time and increases labor requirements, as well as significantly impacting the efficiency of the overall system.</p>
+<p id="p-0005" num="0004">A variety of systems have been proposed to address these issues. One such system is disclosed in International PCT Patent Application No. PCT/AU2018/050494. This application discloses a gauge wheel system that employs a resilient coil member attached to a hub member and wound in a plurality of windings so as to substitute for a conventional tyre. Whilst such systems have proven effective in minimising wear and reducing mud collection, they have the potential to be overly flexible and bounce over a ground surface, which can significantly impact the functionality of the system.</p>
+<p id="p-0006" num="0005">Thus, there is a need to provide for an improved gauge wheel system that provides a smoother ride over the ground surface and is able to release any build-up of mud or organic material that may be captured within the system.</p>
+<p id="p-0007" num="0006">The above references to and descriptions of prior proposals or products are not intended to be, and are not to be construed as, statements or admissions of common general knowledge in the art. In particular, the above prior art discussion does not relate to what is commonly or well known by the person skilled in the art, but assists in the understanding of the inventive step of the present invention of which the identification of pertinent prior art proposals is but one part.</p>
+<heading id="h-0003" level="1">STATEMENT OF INVENTION</heading>
+<p id="p-0008" num="0007">The invention according to one or more aspects is as defined in the independent claims. Some optional and/or preferred features of the invention are defined in the dependent claims.</p>
+<p id="p-0009" num="0008">Accordingly, in one aspect of the invention there is provided a gauge wheel for use on cultivation equipment comprising:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0009">a hub member having a central bearing portion for mounting to the cultivation equipment;</li>
+        <li id="ul0002-0002" num="0010">a peripheral flange portion displaced laterally with respect to the hub member; and</li>
+        <li id="ul0002-0003" num="0011">a resilient coil member mounted to a surface of the hub member at a proximal end and comprising at least two windings that extend between the hub member and the peripheral flange portion to terminate at a free distal end adjacent the peripheral flange portion;</li>
+        <li id="ul0002-0004" num="0012">wherein the free distal end of the resilient coil member is constrained to prevent contact of the resilient coil member with the peripheral flange portion.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0010" num="0013">In one embodiment, the hub member may comprise at least three spokes that extend radially from the central bearing portion to define a surface of the hub member that is substantially open.</p>
+<p id="p-0011" num="0014">The peripheral flange portion may be detachably mounted to the hub member at a distal end of the spokes. The peripheral flange portion may be detachably mounted to the distal end of the spokes by way of a plurality of support bars. The support bars may be mounted to a surface of the peripheral flange portion and extend inside the resilient coil member to engage with the distal ends of the spokes.</p>
+<p id="p-0012" num="0015">The support bars may have a cover member mounted thereon. The cover member may be configured to contact the resilient coil member to constrain and prevent contact of the resilient coil member with the peripheral flange portion.</p>
+<p id="p-0013" num="0016">In another embodiment, the peripheral flange portion may be non-removably attached with the hub member. The hub member may have at least three spoke members extending between the central bearing portion and the peripheral flange portion such that the hub member is substantially open.</p>
+<p id="p-0014" num="0017">At least one spacer member may be mounted to the hub member so as to locate and constrain the resilient coil member in position. The at least one spacer member may be mounted on a support bar extending from the peripheral flange portion and within the windings of the resilient coil member towards the hub member.</p>
+<p id="p-0015" num="0018">At least two support bars may extend from the peripheral flange portion at opposing positions about a periphery thereof. The at least one spacer member may have a projection that abuts the coil member to substantially constrain the coil member in position. The projection may be configured to at least partially receive the coil member.</p>
+<p id="p-0016" num="0019">In accordance with another aspect, there is provided a gauge wheel for use on cultivation equipment comprising:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0020">a hub member having a central bearing portion for mounting to the cultivation equipment;</li>
+        <li id="ul0004-0002" num="0021">a peripheral flange portion displaced laterally with respect to the hub member; and</li>
+        <li id="ul0004-0003" num="0022">a resilient coil member mounted to a surface of the hub member at a proximal end and comprising at least two windings that extend between the hub member and the peripheral flange portion to terminate at a free distal end adjacent the peripheral flange portion;</li>
+        <li id="ul0004-0004" num="0023">wherein the peripheral flange portion is detachable from the hub member to facilitate replacement of the peripheral flange portion.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0017" num="0024">The invention may be better understood from the following non-limiting description of preferred embodiments, in which:</p>
+<p id="p-0018" num="0025"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front view of a gauge wheel in accordance with an embodiment of the present invention;</p>
+<p id="p-0019" num="0026"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a top view of the gauge wheel of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0020" num="0027"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a side view of a spacer member in accordance with an embodiment of the present invention;</p>
+<p id="p-0021" num="0028"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a perspective view of the spacer member of <figref idref="DRAWINGS">FIG. <b>3</b></figref>;</p>
+<p id="p-0022" num="0029"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a side view of a spacer member in accordance with another embodiment of the present invention;</p>
+<p id="p-0023" num="0030"><figref idref="DRAWINGS">FIGS. <b>6</b></figref> is a top view of the gauge wheel with the spacer member of <figref idref="DRAWINGS">FIGS. <b>3</b> and <b>4</b></figref> employed for use;</p>
+<p id="p-0024" num="0031"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top view of an alternative embodiment of the gauge wheel of the present invention with a removable lip member depicted;</p>
+<p id="p-0025" num="0032"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a plan view of a gauge wheel in accordance with an alternative embodiment of the present invention;</p>
+<p id="p-0026" num="0033"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is side view of the gauge wheel of <figref idref="DRAWINGS">FIG. <b>8</b></figref>;</p>
+<p id="p-0027" num="0034"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is an exploded view of the gauge wheel of <figref idref="DRAWINGS">FIG. <b>8</b></figref>; and</p>
+<p id="p-0028" num="0035"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a sectional side view of the gauge wheel of <figref idref="DRAWINGS">FIG. <b>8</b></figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0029" num="0036">Preferred features of the present invention will now be described with particular reference to the accompanying drawings. However, it is to be understood that the features illustrated in and described with reference to the drawings are not to be construed as limiting on the scope of the invention.</p>
+<p id="p-0030" num="0037">The present invention will be described below in relation to a gauge wheel system for use in cultivation equipment. The gauge wheel system of the present invention may be employed for use with a variety of other equipment such as seeders and the like for planting seeds and young plants, as will be appreciated by those skilled in the art.</p>
+<p id="p-0031" num="0038">Referring to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, a gauge wheel <b>10</b> is depicted in accordance with an embodiment of the present invention. The gauge wheel <b>10</b> comprises a hub portion <b>12</b> having a central bearing portion <b>11</b> for mounting to an axle or the like to enable the gauge wheel <b>10</b> to be supported on an axle of a cultivation machine (not shown). The hub portion <b>12</b> also has a peripheral flange portion <b>13</b> that is located radially from the central bearing portion <b>11</b>, with the central bearing portion <b>11</b> being laterally offset with respect to the peripheral flange portion <b>13</b>. Such a laterally offset central bearing portion <b>11</b> enables additional degrees of adjustment of the gauge wheel position during use, to adjust for any wearing of the cleaning lip and minimising further wear to the device.</p>
+<p id="p-0032" num="0039">The central bearing portion <b>11</b> is connected to the peripheral flange portion <b>13</b> by way of spokes <b>14</b>. In the embodiment as depicted there are three spokes <b>14</b>, although the number of spokes may vary as required. The three spokes <b>14</b> are spaced about the central bearing portion <b>11</b> in a manner that provides open spaces therebetween to enable any foreign matter, such that mud, soil and related matter, that may enter the wheel during use, to be readily released and not collect and build-up within the hub portion <b>12</b> of the wheel <b>10</b>. As a result of the spokes <b>14</b>, the surface of the hub portion is substantially open to prevent any build-up of soil or mud therein. In this regard, approximately 66% the surface of the hub portion is a void, however the percentage of the surface of the hub portion that is open or void may vary between 50-80%.</p>
+<p id="p-0033" num="0040">A resilient coil member <b>15</b> is mounted to the hub portion <b>12</b> to form the outer periphery of the gauge wheel <b>10</b> as shown. The coil member <b>15</b> is made from a resilient material, such as spring steel, although other resilient materials made from polymeric or composite materials, are also envisaged. The coil member is wound in a helical manner through approximately two windings, as is depicted more clearly in <figref idref="DRAWINGS">FIG. <b>2</b></figref>. Each of the windings are separated a distance to facilitate removal of foreign matter, such as mud and other organic material, which may lodge between the coil windings. The coil member <b>15</b> is wound in an arc that substantially approximates the arc of the peripheral flange portion <b>13</b> of the hub portion <b>12</b>.</p>
+<p id="p-0034" num="0041">One end <b>16</b> of the coil member <b>15</b> is secured to an outer or front surface of the hub portion <b>12</b> by way of brackets <b>17</b>. The second or distal end of the coil member <b>15</b> is not secured to the hub portion <b>12</b> and is maintained free to provide a degree of flexibility in the coil member <b>15</b> to allow movement of the coil member relative to the hub portion <b>12</b>.</p>
+<p id="p-0035" num="0042">A pair of support bars <b>20</b> extend from the peripheral flange portion <b>15</b> of the hub portion <b>12</b> at opposing locations about the periphery thereof, as is shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>. The support bars <b>20</b> extend inside the coil member <b>15</b>, as shown. The support bars <b>20</b> may be removable with respect to the hub portion <b>12</b> and may be interchangeable to be employed/deployed as required.</p>
+<p id="p-0036" num="0043">Referring to <figref idref="DRAWINGS">FIGS. <b>3</b>-<b>5</b></figref>, spacer members <b>30</b> may be used with the gauge wheel <b>10</b> to minimise wear of the coil and the peripheral flange portion <b>15</b> during use. The spacer members <b>30</b> are made from a plastic material, such as nylon, and have a substantially wedge shaped base portion <b>31</b> having a substantially flat under-surface <b>32</b> that is to be positioned upon an outer surface of the support bar <b>20</b> when in use, as is depicted in <figref idref="DRAWINGS">FIG. <b>6</b></figref>. A projection <b>33</b> extends from an upper surface of the base portion <b>31</b>. In the embodiment as depicted in <figref idref="DRAWINGS">FIGS. <b>3</b> and <b>4</b></figref>, the projection <b>33</b> has a curved configuration depicting a concave inner surface <b>34</b> and a convex outer surface <b>35</b>. In the embodiment of the spacer member depicted in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the projection <b>33</b> extends substantially vertically from the base portion <b>31</b>. The base portion <b>31</b> has at least one hole <b>35</b> formed therethrough to facilitate mounted connection of the spacer member <b>30</b> to the support bar <b>20</b> for use, as is depicted in <figref idref="DRAWINGS">FIG. <b>6</b></figref>. In this regard, a screw or similar fastener, may be employed to securely position the spacer member <b>30</b> on the support bar <b>20</b>, which can be readily removed or replaced as desired.</p>
+<p id="p-0037" num="0044">As is depicted in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, in use the spacer member <b>30</b> is attached to the support bar <b>20</b> such that the projection <b>33</b> abuts the winding of the coil member <b>15</b>. The spacer member <b>30</b> thereby functions to hold and position the coil member <b>15</b> with respect to the hub portion to avoid any contact between the coil member <b>15</b> and the peripheral flange portion <b>13</b> of the hub portion <b>12</b>. Furthermore, by employing the spacer members to engage with the coil member windings, the coil member <b>15</b> is prevented from moving across or over the peripheral flange portion <b>13</b> of the hub portion <b>12</b> where it may lose its flexibility and as a result, its ability to shed any build-up of foreign material on the surface of the gauge wheel. By positioning the windings of the coil member <b>15</b> on the support bars <b>20</b>, more flex is generated within the coil member <b>15</b> to provide a self-cleaning function, whilst minimising bounce of the gauge wheel due to inadvertent movement of the coil windings over the surface of the wheel. The coil member is also less likely to break due to the constrained nature of the windings and the spacing's between the windings of the coil are able to maintained at wide distances to facilitate release of any build-up of foreign matter lodged therebetween.</p>
+<p id="p-0038" num="0045">The peripheral flange portion <b>13</b> of the hub portion <b>12</b> may also have a bevelled outer edge (not shown). The bevelled outer edge may have an angle of between 5-50, preferably around 15 degrees from the horizontal to assist in cleaning a disc when the gauge wheel is mounted to cultivation equipment. Such a bevelled edge will also minimise compaction of the soil against a seed furrow during use.</p>
+<p id="p-0039" num="0046">Referring to <figref idref="DRAWINGS">FIG. <b>7</b></figref>, there is depicted another embodiment of the gauge wheel system of the present invention that can be used with or without the above referenced spacer members. The gauge wheel <b>10</b> comprises a hub portion <b>12</b> and coil member <b>15</b> configured in the manner as described above. A lip member <b>40</b> is provided which is configured to be mounted to an outer edge of the peripheral flange portion <b>13</b>. Whist not shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the lip member <b>40</b> is substantially circular and has a diameter that matches the diameter of the peripheral flange portion <b>13</b> of the hub portion <b>12</b> such that when it is fitted to the peripheral flange portion <b>13</b>, it substantially covers the outer surface thereof.</p>
+<p id="p-0040" num="0047">The lip member <b>40</b> has mounting arms <b>42</b> that extend substantially orthogonally with respect to the body of the lip member <b>40</b>, as shown. The mounting arms <b>42</b> are configured to be mounted to a spoke <b>14</b> of the hub portion <b>12</b> by way of screws or similar fastening members. In this arrangement the lip member <b>40</b> may be mounted or demounted as desired so as to provide wear protection to the outer surface of the peripheral flange portion <b>13</b>, which often contacts the disc and wears overtime.</p>
+<p id="p-0041" num="0048">Yet another embodiment of a gauge wheel <b>50</b> of the present invention is depicted in <figref idref="DRAWINGS">FIGS. <b>8</b>-<b>11</b></figref>. In this embodiment, the gauge wheel <b>50</b> has a hub portion <b>52</b> that is formed separately to the peripheral flange <b>60</b>, such that the peripheral flange <b>60</b> can be replaced as required, in a manner as will be discussed in more detail below.</p>
+<p id="p-0042" num="0049">The hub portion <b>52</b> is in the form of a substantially planar body having a central recess <b>51</b> for receiving a central bearing <b>53</b>. Three spoke members <b>54</b> extend radially from the central recess <b>51</b> and terminate at a free end <b>54</b><i>a. </i>A mount portion <b>56</b> extends between two of the spoke members <b>54</b>, to form a plate for mounting an end of the resilient coil <b>55</b> thereto.</p>
+<p id="p-0043" num="0050">As is shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>, one end of the resilient coil <b>55</b> is mounted to the mount portion <b>56</b> of the hub portion <b>52</b> by way of brackets <b>57</b>. The second end of the coil is wound in at least two full loops to extend laterally behind the hub portion <b>52</b>. The diameter of the winding of the coil <b>55</b> is substantially equivalent to the diameter of the peripheral flange <b>60</b>, as is shown more clearly in <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0044" num="0051">The peripheral flange <b>60</b> is mounted to the hub portion <b>52</b> by way of support bars <b>62</b>. The support bars <b>62</b> project from a surface of the peripheral flange <b>60</b> as best shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. The end of the support bars <b>62</b> have a thread formed thereon that is configured to pass through holes <b>54</b><i>b </i>provided in the free ends <b>54</b><i>a </i>of the spoke members <b>54</b>. Securing nuts <b>58</b> are provided to secure the end of the support bars <b>62</b> to the spoke members <b>54</b> as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0045" num="0052">The coil <b>55</b> is wound about the support bars <b>62</b> as is shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. Cover members <b>65</b> are provided to fit over the support bars <b>62</b> to minimise wear between the coil <b>55</b> and the support bars <b>62</b> when in use. The cover members <b>65</b> are made from a wear resistant material, such as nylon or a similar plastic, to accommodate movement between the coil <b>55</b> and the support bars <b>62</b> without causing wear between the parts. The cover members <b>65</b> are also shaped to prevent the rearmost coil <b>55</b> from contacting the surface of the peripheral flange <b>60</b> and to ensure that the rearmost coil <b>55</b> is spaced from the surface of the peripheral flange <b>60</b> during use, as is show in <figref idref="DRAWINGS">FIG. <b>11</b></figref>.</p>
+<p id="p-0046" num="0053">In the gauge wheel <b>50</b>, should the peripheral flange <b>60</b> require replacement, it can be simply detached from the hub portion <b>52</b> and replaced as required. The cover members <b>65</b> can also be replaced by simply detaching the peripheral flange <b>60</b> from the hub portion <b>52</b>. The outer edge of the peripheral flange is depicted as having a bevel or angled surface, as previously discussed in relation to the earlier embodiments.</p>
+<p id="p-0047" num="0054">It will be appreciated that the gauge wheel of the present invention employs a hub portion that is significantly exposed due to only three spoke members employed thereon. This not only minimises the weight of the gauge wheel, but also ensures that any organic material or mud that enters the hub portion <b>12</b> will be less likely to become lodged and collect therein and build-up over time. Similarly, the space between the coil windings is maximised to further minimise organic material or mud building up therebetween. Also, by providing a means for locating ad retaining the coil with respect to the peripheral flange, the coil retains its flexibility and is prevented from any undue wear that may occur should the coil move into contact with the other metal components of the gauge wheel. This ensures that the working life of the gauge wheel is maximised and provides a degree of variability in relation to the structural set up of the gauge wheel depending upon the type of soil and the operating conditions.</p>
+<p id="p-0048" num="0055">The gauge wheel of the present invention may be used in association with a cutting disc assembly having one or more rotating cutting discs for cutting a furrow or furrows in a field. In this regard, the gauge wheel may be fitted to the outside of cutting disc assembly, sharing the same axle, to control the depth of cutting. Alternatively, the gauge wheel may be mounted on a separate axle to the cutting device.</p>
+<p id="p-0049" num="0056">Throughout the specification and claims the word &#x201c;comprise&#x201d; and its derivatives are intended to have an inclusive rather than exclusive meaning unless the contrary is expressly stated or the context requires otherwise. That is, the word &#x201c;comprise&#x201d; and its derivatives will be taken to indicate the inclusion of not only the listed components, steps or features that it directly references, but also other components, steps or features not specifically listed, unless the contrary is expressly stated or the context requires otherwise.</p>
+<p id="p-0050" num="0057">Orientational terms used in the specification and claims such as vertical, horizontal, top, bottom, upper and lower are to be interpreted as relational and are based on the premise that the component, item, article, apparatus, device or instrument will usually be considered in a particular orientation, typically with the gauge wheel uppermost.</p>
+<p id="p-0051" num="0058">It will be appreciated by those skilled in the art that many modifications and variations may be made to the methods of the invention described herein without departing from the spirit and scope of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The claims defining the invention are as follows:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A gauge wheel for use on cultivation equipment comprising:
+<claim-text>a hub member having a central bearing portion for mounting to the cultivation equipment;</claim-text>
+<claim-text>a peripheral flange portion displaced laterally with respect to the hub member; and</claim-text>
+<claim-text>a resilient coil member mounted to a surface of the hub member at a proximal end and comprising at least two windings that extend between the hub member and the peripheral flange portion to terminate at a free distal end adjacent the peripheral flange portion,</claim-text>
+<claim-text>wherein the free distal end of the resilient coil member is constrained to prevent contact of the resilient coil member with the peripheral flange portion,</claim-text>
+<claim-text>wherein the hub member comprises at least three spokes that extend radially from the central bearing portion to define a surface of the hub member that is substantially open,</claim-text>
+<claim-text>wherein the peripheral flange portion is detachably mounted to the hub member at a distal end of the spokes, and</claim-text>
+<claim-text>wherein the peripheral flange portion is detachably mounted to the distal end of the spokes by way of a plurality of support bars.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A gauge wheel according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the support bars are mounted to a surface of the peripheral flange portion and extend inside the resilient coil member to engage with the distal ends of the spokes.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A gauge wheel according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the at least one of the support bars has a cover member mounted thereon, the cover member being configured to contact the resilient coil member to constrain and prevent contact of the resilient coil member with the peripheral flange portion.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A gauge wheel according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the peripheral flange portion is formed integral with the hub member.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A gauge wheel according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the hub member has at least three spoke members extending between the central bearing portion and the peripheral flange portion such that the hub member is substantially open.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A gauge wheel according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one space member is mounted to the hub member so as to locate and constrain the resilient coil member in position.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A gauge wheel according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the at least one space member is mounted on a support bar extending from the peripheral flange portion and within the windings of the resilient coil member towards the hub member.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A gauge wheel according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein at least two support bars extend from the peripheral flange portion at opposing positions about a periphery thereof.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A gauge wheel according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the at least one space member has a projection that abuts the coil member to substantially constrain the coil member in position.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A gauge wheel according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the projection is configured to at least partially receive the coil member.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

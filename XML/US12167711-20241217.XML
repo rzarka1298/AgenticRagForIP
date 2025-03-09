@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="US12167711-20241217.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20241126" date-publ="20241217">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>12167711</doc-number>
+<kind>B2</kind>
+<date>20241217</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17517250</doc-number>
+<date>20211102</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<us-term-of-grant><us-term-extension>501</us-term-extension></us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20180101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>6</main-group>
+<subgroup>46</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20180101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>5</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20180501</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>6</main-group>
+<subgroup>4684</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>5</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">Plants and seeds of hybrid corn variety CH011227</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4658085</doc-number>
+<kind>A</kind>
+<name>Beversdorf et al.</name>
+<date>19870400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5523520</doc-number>
+<kind>A</kind>
+<name>Hunsperger et al.</name>
+<date>19960600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5773683</doc-number>
+<kind>A</kind>
+<name>Foley</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6433261</doc-number>
+<kind>B2</kind>
+<name>Hotchkiss</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6693232</doc-number>
+<kind>B1</kind>
+<name>Bergemann</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6852915</doc-number>
+<kind>B2</kind>
+<name>Johnson</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>10455787</doc-number>
+<kind>B1</kind>
+<name>Bhatnagar et al.</name>
+<date>20191000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>10470393</doc-number>
+<kind>B1</kind>
+<name>Holland et al.</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>10542705</doc-number>
+<kind>B2</kind>
+<name>Trifunovic et al.</name>
+<date>20200100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01H 5/10</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>10874077</doc-number>
+<kind>B1</kind>
+<name>Bhatnagar et al.</name>
+<date>20201200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>11350588</doc-number>
+<kind>B2</kind>
+<name>Bhatnagar et al.</name>
+<date>20220600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>11363775</doc-number>
+<kind>B2</kind>
+<name>Bhatnagar et al.</name>
+<date>20220600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>11439087</doc-number>
+<kind>B2</kind>
+<name>Holland et al.</name>
+<date>20220900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2023/0132624</doc-number>
+<kind>A1</kind>
+<name>Moran</name>
+<date>20230500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01H 5/10</classification-cpc-text>
+<classification-national><country>US</country><main-classification>8003201</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2023/0136256</doc-number>
+<kind>A1</kind>
+<name>Bhatnagar et al.</name>
+<date>20230500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2023/0136657</doc-number>
+<kind>A1</kind>
+<name>Bhatnagar et al.</name>
+<date>20230500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2023/0140322</doc-number>
+<kind>A1</kind>
+<name>Bhatnagar et al.</name>
+<date>20230500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2023/0148543</doc-number>
+<kind>A1</kind>
+<name>Bhatnagar et al.</name>
+<date>20230500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01H 5/10</classification-cpc-text>
+<classification-national><country>US</country><main-classification>8003201</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<nplcit num="00019">
+<othercit>Moore (2008) Farm Industry News) (&#x201c;A Shallow Gene Pool&#x201d;).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00020">
+<othercit>Fehr (1987) (&#x201c;Backcross Method&#x201d; in Principles of Cultivar Development (Macmillan Pub. Co. (New York)) pp. 360-376).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00021">
+<othercit>Eshed et al., &#x201c;Less-Than-Addictive Epistatic Interactions of Quantitative Trait Loci in Tomato,&#x201d; Genetics, 143:1807-1817, 1996.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00022">
+<othercit>Fehr (ed), &#x201c;Backcross Method,&#x201d; In: Principles of Cultivar Development, vol. 1: Theory and Technique, pp. 360-376, 1987.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00023">
+<othercit>Hallauer et al., &#x201c;Corn Breeding,&#x201d; In: Corn and Corn Improvement, Sprague et al. (Eds.), Madison, Wisconsin, Ch. 8, pp. 463-564, 1988.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00024">
+<othercit>Kraft et al., &#x201c;Linkage Disequilibrium and Fingerprinting in Sugar Beet,&#x201d; Theor Appl Genet, 101:323-326, 2000.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00025">
+<othercit>Krakowsky et al., &#x201c;Quantitative, Trait loci for Cell Wall Components in Recombinant Inbred Lines of Maize (<i>Zea mays </i>L.) II: Leaf sheath Tissue,&#x201d; Theor Appl Genet 112:717-726, 2006.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00026">
+<othercit>Larson et al., &#x201c;Corn Production,&#x201d; In: Corn and Corn Improvement, G.F. Sprague (Ed.), No. 18 in Agronomy Series, American Society Agronomy, Inc., Madison, Wisconsin, pp. 625-669, 1977.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00027">
+<othercit>Meghji et al., &#x201c;Inbreeding Depression, Inbred and Hybrid Grain Yields, and Other Traits of Maize Genotypes Representing Three Eras,&#x201d; Crop Science, 24:545-549, 1984.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00028">
+<othercit>Sprague et al., &#x201c;Corn Breeding,&#x201d; In: Corn and Corn Improvement, G.F. Sprague (Ed.), No. 18 in Agronomy Series, American Society Agronomy, Inc., Madison, Wisconsin, pp. 305-362, 1977.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00029">
+<othercit>Wych, Production of Hybrid Seed Corn, In: Corn and Corn Improvement, Sprague et al. (Eds.), Madison, Wisconsin, Ch. 9, pp. 565-607, 1988.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00030">
+<othercit>Variety specific information as indicated in transmittal letter of Jan. 31, 2024, Information Disclosure Statement for U.S. Appl. No. 17/517,250.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20230133497</doc-number>
+<kind>A1</kind>
+<date>20230504</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>Monsanto Technology LLC</orgname>
+<address>
+<city>St. Louis</city>
+<state>MO</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Bhatnagar</last-name>
+<first-name>Sandeep</first-name>
+<address>
+<city>Evansville</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Holland</last-name>
+<first-name>Gregory J.</first-name>
+<address>
+<city>Troy</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Stangland</last-name>
+<first-name>Gary R.</first-name>
+<address>
+<city>Cedar Rapids</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="004" designation="us-only">
+<addressbook>
+<last-name>Turnbull</last-name>
+<first-name>Clinton J.</first-name>
+<address>
+<city>Waco</city>
+<state>NE</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Starkey</last-name>
+<first-name>Gale Wesley</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Tietz</last-name>
+<first-name>Paul</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Monsanto Technology LLC</orgname>
+<role>02</role>
+<address>
+<city>St. Louis</city>
+<state>MO</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Boggs</last-name>
+<first-name>Russell T</first-name>
+<department>1663</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">According to the invention, there is provided seed and plants of the hybrid corn variety designated CH011227. The invention thus relates to the plants, seeds and tissue cultures of the variety CH011227, and to methods for producing a corn plant produced by crossing a corn plant of variety CH011227 with itself or with another corn plant, such as a plant of another variety. The invention further relates to genetic complements of plants of variety CH011227.</p>
+</abstract>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<heading id="h-0002" level="1">Field of the Invention</heading>
+<p id="p-0002" num="0001">The present invention relates generally to the field of corn breeding. In particular, the invention relates to corn seed and plants of the hybrid variety designated CH011227, and derivatives and tissue cultures thereof.</p>
+<heading id="h-0003" level="1">Description of Related Art</heading>
+<p id="p-0003" num="0002">The goal of field crop breeding is to combine various desirable traits in a single variety/hybrid. Such desirable traits include greater yield, better stalks, better roots, resistance to insecticides, herbicides, pests, and disease, tolerance to heat and drought, reduced time to crop maturity, better agronomic quality, higher nutritional value, and uniformity in germination times, stand establishment, growth rate, maturity, and fruit size.</p>
+<p id="p-0004" num="0003">Plant breeding techniques take advantage of how a plant is naturally pollinated. There are two general methods of pollination. A plant is self-pollinated when pollen from one flower is transferred to the same flower or another flower of the same plant. A plant is cross-pollinated when pollen comes to it from a flower of a different plant.</p>
+<p id="p-0005" num="0004">Corn plants (<i>Zea mays </i>L.) can be bred by both self-pollination and cross-pollination. Both types of pollination involve the corn plant's flowers. Corn has separate male and female flowers on the same plant, which are located on the tassel and the ear, respectively. Natural pollination occurs in corn when the wind blows pollen from the tassels to the silks that protrude from the tops of the ear shoot.</p>
+<p id="p-0006" num="0005">Plants that have been self-pollinated and selected for type over many generations become homozygous at almost all gene loci and produce a uniform population of true breeding progeny, i.e., a homozygous plant. A cross between two such homozygous plants produces a uniform population of hybrid plants that are heterozygous for many gene loci and phenotypically uniform.</p>
+<p id="p-0007" num="0006">The development of uniform corn plant hybrids requires developing homozygous inbred plants, crossing these inbred plants, and evaluating these crosses. Pedigree breeding and recurrent selection are examples of breeding methods used to develop hybrid parent plants from breeding populations. Those breeding methods combine the genetic backgrounds from two or more inbred plants or various other broad-based sources into breeding pools from which new inbred plants are developed by selfing combined with phenotypic or genotypic selection. The new inbred plants are crossed with other inbred plants and the hybrids produced by these crosses are evaluated for commercial potential.</p>
+<p id="p-0008" num="0007">North American farmers plant tens of millions of acres of corn at the present time and there are extensive national and international commercial corn breeding programs. A continuing goal of these corn breeding programs is to develop corn hybrids that are based on stable inbred plants and have one or more desirable characteristics. To accomplish this goal, the corn breeder must select and develop superior inbred parental plants.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">In one aspect, the present invention provides a corn plant of the hybrid variety designated CH011227. Also provided are corn plants having all the physiological and morphological characteristics of the hybrid corn variety CH011227. A hybrid corn plant of the invention may further comprise a cytoplasmic or nuclear factor that is capable of conferring male sterility or otherwise preventing self-pollination, such as by self-incompatibility. Parts of the corn plant of the present invention are also provided, for example, pollen obtained from a hybrid plant and an ovule of the hybrid plant. The invention also concerns seed of the hybrid corn variety CH011227. The hybrid corn seed of the invention may be provided as a population of corn seed of the variety designated CH011227.</p>
+<p id="p-0010" num="0009">In a further aspect, the invention provides a composition comprising a seed of corn variety CH011227 comprised in plant seed growth media. In certain embodiments, the plant seed growth media is a soil or synthetic cultivation medium. In specific embodiments, the growth medium may be comprised in a container or may, for example, be soil in a field.</p>
+<p id="p-0011" num="0010">In another aspect of the invention, the hybrid corn variety CH011227 comprising an added heritable trait or genetic modification is provided. The heritable trait may comprise a genetic locus that comprises a dominant or recessive allele. In certain embodiments of the invention, the genetic locus confers traits such as, for example, male sterility, waxy starch, herbicide resistance, insect resistance, resistance to bacterial, fungal, nematode or viral disease, and altered fatty acid, phytate or carbohydrate metabolism. In certain embodiments, the genetic locus that confers herbicide resistance may confer resistance to herbicides such as, for example, imidazolinone herbicides, sulfonylurea herbicides, triazine herbicides, phenoxy herbicides, cyclohexanedione herbicides, benzonitrile herbicides, 4-hydroxyphenylpyruvate dioxygenase-inhibiting herbicides, protoporphyrinogen oxidase-inhibiting herbicides, acetolactate synthase-inhibiting herbicides, 1-aminocyclopropane-1-carboxylic acid synthase-inhibiting herbicides, bromoxynil, nicosulfuron, 2,4-dichlorophenoxyacetic acid (2,4-D), dicamba, quizalofop-p-ethyl, glyphosate, or glufosinate. The genetic locus may be a naturally occurring corn gene introduced into the genome of a parent of the variety by backcrossing, a natural or induced mutation, or a transgene introduced through genetic transformation techniques. When introduced through transformation, a genetic locus may comprise one or more transgenes integrated at a single chromosomal location.</p>
+<p id="p-0012" num="0011">In further embodiments, a single locus conversion of one or both of the parental varieties of the hybrid corn variety CH011227 comprises a heritable genetic modification to the genome of one or both of the parental varieties. A heritable genetic modification may comprise, for example, an insertion, deletion, or substitution of a nucleotide sequence. In certain embodiments, a single locus may comprise one or more genes or intergenic regions integrated into or mutated at a single locus or may comprise one or more nucleic acid molecules integrated at the single locus. In particular embodiments, a single locus conversion may be generated by genome editing such as through use of engineered nucleases, as is known in the art. Examples of engineered nucleases include, but are not limited to, Cas endonucleases, zinc finger nucleases (ZFNs), transcription activator-like effector nucleases (TALENs), and engineered meganucleases, also known as homing endonucleases. Naturally occurring nucleases can also find use for genome editing. In specific embodiments, endonucleases, both naturally occurring and engineered, may utilize any polypeptide-, DNA-, or RNA-guided genome editing systems known to the skilled artisan.</p>
+<p id="p-0013" num="0012">In yet another aspect of the invention, a hybrid corn plant of the variety designated CH011227 is provided, wherein a cytoplasmically-inherited trait has been introduced into said hybrid plant. Such cytoplasmically-inherited traits are passed to progeny through the female parent in a particular cross. An exemplary cytoplasmically-inherited trait is the male sterility trait. Cytoplasmic-male sterility (CMS) is a pollen abortion phenomenon determined by the interaction between the genes in the cytoplasm and the nucleus. Alteration in the mitochondrial genome and the lack of restorer genes in the nucleus will lead to pollen abortion. With either a normal cytoplasm or the presence of restorer gene(s) in the nucleus, the plant will produce pollen normally. A CMS plant can be pollinated by a maintainer version of the same variety, which has a normal cytoplasm but lacks the restorer gene(s) in the nucleus, and continues to be male sterile in the next generation. The male fertility of a CMS plant can be restored by a restorer version of the same variety, which must have the restorer gene(s) in the nucleus. With the restorer gene(s) in the nucleus, the offspring of the male-sterile plant can produce normal pollen grains and propagate. A cytoplasmically inherited trait may be a naturally occurring maize trait or a trait introduced through genetic transformation techniques.</p>
+<p id="p-0014" num="0013">In another aspect of the invention, a tissue culture of regenerable cells of a plant of variety CH011227 is provided. The tissue culture will preferably be capable of regenerating plants capable of expressing all of the physiological and morphological characteristics of the variety, and of regenerating plants having substantially the same genotype as other plants of the variety. Examples of some of the physiological and morphological characteristics of the variety CH011227 include characteristics related to yield, maturity, and kernel quality, each of which is specifically disclosed herein. The regenerable cells in such tissue cultures may, for example, be derived from embryos, meristematic cells, immature tassels, microspores, pollen, leaves, anthers, roots, root tips, silk, flowers, kernels, ears, cobs, husks, or stalks, or from callus or protoplasts derived from those tissues. Still further, the present invention provides corn plants regenerated from the tissue cultures of the invention, the plants having all the physiological and morphological characteristics of variety CH011227.</p>
+<p id="p-0015" num="0014">In still another aspect, the invention provides a method of producing hybrid corn seed comprising crossing a plant of variety CV691449 with a plant of variety CV526813. In a cross, either parent may serve as the male or female. Processes are also provided for producing corn seeds or plants in which the processes generally comprise crossing a first parent corn plant with a second parent corn plant, wherein at least one of the first or second parent corn plants is a plant of the variety designated CH011227. In such crossing, either parent may serve as the male or female parent. These processes may be further exemplified as processes for preparing hybrid corn seed or plants, wherein a first hybrid corn plant is crossed with a second corn plant of a different, distinct variety to provide a hybrid that has, as one of its parents, the hybrid corn plant variety CH011227. In these processes, crossing will result in the production of seed. The seed production occurs regardless of whether the seed is collected or not.</p>
+<p id="p-0016" num="0015">In one embodiment of the invention, the first step in &#x201c;crossing&#x201d; comprises planting, often in pollinating proximity, seeds of a first and second parent corn plant, and in many cases, seeds of a first corn plant and a second, distinct corn plant. When the plants are not in pollinating proximity, pollination can nevertheless be accomplished by transferring a pollen or tassel bag from one plant to the other as described below.</p>
+<p id="p-0017" num="0016">A second step comprises cultivating or growing the seeds of said first and second parent corn plants into plants that bear flowers (corn bears both male flowers (tassels) and female flowers (silks) in separate anatomical structures on the same plant). A third step comprises preventing self-pollination of the plants, i.e., preventing the silks of a plant from being fertilized by any plant of the same variety, including the same plant. This can be done, for example, by emasculating the male flowers of the first or second parent corn plant, (i.e., treating or manipulating the flowers so as to prevent pollen production, in order to produce an emasculated parent corn plant). Self-incompatibility systems may also be used in some hybrid crops for the same purpose. Self-incompatible plants still shed viable pollen and can pollinate plants of other varieties but are incapable of pollinating themselves or other plants of the same variety.</p>
+<p id="p-0018" num="0017">A fourth step may comprise allowing cross-pollination to occur between the first and second parent corn plants. When the plants are not in pollinating proximity, this is done by placing a bag, usually paper or glassine, over the tassels of the first plant and another bag over the silks of the incipient ear on the second plant. The bags are left in place for at least 24 hours. Since pollen is viable for less than 24 hours, this assures that the silks are not pollinated from other pollen sources, that any stray pollen on the tassels of the first plant is no longer viable, and that the only pollen transferred comes from the first plant. The pollen bag over the tassel of the first plant is then shaken vigorously to enhance release of pollen from the tassels, and the shoot bag is removed from the silks of the incipient ear on the second plant. Finally, the pollen bag is removed from the tassel of the first plant and is placed over the silks of the incipient ear of the second plant, shaken again and left in place. Yet another step comprises harvesting the seeds from at least one of the parent corn plants. The harvested seed can be grown to produce a corn plant or hybrid corn plant.</p>
+<p id="p-0019" num="0018">The present invention also provides corn seed and plants produced by a process that comprises crossing a first parent corn plant with a second parent corn plant, wherein at least one of the first or second parent corn plants is a plant of the variety designated CH011227. In one embodiment of the invention, corn seed and plants produced by the process are first generation hybrid corn seed and plants produced by crossing an inbred with another, distinct inbred. The present invention further contemplates seed of an F<sub>1 </sub>hybrid corn plant. Therefore, certain exemplary embodiments of the invention provide an F<sub>1 </sub>hybrid corn plant and seed thereof, specifically the hybrid variety designated CH011227.</p>
+<p id="p-0020" num="0019">Such a plant can be analyzed by its &#x201c;genetic complement.&#x201d; This term is used to refer to the aggregate of nucleotide sequences, the expression of which defines the phenotype of, for example, a corn plant, or a cell or tissue of that plant. A genetic complement thus represents the genetic makeup of a cell, tissue or plant. The invention thus provides corn plant cells that have a genetic complement in accordance with the corn plant cells disclosed herein, and plants, seeds and diploid plants containing such cells.</p>
+<p id="p-0021" num="0020">Plant genetic complements may be assessed by genetic marker profiles, and by the expression of phenotypic traits that are characteristic of the expression of the genetic complement, e.g., marker typing profiles. It is known in the art that such complements may also be identified by marker types including, but not limited to, Simple Sequence Repeats (SSRs), Simple Sequence Length Polymorphisms (SSLPs) (Williams et al., <i>Nucleic Acids Res., </i>18:6531, 1990), Randomly Amplified Polymorphic DNAs (RAPDs), DNA Amplification Fingerprinting (DAF), Sequence Characterized Amplified Regions (SCARs), Arbitrary Primed Polymerase Chain Reaction (AP-PCR), Amplified Fragment Length Polymorphisms (AFLPs) (European Patent Application Publication No. EP0534858), and Single Nucleotide Polymorphisms (SNPs) (Wang et al., <i>Science, </i>280:1077, 1998).</p>
+<p id="p-0022" num="0021">In still yet another aspect, the present invention provides hybrid genetic complements, as represented by corn plant cells, tissues, plants, and seeds, formed by the combination of a haploid genetic complement of a corn plant of the invention with a haploid genetic complement of the same or a different variety. In another aspect, the present invention provides a corn plant regenerated from a tissue culture that comprises a hybrid genetic complement of this invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<heading id="h-0006" level="1">Definitions of Plant Characteristics</heading>
+<p id="p-0023" num="0022">Barren Plants: Plants that are barren, i.e., lack an ear with grain, or have an ear with only a few scattered kernels.</p>
+<p id="p-0024" num="0023">Cg: <i>Colletotrichum graminicola </i>rating. The rating multiplied by 10 is approximately equal to percent total plant infection.</p>
+<p id="p-0025" num="0024">CLN: Corn Lethal Necrosis (combination of Maize Chlorotic Mottle Virus and Maize Dwarf Mosaic virus) rating. A numerical rating that is based on a 1 to 9 scale of severity in which &#x201c;1&#x201d; indicates &#x201c;most resistant&#x201d; and &#x201c;9&#x201d; indicates &#x201c;most susceptible.&#x201d;</p>
+<p id="p-0026" num="0025">Cn: <i>Corynebacterium nebraskense </i>rating. The rating multiplied by 10 is approximately equal to percent total plant infection.</p>
+<p id="p-0027" num="0026">Cz: <i>Cercospora zeae</i>-<i>maydis </i>rating. The rating multiplied by 10 is approximately equal to percent total plant infection.</p>
+<p id="p-0028" num="0027">Dgg: <i>Diatraea grandiosella </i>girdling rating. A rating in which the value equals percent plants girdled and stalk lodged.</p>
+<p id="p-0029" num="0028">Dropped Ears: Ears that have fallen from the plant to the ground.</p>
+<p id="p-0030" num="0029">Dsp: <i>Diabrotica </i>species root rating. A rating that is based on a 1 to 9 scale in which &#x201c;1&#x201d; indicates &#x201c;least affected&#x201d; and &#x201c;9&#x201d; indicates &#x201c;severe pruning.&#x201d;</p>
+<p id="p-0031" num="0030">Ear-Attitude: The attitude or position of the ear at harvest, which is scored as upright, horizontal, or pendant.</p>
+<p id="p-0032" num="0031">Ear-Cob Color: The color of the cob, which is scored as white, pink, red, or brown.</p>
+<p id="p-0033" num="0032">Ear-Cob Diameter: The average diameter of the cob when measured at the midpoint.</p>
+<p id="p-0034" num="0033">Ear-Cob Strength: A measure of mechanical strength of the cobs to breakage, which is scored as strong or weak.</p>
+<p id="p-0035" num="0034">Ear-Diameter: The average diameter of the ear when measured at the midpoint.</p>
+<p id="p-0036" num="0035">Ear-Dry Husk Color: The color of the husks at harvest, which is scored as buff, red, or purple.</p>
+<p id="p-0037" num="0036">Ear-Fresh Husk Color: The color of the husks 1 to 2 weeks after pollination, which is scored as green, red, or purple.</p>
+<p id="p-0038" num="0037">Ear-Husk Bract: The length of an average husk leaf, which is scored as short, medium, or long.</p>
+<p id="p-0039" num="0038">Ear-Husk Cover: The average distance from the tip of the ear to the tip of the husks in which the minimum value is no less than zero.</p>
+<p id="p-0040" num="0039">Ear-Husk Opening: An evaluation of husk tightness at harvest, which is scored as tight, intermediate, or open.</p>
+<p id="p-0041" num="0040">Ear-Length: The average length of the ear.</p>
+<p id="p-0042" num="0041">Ear-Number Per Stalk: The average number of ears per plant.</p>
+<p id="p-0043" num="0042">Ear-Shank Internodes: The average number of internodes on the ear shank.</p>
+<p id="p-0044" num="0043">Ear-Shank Length: The average length of the ear shank.</p>
+<p id="p-0045" num="0044">Ear-Shelling Percent: The average of the shelled grain weight divided by the sum of the shelled grain weight and cob weight for a single ear.</p>
+<p id="p-0046" num="0045">Ear-Silk Color: The color of the silk observed 2 to 3 days after silk emergence, which is scored as green-yellow, yellow, pink, red, or purple.</p>
+<p id="p-0047" num="0046">Ear-Taper (Shape): The taper or shape of the ear, which is scored as conical, semi-conical, or cylindrical.</p>
+<p id="p-0048" num="0047">Ear-Weight: The average weight of an ear.</p>
+<p id="p-0049" num="0048">Early Stand: The percent of plants that emerge from the ground as determined in the early spring.</p>
+<p id="p-0050" num="0049">ER: Ear rot rating. A rating in which the value approximates percent ear rotted.</p>
+<p id="p-0051" num="0050">Final Stand Count: The number of plants just prior to harvest.</p>
+<p id="p-0052" num="0051">GDUs: Growing degree units. GDUs are calculated by the Barger Method in which the heat units for a 24 h period are calculated as follows: [(Maximum daily temperature+Minimum daily temperature)/2]&#x2212;50. The highest maximum daily temperature used is 86&#xb0; F. and the lowest minimum temperature used is 50&#xb0; F.</p>
+<p id="p-0053" num="0052">GDUs to Shed: The number of growing degree units (GDUs) or heat units required for a variety to have approximately 50% of the plants shedding pollen as measured from time of planting. GDUs to shed is determined by summing the individual GDU daily values from the planting date to the date of 50% pollen shed.</p>
+<p id="p-0054" num="0053">GDUs to Silk: The number of growing degree units (GDUs) for a variety to have approximately 50% of the plants with silk emergence as measured from the time of planting. GDUs to silk is determined by summing the individual GDU daily values from the planting date to the date of 50% silking.</p>
+<p id="p-0055" num="0054">Hc2: <i>Helminthosporium carbonum </i>race 2 rating. The rating multiplied by 10 is approximately equal to percent total plant infection.</p>
+<p id="p-0056" num="0055">Hc3: <i>Helminthosporium carbonum </i>race 3 rating. The rating multiplied by 10 is approximately equal to percent total plant infection.</p>
+<p id="p-0057" num="0056">Hm: <i>Helminthosporium maydis </i>race 0 rating. The rating multiplied by 10 is approximately equal to percent total plant infection.</p>
+<p id="p-0058" num="0057">Ht1: <i>Helminthosporium turcicum </i>race 1 rating. The rating multiplied by 10 is approximately equal to percent total plant infection.</p>
+<p id="p-0059" num="0058">Ht2: <i>Helminthosporium turcicum </i>race 2 rating. The rating multiplied by 10 is approximately equal to percent total plant infection.</p>
+<p id="p-0060" num="0059">HtG: Chlorotic-lesion type resistance. &#x201c;+&#x201d; indicates the presence of Ht chlorotic-lesion type resistance; &#x201c;&#x2212;&#x201d; indicates absence of Ht chlorotic-lesion type resistance; and &#x201c;+/&#x2212;&#x201d; indicates segregation of Ht chlorotic-lesion type resistance. The rating multiplied by 10 is approximately equal to percent total plant infection.</p>
+<p id="p-0061" num="0060">Kernel-Aleurone Color: The color of the aleurone, which is scored as white, pink, tan, brown, bronze, red, purple, pale purple, colorless, or variegated.</p>
+<p id="p-0062" num="0061">Kernel-Cap Color: The color of the kernel cap observed at dry stage, which is scored as white, lemon-yellow, yellow, or orange.</p>
+<p id="p-0063" num="0062">Kernel-Endosperm Color: The color of the endosperm, which is scored as white, pale yellow, or yellow.</p>
+<p id="p-0064" num="0063">Kernel-Endosperm Type: The type of endosperm, which is scored as normal, waxy, or opaque.</p>
+<p id="p-0065" num="0064">Kernel-Grade: The percent of kernels that are classified as rounds.</p>
+<p id="p-0066" num="0065">Kernel-Length: The average distance from the cap of the kernel to the pedicel.</p>
+<p id="p-0067" num="0066">Kernel-Number Per Row: The average number of kernels in a single row.</p>
+<p id="p-0068" num="0067">Kernel-Pericarp Color: The color of the pericarp, which is scored as colorless, red-white crown, tan, bronze, brown, light red, cherry red, or variegated.</p>
+<p id="p-0069" num="0068">Kernel-Row Direction: The direction of the kernel rows on the ear, which is scored as straight, slightly curved, spiral, or indistinct (scattered).</p>
+<p id="p-0070" num="0069">Kernel-Row Number: The average number of rows of kernels on a single ear.</p>
+<p id="p-0071" num="0070">Kernel-Side Color: The color of the kernel side observed at the dry stage, which is scored as white, pale yellow, yellow, orange, red, or brown.</p>
+<p id="p-0072" num="0071">Kernel-Thickness: The distance across the narrow side of the kernel.</p>
+<p id="p-0073" num="0072">Kernel-Type: The type of kernel, which is scored as dent, flint, or intermediate.</p>
+<p id="p-0074" num="0073">Kernel-Weight: The average weight of a predetermined number of kernels.</p>
+<p id="p-0075" num="0074">Kernel-Width: The distance across the flat side of the kernel.</p>
+<p id="p-0076" num="0075">Kz: <i>Kabatiella zeae </i>rating. The rating multiplied by 10 is approximately equal to percent total plant infection.</p>
+<p id="p-0077" num="0076">Leaf-Angle: Angle of the upper leaves to the stalk, which is scored as upright (0 to 30 degrees), intermediate (30 to 60 degrees), or lax (60 to 90 degrees).</p>
+<p id="p-0078" num="0077">Leaf-Color: The color of the leaves 1 to 2 weeks after pollination, which is scored as light green, medium green, dark green, or very dark green.</p>
+<p id="p-0079" num="0078">Leaf-Length: The average length of the primary ear leaf.</p>
+<p id="p-0080" num="0079">Leaf-Longitudinal Creases: A rating of the number of longitudinal creases on the leaf surface 1 to 2 weeks after pollination. Creases are scored as absent, few, or many.</p>
+<p id="p-0081" num="0080">Leaf-Marginal Waves: A rating of the waviness of the leaf margin 1 to 2 weeks after pollination, which is rated as none, few, or many.</p>
+<p id="p-0082" num="0081">Leaf-Number: The average number of leaves of a mature plant. Counting begins with the cotyledonary leaf and ends with the flag leaf.</p>
+<p id="p-0083" num="0082">Leaf-Sheath Anthocyanin: A rating of the level of anthocyanin in the leaf sheath 1 to 2 weeks after pollination, which is scored as absent, basal-weak, basal-strong, weak, or strong.</p>
+<p id="p-0084" num="0083">Leaf-Sheath Pubescence: A rating of the pubescence of the leaf sheath. Ratings are taken 1 to 2 weeks after pollination and scored as light, medium, or heavy.</p>
+<p id="p-0085" num="0084">Leaf-Width: The average width of the primary ear leaf when measured at its widest point.</p>
+<p id="p-0086" num="0085">LSS: Late season standability. The value multiplied by 10 is approximately equal to percent plants lodged in disease evaluation plots.</p>
+<p id="p-0087" num="0086">Moisture: The moisture of the grain at harvest.</p>
+<p id="p-0088" num="0087">On1: <i>Ostrinia nubilalis </i>1st brood rating. The rating is based on a 1 to 9 scale in which &#x201c;1&#x201d; indicates &#x201c;resistant&#x201d; and &#x201c;9&#x201d; indicates &#x201c;susceptible.&#x201d;</p>
+<p id="p-0089" num="0088">On2: <i>Ostrinia nubilalis </i>2nd brood rating. The rating is based on a 1 to 9 scale in which &#x201c;1&#x201d; indicates &#x201c;resistant&#x201d; and &#x201c;9&#x201d; indicates &#x201c;susceptible.&#x201d;</p>
+<p id="p-0090" num="0089">Relative Maturity: A maturity rating based on regression analysis. The regression analysis is developed by utilizing check hybrids and their previously established day rating versus actual harvest moistures. Harvest moisture on the hybrid in question is determined and that moisture value is inserted into the regression equation to yield a relative maturity.</p>
+<p id="p-0091" num="0090">Root Lodging: Root lodging is the percentage of plants that root lodge. A plant is counted as root lodged if a portion of the plant leans from the vertical axis by approximately 30 degrees or more.</p>
+<p id="p-0092" num="0091">Seedling Color: Color of leaves at the 6 to 8 leaf stage.</p>
+<p id="p-0093" num="0092">Seedling Height: Plant height at the 6 to 8 leaf stage.</p>
+<p id="p-0094" num="0093">Seedling Vigor: A visual rating of the amount of vegetative growth on a 1 to 9 scale in which the best and worst ratings are &#x201c;1&#x201d; and &#x201c;9&#x201d;, respectively. The score is taken when the average entry in a trial is at the fifth leaf stage.</p>
+<p id="p-0095" num="0094">Selection Index: The selection index gives a single measure of hybrid's worth based on information from multiple traits. One of the traits that is almost always included is yield. Traits may be weighted according to the level of importance assigned to them.</p>
+<p id="p-0096" num="0095">Sr: <i>Sphacelotheca reiliana </i>rating. The rating is actual percent infection.</p>
+<p id="p-0097" num="0096">Stalk-Anthocyanin: A rating of the amount of anthocyanin pigmentation in the stalk. The stalk is rated 1 to 2 weeks after pollination as absent, basal-weak, basal-strong, weak, or strong.</p>
+<p id="p-0098" num="0097">Stalk-Brace Root Color: The color of the brace roots observed 1 to 2 weeks after pollination as green, red, or purple.</p>
+<p id="p-0099" num="0098">Stalk-Diameter: The average diameter of the lowest visible internode of the stalk.</p>
+<p id="p-0100" num="0099">Stalk-Ear Height: The average height of the ear when measured from the ground to the point of attachment of the ear shank of the top developed ear to the stalk.</p>
+<p id="p-0101" num="0100">Stalk-Internode Direction: The direction of the stalk internode observed after pollination as straight or zigzag.</p>
+<p id="p-0102" num="0101">Stalk-Internode Length: The average length of the internode above the primary ear.</p>
+<p id="p-0103" num="0102">Stalk Lodging: The percentage of plants that did stalk lodge. Plants are counted as stalk lodged if the plant is broken over or off below the ear.</p>
+<p id="p-0104" num="0103">Stalk-Nodes With Brace Roots: The average number of nodes having brace roots per plant.</p>
+<p id="p-0105" num="0104">Stalk-Plant Height: The average height of the plant when measured from the soil to the tip of the tassel.</p>
+<p id="p-0106" num="0105">Stalk-Tillers: The percent of plants that have tillers. A tiller is defined as a secondary shoot that has developed as a tassel capable of shedding pollen.</p>
+<p id="p-0107" num="0106">Staygreen: Staygreen is a measure of general plant health near the time of black layer formation (physiological maturity) and is usually recorded at the time the ear husks of most entries within a trial have turned a mature color. Scoring is on a 1 to 9 basis in which &#x201c;1&#x201d; and &#x201c;9&#x201d; are the best and worst score, respectively.</p>
+<p id="p-0108" num="0107">STR: Stalk rot rating. The rating is based on a 1 to 9 scale of severity in which &#x201c;1&#x201d; indicates &#x201c;25% of inoculated internode rotted&#x201d; and &#x201c;9&#x201d; indicates &#x201c;entire stalk rotted and collapsed.&#x201d;</p>
+<p id="p-0109" num="0108">SVC: Southeastern Virus Complex (combination of Maize Chlorotic Dwarf Virus and Maize Dwarf Mosaic Virus) rating. The numerical rating is based on a 1 to 9 scale of severity in which &#x201c;1&#x201d; indicates &#x201c;most resistant&#x201d; and &#x201c;9&#x201d; indicates &#x201c;most susceptible.&#x201d;</p>
+<p id="p-0110" num="0109">Tassel-Anther Color: The color of the anthers at 50% pollen shed, which is scored as green-yellow, yellow, pink, red, or purple.</p>
+<p id="p-0111" num="0110">Tassel-Attitude: The attitude of the tassel after pollination, which is scored as open or compact.</p>
+<p id="p-0112" num="0111">Tassel-Branch Angle: The angle of an average tassel branch to the main stem of the tassel, which is scored as upright (less than 30 degrees), intermediate (30 to 45 degrees), or lax (greater than 45 degrees).</p>
+<p id="p-0113" num="0112">Tassel-Branch Number: The average number of primary tassel branches.</p>
+<p id="p-0114" num="0113">Tassel-Glume Band: The closed anthocyanin band at the base of the glume, which is scored as present or absent.</p>
+<p id="p-0115" num="0114">Tassel-Glume Color: The color of the glumes at 50% shed, which is scored as green, red, or purple.</p>
+<p id="p-0116" num="0115">Tassel-Length: The length of the tassel, which is measured from the base of the bottom tassel branch to the tassel tip.</p>
+<p id="p-0117" num="0116">Tassel-Peduncle Length: The average length of the tassel peduncle, which is measured from the base of the flag leaf to the base of the bottom tassel branch.</p>
+<p id="p-0118" num="0117">Tassel-Pollen Shed: A visual rating of pollen shed that is determined by tapping the tassel and observing the pollen flow of approximately five plants per entry. The rating is based on a 1 to 9 scale in which &#x201c;9&#x201d; indicates &#x201c;sterile&#x201d; and &#x201c;1&#x201d; indicates &#x201c;most pollen.&#x201d;</p>
+<p id="p-0119" num="0118">Tassel-Spike Length: The length of the spike, which is measured from the base of the top tassel branch to the tassel tip.</p>
+<p id="p-0120" num="0119">Test Weight: Weight of the grain in pounds for a given volume (bushel) adjusted to 15.5% moisture.</p>
+<p id="p-0121" num="0120">Yield: Yield of grain at harvest adjusted to 15.5% moisture.</p>
+<heading id="h-0007" level="1">Other Definitions</heading>
+<p id="p-0122" num="0121">Allele: Any of one or more alternative forms of a gene locus, all of which relate to one trait or characteristic. In a diploid cell or organism, the two alleles of a given gene occupy corresponding loci on a pair of homologous chromosomes.</p>
+<p id="p-0123" num="0122">Backcrossing: A process in which a breeder repeatedly crosses hybrid progeny back to one of the parents, for example, a first generation hybrid (F<sub>1</sub>) with one of the parental genotypes of the F<sub>1 </sub>hybrid.</p>
+<p id="p-0124" num="0123">Crossing: The pollination of a female flower of a corn plant, thereby resulting in the production of seed from the flower.</p>
+<p id="p-0125" num="0124">Cross-pollination: Fertilization by the union of two gametes from different plants.</p>
+<p id="p-0126" num="0125">Diploid: A cell or organism having two sets of chromosomes.</p>
+<p id="p-0127" num="0126">Emasculate: The removal of plant male sex organs or the inactivation of the organs with a chemical agent or a cytoplasmic or nuclear genetic factor conferring male sterility.</p>
+<p id="p-0128" num="0127">F<sub>1 </sub>Hybrid: The first generation progeny of the cross of two plants.</p>
+<p id="p-0129" num="0128">Genetic Complement: An aggregate of nucleotide sequences, the expression of which sequences defines the phenotype in corn plants, or components of plants including cells or tissue.</p>
+<p id="p-0130" num="0129">Genomic Selection (GS) or Genome-wide selection (GWS): a use of genome-wide genotypic data to predict genomic estimated breeding values (GEBV) for selection purposes in breeding process.</p>
+<p id="p-0131" num="0130">Genotype: The genetic constitution of a cell or organism.</p>
+<p id="p-0132" num="0131">Haploid: A cell or organism having one set of the two sets of chromosomes in a diploid.</p>
+<p id="p-0133" num="0132">Marker: A readily detectable phenotype or genotype, preferably inherited in codominant fashion (both alleles at a locus in a diploid heterozygote are readily detectable), with no environmental variance component, i.e., heritability of 1.</p>
+<p id="p-0134" num="0133">Marker assisted breeding or marker assisted selection (MAS): A process of selecting a desired trait or desired traits in a plant or plants by detecting one or more markers from the plant, where the marker is associated with the desired trait.</p>
+<p id="p-0135" num="0134">Phenotype: The detectable characteristics of a cell or organism, which characteristics are the manifestation of gene expression.</p>
+<p id="p-0136" num="0135">Quantitative Trait Loci (QTL): Genetic loci that contribute, at least in part, to certain numerically representable traits that are usually continuously distributed.</p>
+<p id="p-0137" num="0136">Regeneration: The development of a plant from tissue culture.</p>
+<p id="p-0138" num="0137">Self-pollination: The transfer of pollen from the anther to the stigma of the same plant.</p>
+<p id="p-0139" num="0138">Single Locus Converted (Conversion) Plant: Plants which are developed by a plant breeding technique called backcrossing or by genome editing of a locus, wherein essentially all of the morphological and physiological characteristics of an inbred are recovered in addition to the characteristics conferred by the single locus transferred into the inbred via the backcrossing or genome editing technique. A single locus may comprise one gene, or in the case of transgenic plants, one or more transgenes integrated into the host genome at a single site (locus).</p>
+<p id="p-0140" num="0139">Tissue Culture: A composition comprising isolated cells of the same or a different type or a collection of such cells organized into parts of a plant.</p>
+<p id="p-0141" num="0140">Three-way cross hybrid: A hybrid plant produced by crossing a first inbred plant with the F<sub>1 </sub>hybrid progeny derived from crossing a second inbred plant with a third inbred plant.</p>
+<p id="p-0142" num="0141">Transgene: A genetic sequence which has been introduced into the nuclear or cytoplasmic components of the genome of a corn plant by a genetic transformation technique.</p>
+<heading id="h-0008" level="1">Variety Descriptions</heading>
+<p id="p-0143" num="0142">In accordance with one aspect of the present invention, there is provided a novel hybrid corn plant variety designated CH011227. Hybrid variety CH011227 was produced from a cross of the inbred varieties designated CV691449 and CV526813. The inbred parents have been self-pollinated and ear-rowed a sufficient number of generations with careful attention paid to uniformity of plant type to show uniformity and stability within the limits of environmental influence.</p>
+<p id="p-0144" num="0143">In accordance with one aspect of the invention, there is provided a corn plant having the physiological and morphological characteristics of corn plant CH011227. An analysis of such morphological traits was carried out, the results of which are presented in Table 1.</p>
+<p id="p-0145" num="0144">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Morphological Traits for Hybrid Variety CH011227</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="14pt" align="center"/>
+<colspec colname="2" colwidth="98pt" align="center"/>
+<colspec colname="3" colwidth="105pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>CHARACTERISTIC</entry>
+<entry>VALUE</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="70pt" align="left"/>
+<colspec colname="3" colwidth="105pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>STALK</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Plant Height (cm)</entry>
+<entry>317.6&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Ear Height (cm)</entry>
+<entry>128.3&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Anthocyanin</entry>
+<entry>Absent</entry>
+</row>
+<row>
+<entry/>
+<entry>Brace Root Color</entry>
+<entry>Faint</entry>
+</row>
+<row>
+<entry/>
+<entry>Internode Direction</entry>
+<entry>Straight</entry>
+</row>
+<row>
+<entry/>
+<entry>Internode Length (cm)</entry>
+<entry>19.5</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>LEAF</entry>
+</row>
+<row>
+<entry/>
+<entry>Color</entry>
+<entry>Dark Green</entry>
+</row>
+<row>
+<entry/>
+<entry>Length (cm)</entry>
+<entry>100.1&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Width (cm)</entry>
+<entry>&#x2002;9.7</entry>
+</row>
+<row>
+<entry/>
+<entry>Sheath Anthocyanin</entry>
+<entry>Absent</entry>
+</row>
+<row>
+<entry/>
+<entry>Sheath Pubescence</entry>
+<entry>Medium</entry>
+</row>
+<row>
+<entry/>
+<entry>Marginal Waves</entry>
+<entry>Moderate</entry>
+</row>
+<row>
+<entry/>
+<entry>Longitudinal Creases</entry>
+<entry>Few</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>TASSEL</entry>
+</row>
+<row>
+<entry/>
+<entry>Length (cm)</entry>
+<entry>46.9</entry>
+</row>
+<row>
+<entry/>
+<entry>Peduncle Length (cm)</entry>
+<entry>11.4</entry>
+</row>
+<row>
+<entry/>
+<entry>Branch Number</entry>
+<entry>8&#x2009;</entry>
+</row>
+<row>
+<entry/>
+<entry>Anther Color</entry>
+<entry>Yellow</entry>
+</row>
+<row>
+<entry/>
+<entry>Glume Color</entry>
+<entry>Green &#x26; Medium Green</entry>
+</row>
+<row>
+<entry/>
+<entry>Glume Band</entry>
+<entry>Absent</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>EAR</entry>
+</row>
+<row>
+<entry/>
+<entry>Silk Color</entry>
+<entry>Yellow</entry>
+</row>
+<row>
+<entry/>
+<entry>Number Per Stalk</entry>
+<entry>1&#x2009;</entry>
+</row>
+<row>
+<entry/>
+<entry>Position</entry>
+<entry>Pendent</entry>
+</row>
+<row>
+<entry/>
+<entry>Length (cm)</entry>
+<entry>18.2</entry>
+</row>
+<row>
+<entry/>
+<entry>Shape</entry>
+<entry>Semi-Conical</entry>
+</row>
+<row>
+<entry/>
+<entry>Diameter (cm)</entry>
+<entry>&#x2002;4.8</entry>
+</row>
+<row>
+<entry/>
+<entry>Shank Length (cm)</entry>
+<entry>&#x2002;8.4</entry>
+</row>
+<row>
+<entry/>
+<entry>Husk Bract</entry>
+<entry>Short</entry>
+</row>
+<row>
+<entry/>
+<entry>Husk Cover (cm)</entry>
+<entry>&#x2002;2.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Husk Opening</entry>
+<entry>Tight</entry>
+</row>
+<row>
+<entry/>
+<entry>Husk Color Fresh</entry>
+<entry>Green &#x26; Medium Green</entry>
+</row>
+<row>
+<entry/>
+<entry>Husk Color Dry</entry>
+<entry>Buff</entry>
+</row>
+<row>
+<entry/>
+<entry>Cob Diameter (cm)</entry>
+<entry>&#x2002;2.6</entry>
+</row>
+<row>
+<entry/>
+<entry>Cob Color</entry>
+<entry>Red</entry>
+</row>
+<row>
+<entry/>
+<entry>Shelling Percent</entry>
+<entry>90.8</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>KERNEL</entry>
+</row>
+<row>
+<entry/>
+<entry>Row Number</entry>
+<entry>16&#x2002;&#x2009;</entry>
+</row>
+<row>
+<entry/>
+<entry>Number Per Row</entry>
+<entry>32.6</entry>
+</row>
+<row>
+<entry/>
+<entry>Row Direction</entry>
+<entry>Slightly Curved</entry>
+</row>
+<row>
+<entry/>
+<entry>Type</entry>
+<entry>Intermediate</entry>
+</row>
+<row>
+<entry/>
+<entry>Cap Color</entry>
+<entry>Yellow - Orange</entry>
+</row>
+<row>
+<entry/>
+<entry>Side Color</entry>
+<entry>Deep Yellow</entry>
+</row>
+<row>
+<entry/>
+<entry>Length (depth) (mm)</entry>
+<entry>13.4</entry>
+</row>
+<row>
+<entry/>
+<entry>Width (mm)</entry>
+<entry>&#x2002;8.8</entry>
+</row>
+<row>
+<entry/>
+<entry>Thickness (mm)</entry>
+<entry>&#x2002;4.6</entry>
+</row>
+<row>
+<entry/>
+<entry>Endosperm Type</entry>
+<entry>Normal</entry>
+</row>
+<row>
+<entry/>
+<entry>Endosperm Color</entry>
+<entry>Yellow</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00001">*These are typical values. Values may vary due to environment. Other values that are substantially equivalent are within the scope of the invention. Substantially equivalent refers to quantitative traits that when compared do not show statistical differences of their means.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0146" num="0145">In accordance with another aspect of the present invention, there is provided a corn plant having the morphological characteristics of corn plant CV526813. A description of the morphological and physiological characteristics of corn plant CV526813 is presented in Table 2.</p>
+<p id="p-0147" num="0146">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Morphological and Physiological</entry>
+</row>
+<row>
+<entry>Traits for Corn Variety CV526813</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="14pt" align="center"/>
+<colspec colname="2" colwidth="98pt" align="center"/>
+<colspec colname="3" colwidth="105pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>CHARACTERISTIC</entry>
+<entry>VALUE</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="70pt" align="left"/>
+<colspec colname="3" colwidth="105pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>STALK</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Plant Height (cm)</entry>
+<entry>225.9&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Ear Height (cm)</entry>
+<entry>100.3&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Anthocyanin</entry>
+<entry>Basal Weak</entry>
+</row>
+<row>
+<entry/>
+<entry>Brace Root Color</entry>
+<entry>Faint</entry>
+</row>
+<row>
+<entry/>
+<entry>Internode Direction</entry>
+<entry>Straight</entry>
+</row>
+<row>
+<entry/>
+<entry>Internode Length (cm)</entry>
+<entry>14&#x2002;&#x2009;</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>LEAF</entry>
+</row>
+<row>
+<entry/>
+<entry>Color</entry>
+<entry>Green &#x26; Medium Green</entry>
+</row>
+<row>
+<entry/>
+<entry>Length (cm)</entry>
+<entry>77.4</entry>
+</row>
+<row>
+<entry/>
+<entry>Width (cm)</entry>
+<entry>10.4</entry>
+</row>
+<row>
+<entry/>
+<entry>Sheath Anthocyanin</entry>
+<entry>Absent</entry>
+</row>
+<row>
+<entry/>
+<entry>Sheath Pubescence</entry>
+<entry>Light</entry>
+</row>
+<row>
+<entry/>
+<entry>Marginal Waves</entry>
+<entry>Few</entry>
+</row>
+<row>
+<entry/>
+<entry>Longitudinal Creases</entry>
+<entry>Few</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>TASSEL</entry>
+</row>
+<row>
+<entry/>
+<entry>Length (cm)</entry>
+<entry>37.4</entry>
+</row>
+<row>
+<entry/>
+<entry>Peduncle Length (cm)</entry>
+<entry>&#x2002;4.3</entry>
+</row>
+<row>
+<entry/>
+<entry>Branch Number</entry>
+<entry>12.7</entry>
+</row>
+<row>
+<entry/>
+<entry>Anther Color</entry>
+<entry>Yellow</entry>
+</row>
+<row>
+<entry/>
+<entry>Glume Color</entry>
+<entry>Green &#x26; Medium Green</entry>
+</row>
+<row>
+<entry/>
+<entry>Glume Band</entry>
+<entry>Absent</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>EAR</entry>
+</row>
+<row>
+<entry/>
+<entry>Silk Color</entry>
+<entry>Green - Yellow</entry>
+</row>
+<row>
+<entry/>
+<entry>Number Per Stalk</entry>
+<entry>2&#x2009;</entry>
+</row>
+<row>
+<entry/>
+<entry>Position</entry>
+<entry>Upright</entry>
+</row>
+<row>
+<entry/>
+<entry>Length (cm)</entry>
+<entry>18&#x2002;&#x2009;</entry>
+</row>
+<row>
+<entry/>
+<entry>Shape</entry>
+<entry>Semi-Conical</entry>
+</row>
+<row>
+<entry/>
+<entry>Diameter (cm)</entry>
+<entry>&#x2002;4.4</entry>
+</row>
+<row>
+<entry/>
+<entry>Shank Length (cm)</entry>
+<entry>&#x2002;8.6</entry>
+</row>
+<row>
+<entry/>
+<entry>Husk Bract</entry>
+<entry>Short</entry>
+</row>
+<row>
+<entry/>
+<entry>Husk Cover (cm)</entry>
+<entry>&#x2002;4.6</entry>
+</row>
+<row>
+<entry/>
+<entry>Husk Opening</entry>
+<entry>Tight</entry>
+</row>
+<row>
+<entry/>
+<entry>Husk Color Fresh</entry>
+<entry>Green &#x26; Medium Green</entry>
+</row>
+<row>
+<entry/>
+<entry>Husk Color Dry</entry>
+<entry>Buff</entry>
+</row>
+<row>
+<entry/>
+<entry>Cob Diameter (cm)</entry>
+<entry>&#x2002;2.8</entry>
+</row>
+<row>
+<entry/>
+<entry>Cob Color</entry>
+<entry>Red</entry>
+</row>
+<row>
+<entry/>
+<entry>Shelling Percent</entry>
+<entry>84.5</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>KERNEL</entry>
+</row>
+<row>
+<entry/>
+<entry>Row Number</entry>
+<entry>15.5</entry>
+</row>
+<row>
+<entry/>
+<entry>Number Per Row</entry>
+<entry>32.3</entry>
+</row>
+<row>
+<entry/>
+<entry>Row Direction</entry>
+<entry>Slightly Curved</entry>
+</row>
+<row>
+<entry/>
+<entry>Type</entry>
+<entry>Intermediate</entry>
+</row>
+<row>
+<entry/>
+<entry>Cap Color</entry>
+<entry>Yellow - Orange</entry>
+</row>
+<row>
+<entry/>
+<entry>Side Color</entry>
+<entry>Orange</entry>
+</row>
+<row>
+<entry/>
+<entry>Length (depth) (mm)</entry>
+<entry>10.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Width (mm)</entry>
+<entry>&#x2002;8.7</entry>
+</row>
+<row>
+<entry/>
+<entry>Thickness (mm)</entry>
+<entry>&#x2002;5.4</entry>
+</row>
+<row>
+<entry/>
+<entry>Endosperm Type</entry>
+<entry>Normal</entry>
+</row>
+<row>
+<entry/>
+<entry>Endosperm Color</entry>
+<entry>Orange</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00002">*These are typical values. Values may vary due to environment. Other values that are substantially equivalent are within the scope of the invention. Substantially equivalent refers to quantitative traits that when compared do not show statistical differences of their means.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+<br/>
+Deposit Information
+</p>
+<p id="p-0148" num="0147">A deposit of at least 625 seeds of inbred parent plant varieties CV691449 (U.S. Pat. No. 10,542,705) and CV526813 (U.S. patent application Ser. No. 17/517,029, filed Nov. 2, 2021) has been made with either the American Type Culture Collection (ATCC), 10801 University Boulevard, Manassas, Va. 20110-2209 USA, or the Provasoli-Guillard National Center for Marine Algae and Microbiota (NCMA) at Bigelow Laboratory for Ocean Sciences, 60 Bigelow Drive, East Boothbay, ME 04544 USA, and assigned ATCC Accession No. PTA-125240 and NCMA Accession No. 202106040, respectively. The dates of deposit with the specific International Depositary Authority are Sep. 20, 2018 and Jun. 8, 2021, respectively. All restrictions upon the deposits have been removed, and the deposits are intended to meet all of the requirements of the Budapest Treaty and 37 C.F.R. &#xa7; 1.801-1.809. Access to the deposits will be available during the pendency of the application to the Commissioner of Patents and Trademarks and persons determined by the Commissioner to be entitled thereto upon request. The deposits have been accepted under the Budapest Treaty and will be maintained in the specific Depository, which is a public depository, for a period of 30 years, or 5 years after the most recent request, or for the enforceable life of the patent, whichever is longer, and will be replaced if it becomes nonviable during that period. Applicant does not waive any infringement of their rights granted under this patent or under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.).</p>
+<heading id="h-0009" level="1">Further Embodiments of the Invention</heading>
+<p id="p-0149" num="0148">In one embodiment, compositions are provided comprising a seed of corn variety CH011227 comprised in plant seed cultivation media. Plant seed cultivation media are well known to those of skill in the art and include, but are in no way limited to, soil or synthetic cultivation medium. Plant seed cultivation media can provide adequate physical support for seeds and can retain moisture and/or nutritional components. Examples of characteristics for soils that may be desirable in certain embodiments can be found, for instance, in U.S. Pat. Nos. 3,932,166 and 4,707,176. Synthetic plant cultivation media are also well known in the art and may, in certain embodiments, comprise polymers or hydrogels. Examples of such compositions are described, for example, in U.S. Pat. No. 4,241,537.</p>
+<p id="p-0150" num="0149">In certain further aspects, the invention provides plants modified to include at least a first trait. Such plants may, in one embodiment, be developed by a plant breeding technique called backcrossing, wherein essentially all of the morphological and physiological characteristics of a variety are recovered in addition to a genetic locus transferred into the hybrid via the backcrossing technique. By essentially all of the morphological and physiological characteristics, it is meant that all of the characteristics of a plant are recovered that are otherwise present when compared in the same environment, other than an occasional variant trait that might arise during backcrossing or direct introduction of a transgene. In one embodiment, such traits may be determined, for example, relative to the traits listed in Table 1 as determined at the 5% significance level when grown under the same environmental conditions.</p>
+<p id="p-0151" num="0150">Backcrossing methods can be used with the present invention to improve or introduce a trait in a hybrid via modification of its inbred parent(s). The term backcrossing as used herein refers to the repeated crossing of a hybrid progeny back to one of the parental corn plants for that hybrid. The parental corn plant which contributes the locus or loci for the trait is termed the nonrecurrent or donor parent. This terminology refers to the fact that the nonrecurrent parent is used one time in the backcross protocol and therefore does not recur.</p>
+<p id="p-0152" num="0151">The parental corn plant to which the locus or loci from the nonrecurrent parent are transferred is known as the recurrent parent as it is used for several rounds in the backcrossing protocol. In a typical backcross protocol, the original parent hybrid of interest (recurrent parent) is crossed to a second variety (nonrecurrent parent) that carries the genetic locus of interest to be transferred. The resulting progeny from this cross are then crossed again to the recurrent parent and the process is repeated until a corn plant is obtained wherein essentially all of the morphological and physiological characteristics of the recurrent parent are recovered in the converted plant, in addition to the transferred locus from the nonrecurrent parent. The backcross process may be accelerated by the use of genetic markers, such as SSR, RFLP, SNP or AFLP markers to identify plants with the greatest genetic complement from the recurrent parent.</p>
+<p id="p-0153" num="0152">The selection of a suitable recurrent parent is an important step for a successful backcrossing procedure. The goal of a backcross protocol is to add or substitute one or more new traits in the original inbred and hybrid progeny therefrom. To accomplish this, a genetic locus of the recurrent parent is modified or substituted with the locus from the nonrecurrent parent, while retaining essentially all of the rest of the genetic complement, and therefore the morphological and physiological constitution of the original plant. The choice of the particular nonrecurrent parent will depend on the purpose of the backcross; one of the major purposes is to add some commercially desirable, agronomically important trait to the plant. The exact backcrossing protocol will depend on the characteristic or trait being altered to determine an appropriate testing protocol. Although backcrossing methods are simplified when the characteristic being transferred is a dominant allele, a recessive allele may also be transferred. In this instance it may be necessary to introduce a test of the progeny to determine if the characteristic has been successfully transferred.</p>
+<p id="p-0154" num="0153">Many traits have been identified that are not regularly selected for in the development of a new variety but that can be improved by backcrossing techniques. A genetic locus conferring the traits may or may not be transgenic. Examples of such traits known to those of skill in the art include, but are not limited to, male sterility, waxy starch, herbicide resistance, resistance to bacterial, fungal, or viral disease, insect resistance, male fertility and enhanced nutritional quality. These genes are generally inherited through the nucleus, but may be inherited through the cytoplasm. Some known exceptions to this are genes for male sterility, some of which are inherited cytoplasmically, but still act as a single locus trait.</p>
+<p id="p-0155" num="0154">Direct selection may be applied when a genetic locus acts as a dominant trait. An example of a dominant trait is the herbicide resistance trait. For this selection process, the progeny of the initial cross are sprayed with the herbicide prior to the backcrossing. The spraying eliminates any plants which do not have the herbicide resistance characteristic, and only those plants which have the herbicide resistance gene are used in the subsequent backcross. This process is then repeated for all additional backcross generations.</p>
+<p id="p-0156" num="0155">Many useful traits are those which are introduced by genetic transformation techniques. Methods for the genetic transformation of corn are known to those of skill in the art. For example, methods which have been described for the genetic transformation of corn include electroporation (U.S. Pat. No. 5,384,253), electrotransformation (U.S. Pat. No. 5,371,003), microprojectile bombardment (U.S. Pat. Nos. 5,550,318, 5,736,369 and 5,538,880; and PCT Publication WO 95/06128), <i>Agrobacterium</i>-mediated transformation (U.S. Pat. No. 5,591,616 and European Patent Application Publication No. EP0672752), direct DNA uptake transformation of protoplasts and silicon carbide fiber-mediated transformation (U.S. Pat. Nos. 5,302,532 and 5,464,765).</p>
+<p id="p-0157" num="0156">Included among various plant transformation techniques are methods permitting the site-specific modification of a plant genome. These modifications can include, but are not limited to, site-specific mutations, deletions, insertions, and replacements of nucleotides. These modifications can be made anywhere within the genome of a plant, for example, in genomic elements, including, among others, coding sequences, regulatory elements, and non-coding DNA sequences. Any number of such modifications can be made and that number of modifications may be made in any order or combination, for example, simultaneously all together or one after another. Such methods may be used to modify a particular trait conferred by a locus. The techniques for making such modifications by genome editing are well known in the art and include, for example, use of CRISPR-Cas systems, zinc-finger nucleases (ZFNs), and transcription activator-like effector nucleases (TALENs), among others. A site-specific nuclease provided herein may be selected from the group consisting of a zinc-finger nuclease (ZFN), a meganuclease, an RNA-guided endonuclease, a TALE-endonuclease (TALEN), a recombinase, a transposase, or any combination thereof. See, e.g., Khandagale, K. et al., &#x201c;Genome editing for targeted improvement in plants,&#x201d; Plant Biotechnol Rep 10: 327-343 (2016); and Gaj, T. et al., &#x201c;ZFN, TALEN and CRISPR/Cas-based methods for genome engineering,&#x201d; Trends Biotechnol. 31(7): 397-405 (2013), the contents and disclosures of which are incorporated herein by reference. A recombinase may be a serine recombinase attached to a DNA recognition motif, a tyrosine recombinase attached to a DNA recognition motif or other recombinase enzyme known in the art. A recombinase or transposase may be a DNA transposase or recombinase attached to a DNA binding domain. A tyrosine recombinase attached to a DNA recognition motif may be selected from the group consisting of a Cre recombinase, a Flp recombinase, and a Tnp1 recombinase. According to some embodiments, a Cre recombinase or a Gin recombinase provided herein is tethered to a zinc-finger DNA binding domain. In another embodiment, a serine recombinase attached to a DNA recognition motif provided herein is selected from the group consisting of a PhiC31 integrase, an R4 integrase, and a TP-901 integrase. In another embodiment, a DNA transposase attached to a DNA binding domain provided herein is selected from the group consisting of a TALE-piggyBac and TALE-Mutator. An RNA-guided endonuclease may be selected from the group consisting of Cas1, Cas1B, Cas2, Cas3, Cas4, Cas5, Cas6, Cas7, Cas8, Cas9 (also known as Csn1 and Csx12), Cas10, Csy1, Csy2, Csy3, Cse1, Cse2, Csc1, Csc2, Csa5, Csn2, Csm2, Csm3, Csm4, Csm5, Csm6, Cmr1, Cmr3, Cmr4, Cmr5, Cmr6, Csb1, Csb2, Csb3, Csx17, Csx14, Csx10, Csx16, CsaX, Csx3, Csx1, Csx15, Csf1, Csf2, Csf3, Csf4, Cpf1, CasX, CasY, and homologs or modified versions thereof, Argonaute (non-limiting examples of Argonaute proteins include <i>Thermus thermophilus </i>Argonaute (TtAgo), <i>Pyrococcus furiosus </i>Argonaute (PfAgo), Natronobacterium gregoryi Argonaute (NgAgo) and homologs or modified versions thereof. According to some embodiments, an RNA-guided endonuclease may be a Cas9 or Cpf1 enzyme. For example, the CRISPR/Cas9 system allows targeted cleavage of genomic sequences guided by a small noncoding RNA in plants (WO 2015026883A1). As another example, Cpf1(Cas12a) acts as an endoribonuclease to process crRNA and an endodeoxyribonuclease to cleave targeted genomic sequences. The CRISPR/Cpf1 system enables gene deletion, insertion, base editing, and locus tagging in monocot and dicot plants (Alok et al., Frontiers in Plant Science, 31 Mar. 2020). One of ordinary skill in the art of plant breeding would know how to modify plant genomes using a method including but not limited to the techniques described herein.</p>
+<p id="p-0158" num="0157">It is understood to those of skill in the art that a transgene or a modified native gene need not be directly transformed into a plant, as techniques for the production of stably transformed corn plants that pass single loci to progeny by Mendelian inheritance is well known in the art. Such loci may therefore be passed from parent plant to progeny plants by standard plant breeding techniques that are well known in the art.</p>
+<p id="h-0010" num="0000">A. Male Sterility</p>
+<p id="p-0159" num="0158">Examples of genes conferring male sterility include those disclosed in U.S. Pat. Nos. 3,861,709, 3,710,511, 4,654,465, 5,625,132, and 4,727,219, each of the disclosures of which are specifically incorporated herein by reference in their entirety. Male sterility genes can increase the efficiency with which hybrids are made, in that they eliminate the need to physically emasculate the corn plant used as a female in a given cross.</p>
+<p id="p-0160" num="0159">When one desires to employ male-sterility systems with a corn plant in accordance with the invention, it may be beneficial to also utilize one or more male-fertility restorer genes. For example, when cytoplasmic male sterility (CMS) is used, hybrid seed production requires three inbred lines: (1) a cytoplasmically male-sterile line having a CMS cytoplasm; (2) a fertile inbred with normal cytoplasm, which is isogenic with the CMS line for nuclear genes (&#x201c;maintainer line&#x201d;); and (3) a distinct, fertile inbred with normal cytoplasm, carrying a fertility restoring gene (&#x201c;restorer&#x201d; line). The CMS line is propagated by pollination with the maintainer line, with all of the progeny being male sterile, as the CMS cytoplasm is derived from the female parent. These male sterile plants can then be efficiently employed as the female parent in hybrid crosses with the restorer line, without the need for physical emasculation of the male reproductive parts of the female parent.</p>
+<p id="p-0161" num="0160">The presence of a male-fertility restorer gene results in the production of fully fertile F<sub>1 </sub>hybrid progeny. If no restorer gene is present in the male parent, male-sterile hybrids are obtained. Such hybrids are useful when the vegetative tissue of the corn plant is utilized, e.g., for silage, but in most cases, the seeds will be deemed the most valuable portion of the crop, so fertility of the hybrids in these crops must be restored. Therefore, one aspect of the current invention concerns the hybrid corn plant CH011227 comprising a genetic locus capable of restoring male fertility in an otherwise male-sterile plant. Examples of male-sterility genes and corresponding restorers which could be employed with the plants of the invention are well known to those of skill in the art of plant breeding and are disclosed in, for instance, U.S. Pat. Nos. 5,530,191; 5,689,041; 5,741,684; and 5,684,242, the disclosures of which are each specifically incorporated herein by reference in their entirety.</p>
+<p id="h-0011" num="0000">B. Herbicide Resistance</p>
+<p id="p-0162" num="0161">Numerous herbicide resistance genes are known and may be employed with the invention. A non-limiting example is a gene conferring resistance to a herbicide that inhibits the growing point or meristem such as imidazolinone or sulfonylurea herbicides. As imidazolinone and sulfonylurea herbicides are acetolactate synthase (ALS)-inhibiting herbicides that prevent the formation of branched chain amino acids, exemplary genes in this category code for ALS and AHAS enzymes as described, for example, by Lee et al., <i>EMBO J., </i>7:1241, 1988; Gleen et al., <i>Plant Molec. Biology, </i>18:1185, 1992; and Miki et al., <i>Theor. Appl. Genet., </i>80:449, 1990. As a non-limiting example, a gene may be employed to confer resistance to the exemplary sulfonylurea herbicide nicosulfuron.</p>
+<p id="p-0163" num="0162">Resistance genes for glyphosate (resistance conferred by mutant 5-enolpyruvylshikimate-3-phosphate synthase (EPSPS) and aroA genes, respectively) and other phosphono compounds such as glufosinate (phosphinothricin acetyltransferase (PAT) and <i>Streptomyces hygroscopicus </i>phosphinothricin acetyltransferase (bar) genes) may also be used. See, for example, U.S. Pat. No. 4,940,835 to Shah et al., which discloses the nucleotide sequence of a form of EPSPS that can confer glyphosate resistance. Non-limiting examples of EPSPS transformation events conferring glyphosate resistance are provided by U.S. Pat. Nos. 6,040,497 and 7,632,985. The MON89788 event disclosed in U.S. Pat. No. 7,632,985 in particular is beneficial in conferring glyphosate tolerance in combination with an increase in average yield relative to prior events</p>
+<p id="p-0164" num="0163">A DNA molecule encoding a mutant aroA gene can be obtained under ATCC Accession No. 39256, and the nucleotide sequence of the mutant gene is disclosed in U.S. Pat. No. 4,769,061 to Comai. A hygromycin B phosphotransferase gene from <i>E. coli </i>that confers resistance to glyphosate in tobacco callus and plants is described in Penaloza-Vazquez et al., <i>Plant Cell Reports, </i>14:482, 1995. European Patent Application Publication No. EP0333033 to Kumada et al., and U.S. Pat. No. 4,975,374 to Goodman et al., disclose nucleotide sequences of glutamine synthetase genes that confer resistance to herbicides such as L-phosphinothricin. The nucleotide sequence of a phosphinothricin acetyltransferase gene is provided in European Patent Application Publication No. EP0242246 to Leemans et al. DeGreef et al. (<i>Biotechnology, </i>7:61, 1989) describe the production of transgenic plants that express chimeric bar genes coding for phosphinothricin acetyl transferase activity. Exemplary genes conferring resistance to a phenoxy class herbicide haloxyfop and a cyclohexanedione class herbicide sethoxydim are the Acct-S1, Acct-S2 and Acct-S3 genes described by Marshall et al., (<i>Theor. Appl. Genet., </i>83:435, 1992). As a non-limiting example, a gene may confer resistance to other exemplary phenoxy class herbicides that include, but are not limited to, quizalofop-p-ethyl and 2,4-dichlorophenoxyacetic acid (2,4-D).</p>
+<p id="p-0165" num="0164">Genes are also known that confer resistance to herbicides that inhibit photosynthesis such as, for example, triazine herbicides (psbA and gs+ genes) and benzonitrile herbicides (nitrilase gene). As a non-limiting example, a gene may confer resistance to the exemplary benzonitrile herbicide bromoxynil. Przibila et al. (<i>Plant Cell, </i>3:169, 1991) describe the transformation of <i>Chlamydomonas </i>with plasmids encoding mutant psbA genes. Nucleotide sequences for nitrilase genes are disclosed in U.S. Pat. No. 4,810,648 to Stalker, and DNA molecules containing these genes are available under ATCC Accession Nos. 53435, 67441, and 67442. Cloning and expression of DNA coding for a glutathione S-transferase is described by Hayes et al. (<i>Biochem. J., </i>285:173, 1992). 4-hydroxyphenylpyruvate dioxygenase (HPPD) is a target of the HPPD-inhibiting herbicides, which deplete plant plastoquinone and vitamin E pools. Rippert et al. (<i>Plant Physiol., </i>134:92, 2004) describes an HPPD-inhibitor resistant tobacco plant that was transformed with a yeast-derived prephenate dehydrogenase (PDH) gene. Protoporphyrinogen oxidase (PPO) is the target of the PPO-inhibitor class of herbicides; a PPO-inhibitor resistant PPO gene was recently identified in <i>Amaranthus tuberculatus </i>(Patzoldt et al., <i>PNAS, </i>103(33):12329, 2006). The herbicide methyl viologen inhibits CO<sub>2 </sub>assimilation. Foyer et al. (<i>Plant Physiol., </i>109:1047, 1995) describe a plant overexpressing glutathione reductase (GR) that is resistant to methyl viologen treatment.</p>
+<p id="p-0166" num="0165">Siminszky (<i>Phytochemistry Reviews, </i>5:445, 2006) describes plant cytochrome P450-mediated detoxification of multiple, chemically unrelated classes of herbicides. Modified bacterial genes have been successfully demonstrated to confer resistance to atrazine, a herbicide that binds to the plastoquinone-binding membrane protein Q<sub>B </sub>in photosystem II to inhibit electron transport. See, for example, studies by Cheung et al. (<i>PNAS, </i>85:391, 1988), describing tobacco plants expressing the chloroplast psbA gene from an atrazine-resistant biotype of <i>Amaranthus hybridus </i>fused to the regulatory sequences of a nuclear gene, and Wang et al. (<i>Plant Biotech. J., </i>3:475, 2005), describing transgenic alfalfa, <i>Arabidopsis</i>, and tobacco plants expressing the atzA gene from <i>Pseudomonas </i>sp. that were able to detoxify atrazine.</p>
+<p id="p-0167" num="0166">Bayley et al. (<i>Theor. Appl. Genet., </i>83:645, 1992) describe the creation of 2,4-D-resistant transgenic tobacco and cotton plants using the 2,4-D monooxygenase gene tfdA from <i>Alcaligenes eutrophus </i>plasmid pJP5. U.S. Patent Application Publication No. 20030135879 describes the isolation of a gene for dicamba monooxygenase (DMO) from <i>Pseudomonas maltophilia </i>that is involved in the conversion of dicamba to a non-toxic 3,6-dichlorosalicylic acid and thus may be used for producing plants tolerant to this herbicide.</p>
+<p id="p-0168" num="0167">Other examples of herbicide resistance have been described, for instance, in U.S. Pat. Nos. 6,803,501; 6,448,476; 6,248,876; 6,225,114; 6,107,549; 5,866,775; 5,804,425; 5,633,435; 5,463,175.</p>
+<p id="h-0012" num="0000">C. Waxy Starch</p>
+<p id="p-0169" num="0168">The waxy characteristic is an example of a recessive trait. In this example, the progeny resulting from the first backcross generation (BC<sub>1</sub>) must be grown and selfed. A test is then run on the selfed seed from the BC<sub>1 </sub>plant to determine which BC<sub>1 </sub>plants carried the recessive gene for the waxy trait. In other recessive traits additional progeny testing, for example growing additional generations such as the BC<sub>1</sub>F<sub>1</sub>, may be required to determine which plants carry the recessive gene.</p>
+<p id="h-0013" num="0000">D. Disease Resistance</p>
+<p id="p-0170" num="0169">Plant defenses are often activated by specific interaction between the product of a disease resistance gene (R) in the plant and the product of a corresponding avirulence (Avr) gene in the pathogen. A plant line can be transformed with a cloned resistance gene to engineer plants that are resistant to specific pathogen strains. See, for example, Jones et al., <i>Science, </i>266:789, 1994, which describes the cloning of the tomato Cf-9 gene for resistance to <i>Cladosporium fulvum</i>; Martin et al., <i>Science, </i>262:1432, 1993, which describes the tomato Pto gene for resistance to <i>Pseudomonas syringae </i>pv.; and Mindrinos et al., <i>Cell, </i>78:1089, 1994, which describes the <i>Arabidopsis </i>RPS2 gene for resistance to <i>Pseudomonas syringae. </i></p>
+<p id="p-0171" num="0170">A viral-invasive protein or a complex toxin derived therefrom may also be used for viral disease resistance. For example, the accumulation of viral coat proteins in transformed plant cells imparts resistance to viral infection and/or disease development effected by the virus from which the coat protein gene is derived, as well as by related viruses. See Beachy et al., (<i>Annu. Rev. Phytopathol., </i>28:451, 1990). Coat protein-mediated resistance has been conferred upon transformed plants against alfalfa mosaic virus, cucumber mosaic virus, tobacco streak virus, potato virus X, potato virus Y, tobacco etch virus, tobacco rattle virus and tobacco mosaic virus. Id.</p>
+<p id="p-0172" num="0171">A virus-specific antibody may also be used. See, for example, Tavladoraki et al., (<i>Nature, </i>366:469, 1993), who show that transgenic plants expressing recombinant antibody genes are protected from virus attack. Additional means of inducing whole-plant resistance to a pathogen include modulation of the systemic acquired resistance (SAR) or pathogenesis related (PR) genes, for example genes homologous to the <i>Arabidopsis thaliana </i>NIM1/NPR1/SAI1, and/or by increasing salicylic acid production.</p>
+<p id="p-0173" num="0172">Logemann et al., (<i>Biotechnology, </i>10:305, 1992), for example, disclose transgenic plants expressing a barley ribosome-inactivating gene have an increased resistance to fungal disease. Plant defensins may be used to provide resistance to fungal pathogens (Thomma et al., <i>Planta, </i>216:193, 2002). Other examples of fungal disease resistance are provided in U.S. Pat. Nos. 6,653,280; 6,573,361; 6,506,962; 6,316,407; 6,215,048; 5,516,671; 5,773,696; 6,121,436; 6,316,407; and 6,506,962.</p>
+<p id="h-0014" num="0000">E. Insect Resistance</p>
+<p id="p-0174" num="0173">One example of an insect resistance gene includes a <i>Bacillus thuringiensis </i>(Bt) protein, a derivative thereof or a synthetic polypeptide modeled thereon. See, for example, Geiser et al., (<i>Gene, </i>48:109, 1986), who disclose the cloning and nucleotide sequence of a Bt &#x3b4;-endotoxin gene. Moreover, DNA molecules encoding &#x3b4;-endotoxin genes can be purchased from the American Type Culture Collection, Manassas, Virginia, for example, under ATCC Accession Nos. 40098, 67136, 31995 and 31998. Another example is a lectin. See, for example, Van Damme et al., (<i>Plant Molec. Biol., </i>24:825, 1994), who disclose the nucleotide sequences of several <i>Clivia miniata </i>mannose-binding lectin genes. A vitamin-binding protein may also be used, such as avidin. See PCT application US93/06487, the contents of which are hereby incorporated by reference. This application teaches the use of avidin and avidin homologues as larvicides against insect pests.</p>
+<p id="p-0175" num="0174">Yet another insect resistance gene is an enzyme inhibitor, for example, a protease or proteinase inhibitor or an amylase inhibitor. See, for example, Abe et al., (<i>J. Biol. Chem., </i>262:16793, 1987), which describes the nucleotide sequence of rice cysteine proteinase inhibitor, Huub et al., (<i>Plant Molec. Biol., </i>21:985, 1993), which describes the nucleotide sequence of cDNA encoding tobacco proteinase inhibitor I, and Sumitani et al., (<i>Biosci. Biotech. Biochem., </i>57:1243, 1993), which describes the nucleotide sequence of <i>Streptomyces nitrosporeus </i>&#x3b1;-amylase inhibitor).</p>
+<p id="p-0176" num="0175">An insect-specific hormone or pheromone may also be used. See, for example, Hammock et al., (<i>Nature, </i>344:458, 1990), which describes baculovirus expression of cloned juvenile hormone esterase, an inactivator of juvenile hormone, Gade and Goldsworthy (eds.) (<i>Physiological Systems in Insects</i>, Elsevier Academic Press, Burlington, MA, 2007), which describes allostatins and their potential use in pest control; and Palli et al., (<i>Vitam. Horm., </i>73:59, 2005), which describes the use of ecdysteroid and ecdysteroid receptor in agriculture. Additionally, the diuretic hormone receptor (DHR) was identified in Price et al., (<i>Insect Mol. Biol., </i>13:469, 2004) as a candidate target of insecticides.</p>
+<p id="p-0177" num="0176">Still other examples include an insect-specific antibody or an immunotoxin derived therefrom and a developmental-arrestive protein. See Taylor et al., (Seventh Int'l Symposium on Molecular Plant-Microbe Interactions, Edinburgh, Scotland, Abstract W97, 1994), who described enzymatic inactivation in transgenic tobacco via production of single-chain antibody fragments.</p>
+<p id="p-0178" num="0177">Nematode resistance has been described, for example, in U.S. Pat. No. 6,228,992 and bacterial disease resistance in U.S. Pat. No. 5,516,671.</p>
+<p id="h-0015" num="0000">F. Modified Fatty Acid, Phytate, and Carbohydrate Metabolism</p>
+<p id="p-0179" num="0178">Genes may be used conferring modified fatty acid metabolism. For example, stearyl-ACP desaturase genes may be used. See Knutzon et al., (<i>Proc. Natl. Acad. Sci. USA, </i>89:2624, 1992). Various fatty acid desaturases have also been described, such as a <i>Saccharomyces cerevisiae </i>OLE1 gene encoding &#x394;9 fatty acid desaturase, an enzyme which forms the monounsaturated palmitoleic (16:1) and oleic (18:1) fatty acids from palmitoyl (16:0) or stearoyl (18:0) CoA (McDonough et al., <i>J. Biol. Chem., </i>267(9):5931-5936, 1992); a gene encoding a stearoyl-acyl carrier protein delta-9 desaturase from castor (Fox et al., <i>Proc. Natl. Acad. Sci. USA, </i>90:2486, 1993); &#x394;6- and &#x394;12-desaturases from the cyanobacteria <i>Synechocystis </i>responsible for the conversion of linoleic acid (18:2) to gamma-linolenic acid (18:3 gamma) (Reddy et al., <i>Plant Mol. Biol., </i>22:293, 1993); a gene from <i>Arabidopsis thaliana </i>that encodes an omega-3 desaturase (Arondel et al., <i>Science, </i>258:1353, 1992); plant &#x394;9 desaturases (PCT Application Publ. No. WO 91/13972) and soybean and <i>Brassica </i>&#x394;15 desaturases (European Patent Application Publication No. EP0616644).</p>
+<p id="p-0180" num="0179">Phytate metabolism may also be modified by introduction of a phytase-encoding gene to enhance breakdown of phytate, adding more free phosphate to the transformed plant. For example, see Van Hartingsveldt et al., (<i>Gene, </i>127:87, 1993), which discloses the nucleotide sequence of an <i>Aspergillus niger </i>phytase gene. In corn, this, for example, could be accomplished by cloning and then reintroducing DNA associated with the single allele which is responsible for corn mutants characterized by low levels of phytic acid. See Raboy et al., <i>Plant Physiol., </i>124:355, 1990.</p>
+<p id="p-0181" num="0180">A number of genes are known that may be used to alter carbohydrate metabolism. For example, plants may be transformed with a gene coding for an enzyme that alters the branching pattern of starch. See Shiroza et al., (<i>J. Bacteriol., </i>170:810, 1988), which discloses the nucleotide sequence of <i>Streptococcus mutans </i>fructosyltransferase gene, Steinmetz et al., (<i>Mol. Gen. Genet., </i>20:220, 1985), which discloses the nucleotide sequence of <i>Bacillus subtilis </i>levansucrase gene), Pen et al., (<i>Biotechnology, </i>10:292, 1992), which discloses the production of transgenic plants that express <i>Bacillus licheniformis </i>&#x3b1;-amylase, Elliot et al., (<i>Plant Molec. Biol., </i>21:515, 1993), which discloses the nucleotide sequences of tomato invertase genes, S&#xf8;rgaard et al., (<i>J. Biol. Chem., </i>268:22480, 1993), which discloses site-directed mutagenesis of barley &#x3b1;-amylase gene, and Fisher et al., (<i>Plant Physiol., </i>102:1045, 1993) which discloses maize endosperm starch branching enzyme II. The Z10 gene encoding a 10 kD zein storage protein from maize may also be used to alter the quantities of 10 kD zein in the cells relative to other components (Kirihara et al., <i>Gene, </i>71:359, 1988).</p>
+<p id="p-0182" num="0181">U.S. Pat. No. 6,930,225 describes maize cellulose synthase genes and methods of use thereof.</p>
+<p id="h-0016" num="0000">G. Resistance to Abiotic Stress</p>
+<p id="p-0183" num="0182">Abiotic stress includes dehydration or other osmotic stress, salinity, high or low light intensity, high or low temperatures, submergence, exposure to heavy metals, and oxidative stress. Delta-pyrroline-5-carboxylate synthetase (P5CS) from mothbean has been used to provide protection against general osmotic stress. Mannitol-1-phosphate dehydrogenase (mt1D) from <i>E. coli </i>has been used to provide protection against drought and salinity. Choline oxidase (codA from <i>Arthrobactor globiformis</i>) can protect against cold and salt. <i>E. coli </i>choline dehydrogenase (betA) provides protection against salt. Additional protection from cold can be provided by omega-3-fatty acid desaturase (fad7) from <i>Arabidopsis thaliana</i>. Trehalose-6-phosphate synthase and levan sucrase (SacB) from yeast and <i>Bacillus subtilis</i>, respectively, can provide protection against drought (summarized from Annex II Genetic Engineering for Abiotic Stress Tolerance in Plants, Consultative Group On International Agricultural Research Technical Advisory Committee). Overexpression of superoxide dismutase can be used to protect against superoxides, as described in U.S. Pat. No. 5,538,878 to Thomas et al.</p>
+<p id="h-0017" num="0000">H. Additional Traits</p>
+<p id="p-0184" num="0183">Additional traits can be introduced into the corn variety of the present invention. A non-limiting example of such a trait is a coding sequence which decreases RNA and/or protein levels. The decreased RNA and/or protein levels may be achieved through RNAi methods, such as those described in U.S. Pat. No. 6,506,559 to Fire et al.</p>
+<p id="p-0185" num="0184">Another trait that may find use with the corn variety of the invention is a sequence which allows for site-specific recombination. Examples of such sequences include the FRT sequence used with the FLP recombinase; and the LOX sequence used with CRE recombinase. The recombinase genes can be encoded at any location within the genome of the corn plant, and are active in the hemizygous state.</p>
+<p id="p-0186" num="0185">It may also be desirable to make corn plants more tolerant to or more easily transformed with <i>Agrobacterium tumefaciens</i>. Expression of p53 and iap, two baculovirus cell-death suppressor genes, inhibited tissue necrosis and DNA cleavage. Additional targets can include plant-encoded proteins that interact with the <i>Agrobacterium </i>Vir genes; enzymes involved in plant cell wall formation; and histones, histone acetyltransferases and histone deacetylases.</p>
+<p id="p-0187" num="0186">In addition to the modification of oil, fatty acid or phytate content described above, it may additionally be beneficial to modify the amounts or levels of other compounds. For example, the amount or composition of antioxidants can be altered. See, for example, U.S. Pat. Nos. 6,787,618 and 7,154,029 and International Patent Application Publication No. WO 00/68393, which disclose the manipulation of antioxidant levels, and International Patent Application. Publication No. WO 03/082899, which discloses the manipulation of an antioxidant biosynthetic pathway.</p>
+<p id="p-0188" num="0187">Additionally, seed amino acid content may be manipulated. U.S. Pat. No. 5,850,016 and International Patent Application Publication No. WO 99/40209 disclose the alteration of the amino acid compositions of seeds. U.S. Pat. Nos. 6,080,913 and 6,127,600 disclose methods of increasing accumulation of essential amino acids in seeds.</p>
+<p id="p-0189" num="0188">U.S. Pat. No. 5,559,223 describes synthetic storage proteins in which the levels of essential amino acids can be manipulated. International Patent Application Publication No. WO 99/29882 discloses methods for altering amino acid content of proteins. International Patent Application Publication No. WO 98/20133 describes proteins with enhanced levels of essential amino acids. International Patent Application Publication No. WO 98/56935 and U.S. Pat. Nos. 6,346,403, 6,441,274 and 6,664,445 disclose plant amino acid biosynthetic enzymes. International Patent Application Publication No. WO 98/45458 describes synthetic seed proteins having a higher percentage of essential amino acids than wild-type.</p>
+<p id="p-0190" num="0189">U.S. Pat. No. 5,633,436 discloses plants comprising a higher content of sulfur-containing amino acids; U.S. Pat. No. 5,885,801 discloses plants comprising a high threonine content; U.S. Pat. No. 5,885,802 discloses plants comprising a high methionine content; U.S. Pat. No. 5,912,414 discloses plants comprising a high methionine content; U.S. Pat. No. 5,990,389 discloses plants comprising a high lysine content; U.S. Pat. No. 6,459,019 discloses plants comprising an increased lysine and threonine content; International Patent Application Publication No. WO 98/42831 discloses plants comprising a high lysine content; International Patent Application Publication No. WO 96/01905 discloses plants comprising a high threonine content; and International Patent Application Publication No. WO 95/15392 discloses plants comprising a high lysine content.</p>
+<p id="h-0018" num="0000">I. Origin and Breeding History of an Exemplary Introduced Trait</p>
+<p id="p-0191" num="0190">Provided by the invention are a hybrid plant in which one or more of the parents comprise an introduced trait. Such a plant may be defined as comprising a single locus conversion. Exemplary procedures for the preparation of such single locus conversions are disclosed in U.S. Pat. No. 7,205,460, the entire disclosure of which is specifically incorporated herein by reference.</p>
+<p id="p-0192" num="0191">An example of a single locus conversion is 85DGD1. 85DGD1 MLms is a conversion of 85DGD1 to cytoplasmic male sterility. 85DGD1 MLms was derived using backcross methods. 85DGD1 (a proprietary inbred of Monsanto Company) was used as the recurrent parent and MLms, a germplasm source carrying ML cytoplasmic sterility, was used as the nonrecurrent parent. The breeding history of the converted inbred 85DGD1 MLms can be summarized as follows:</p>
+<p id="p-0193" num="0192">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="112pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Hawaii Nurseries</entry>
+<entry>Made up S-O: Female</entry>
+</row>
+<row>
+<entry>Planting Date Apr. 2, 1992</entry>
+<entry>row 585 male row 500</entry>
+</row>
+<row>
+<entry>Hawaii Nurseries</entry>
+<entry>S-O was grown and plants were</entry>
+</row>
+<row>
+<entry>Planting Date Jul. 15, 1992</entry>
+<entry>backcrossed times 85DGD1</entry>
+</row>
+<row>
+<entry/>
+<entry>(rows 444 {acute over (&#x2009;)} 443)</entry>
+</row>
+<row>
+<entry>Hawaii Nurseries</entry>
+<entry>Bulked seed of the BC<sub>1 </sub>was grown</entry>
+</row>
+<row>
+<entry>Planting Date Nov. 18, 1992</entry>
+<entry>and backcrossed times 85DGD1</entry>
+</row>
+<row>
+<entry/>
+<entry>(rows V3-27 {acute over (&#x2009;)} V3-26)</entry>
+</row>
+<row>
+<entry>Hawaii Nurseries</entry>
+<entry>Bulked seed of the BC<sub>2 </sub>was</entry>
+</row>
+<row>
+<entry>Planting Date Apr. 2, 1993</entry>
+<entry>grown and backcrossed</entry>
+</row>
+<row>
+<entry/>
+<entry>times 85DGD1 (rows 37 {acute over (&#x2009;)} 36)</entry>
+</row>
+<row>
+<entry>Hawaii Nurseries</entry>
+<entry>Bulked seed of the BC<sub>3</sub></entry>
+</row>
+<row>
+<entry>Planting Date Jul 14, 1993</entry>
+<entry>was grown and backcrossed</entry>
+</row>
+<row>
+<entry/>
+<entry>times 85DGD1 (rows 99 {acute over (&#x2009;)} 98)</entry>
+</row>
+<row>
+<entry>Hawaii Nurseries</entry>
+<entry>Bulked seed of BC<sub>4 </sub>was grown</entry>
+</row>
+<row>
+<entry>Planting Date Oct. 28, 1993</entry>
+<entry>and backcrossed times 85DGD1</entry>
+</row>
+<row>
+<entry/>
+<entry>(rows KS-63 {acute over (&#x2009;)} KS-62)</entry>
+</row>
+<row>
+<entry>Summer 1994</entry>
+<entry>A single ear of the BC<sub>5 </sub>was grown</entry>
+</row>
+<row>
+<entry/>
+<entry>and backcrossed times 85DGD1</entry>
+</row>
+<row>
+<entry/>
+<entry>(MC94-822 {acute over (&#x2009;)} MC94-822-7)</entry>
+</row>
+<row>
+<entry>Winter 1994</entry>
+<entry>Bulked seed of the BC<sub>6 </sub>was grown</entry>
+</row>
+<row>
+<entry/>
+<entry>and backcrossed times 85DGD1</entry>
+</row>
+<row>
+<entry/>
+<entry>(3Q-1 {acute over (&#x2009;)} 3Q-2)</entry>
+</row>
+<row>
+<entry>Summer 1995</entry>
+<entry>Seed of the BC<sub>7 </sub>was bulked</entry>
+</row>
+<row>
+<entry/>
+<entry>and named 85DGD1 MLms.</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0194" num="0193">As described, techniques for the production of corn plants with added traits are well known in the art. A non-limiting example of such a procedure one of skill in the art could use for preparation of a hybrid corn plant CH011227 comprising an added trait is as follows:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0194">(a) crossing a parent of hybrid corn plant CH011227 such as CV691449 and/or CV526813 to a second (nonrecurrent) corn plant comprising a locus to be converted in the parent;</li>
+        <li id="ul0002-0002" num="0195">(b) selecting at least a first progeny plant resulting from the crossing and comprising the locus;</li>
+        <li id="ul0002-0003" num="0196">(c) crossing the selected progeny to the parent line of corn plant CH011227;</li>
+        <li id="ul0002-0004" num="0197">(d) repeating steps (b) and (c) until a parent line of variety CH011227 is obtained comprising the locus; and</li>
+        <li id="ul0002-0005" num="0198">(e) crossing the converted parent with the second parent to produce hybrid variety CHOI 1227 comprising a trait.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0195" num="0199">Following these steps, essentially any locus may be introduced into hybrid corn variety CH011227. For example, molecular techniques allow introduction of any given locus, without the need for phenotypic screening of progeny during the backcrossing steps.</p>
+<p id="p-0196" num="0200">PCR and Southern hybridization are two examples of molecular techniques that may be used for confirmation of the presence of a given locus and thus conversion of that locus. The techniques are carried out as follows: Seeds of progeny plants are grown and DNA isolated from leaf tissue. Approximately one gram of leaf tissue is lyophilized overnight in 15 ml polypropylene tubes. Freeze-dried tissue is ground to a powder in the tube using a glass rod. Powdered tissue is mixed thoroughly with 3 ml extraction buffer (7.0M urea, 0.35M NaCl, 0.05M Tris-HCl pH 8.0, 0.01M EDTA, 1% sarcosine). Tissue/buffer homogenate is extracted with 3 ml phenol/chloroform. The aqueous phase is separated by centrifugation, and precipitated twice using 1/10 volume of 4.4M ammonium acetate pH 5.2, and an equal volume of isopropanol. The precipitate is washed with 75% ethanol and resuspended in 100-500 &#x3bc;l TE (0.01M Tris-HCl, 0.001M EDTA, pH 8.0). The DNA may then be screened as desired for presence of the locus.</p>
+<p id="p-0197" num="0201">For PCR, 200-1000 ng genomic DNA from the progeny plant being screened is added to a reaction mix containing 10 mM Tris-HCl pH 8.3, 1.5 mM MgCl<sub>2</sub>, 50 mM KCl, 0.1 mg/ml gelatin, 200 &#x3bc;M each dATP, dCTP, dGTP, dTTP, 20% glycerol, 2.5 units Taq DNA polymerase and 0.5 &#x3bc;M each of forward and reverse DNA primers that span a segment of the locus being converted. The reaction is run in a thermal cycling machine 3 minutes at 94 C, 39 repeats of the cycle 1 minute at 94 C, 1 minute at 50 C, 30 seconds at 72 C, followed by 5 minutes at 72 C. Twenty &#x3bc;l of each reaction mix is run on a 3.5% NuSieve gel in TBE buffer (90 mM Tris-borate, 2 mM EDTA) at 50V for two to four hours. The amplified fragment is detected using an agarose gel. Detection of an amplified fragment corresponding to the segment of the locus spanned by the primers indicates the presence of the locus.</p>
+<p id="p-0198" num="0202">For Southern analysis, plant DNA is restricted, separated in an agarose gel and transferred to a Nylon filter in 10&#xd7;SCP (20 SCP: 2M NaCl, 0.6M disodium phosphate, 0.02M disodium EDTA) according to standard methods (Southern, <i>J. Mol. Biol., </i>98:503, 1975). Locus DNA or RNA sequences are labeled, for example, radioactively with <sup>32</sup>P by random priming (Feinberg &#x26; Vogelstein, <i>Anal. Biochem., </i>132(1):6, 1983). Filters are prehybridized in 6&#xd7;SCP, 10% dextran sulfate, 2% sarcosine, and 500 &#x3bc;g/ml denatured salmon sperm DNA. The labeled probe is denatured, hybridized to the filter and washed in 2&#xd7;SCP, 1% SDS at 65&#xb0; C. for 30 minutes and visualized by autoradiography using Kodak XAR5 film. Presence of the locus is indicated by detection of restriction fragments of the appropriate size.</p>
+<heading id="h-0019" level="1">Tissue Cultures and In Vitro Regeneration of Corn Plants</heading>
+<p id="p-0199" num="0203">A further aspect of the invention relates to tissue cultures of the corn plant designated CH011227. As used herein, the term &#x201c;tissue culture&#x201d; indicates a composition comprising isolated cells of the same or a different type or a collection of such cells organized into parts of a plant. Exemplary types of tissue cultures are protoplasts, calli and plant cells that are intact in plants or parts of plants, such as embryos, pollen, flowers, kernels, ears, cobs, leaves, husks, stalks, roots, root tips, anthers, silk, and the like. In one embodiment, the tissue culture comprises embryos, protoplasts, meristematic cells, pollen, leaves or anthers derived from immature tissues of these plant parts. Means for preparing and maintaining plant tissue cultures are well known in the art (U.S. Pat. Nos. 5,538,880 and 5,550,318, each incorporated herein by reference in their entirety). By way of example, a tissue culture comprising organs such as tassels or anthers has been used to produce regenerated plants (U.S. Pat. Nos. 5,445,961 and 5,322,789; the disclosures of which are incorporated herein by reference).</p>
+<p id="p-0200" num="0204">One type of tissue culture is tassel/anther culture. Tassels contain anthers which in turn enclose microspores. Microspores develop into pollen. For anther/microspore culture, if tassels are the plant composition, they can be selected at a stage when the microspores are uninucleate, that is, include only 1, rather than 2 or 3 nuclei. Methods to determine the correct stage are well known to those skilled in the art and include mitramycin fluorescent staining, trypan blue, and acetocarmine squashing. The mid-uninucleate microspore stage has been found to be the developmental stage most responsive to the subsequent methods disclosed to ultimately produce plants.</p>
+<p id="p-0201" num="0205">Although microspore-containing plant organs such as tassels can generally be pretreated at any cold temperature below about 25&#xb0; C., a range of 4&#xb0; C. to 25&#xb0; C. may be preferred, and a range of 8&#xb0; C. to 14&#xb0; C. may be particularly preferred. Although other temperatures yield embryoids and regenerated plants, cold temperatures produce optimum response rates compared to pretreatment at temperatures outside the preferred range. Response rate is measured as either the number of embryoids or the number of regenerated plants per number of microspores initiated in culture. Exemplary methods of microspore culture are disclosed in, for example, U.S. Pat. Nos. 5,322,789 and 5,445,961, the disclosures of which are specifically incorporated herein by reference.</p>
+<p id="p-0202" num="0206">Although not required, when tassels are employed as the plant organ, it is generally beneficial to sterilize their surface. Following surface sterilization of the tassels, for example, with a solution of calcium hypochloride, the anthers are removed from about 70 to 150 spikelets (small portions of the tassels) and placed in a preculture or pretreatment medium. Larger or smaller amounts can be used depending on the number of anthers.</p>
+<p id="p-0203" num="0207">When one elects to employ tassels directly, tassels are generally pretreated at a cold temperature for a predefined time, often at 10&#xb0; C. for about 4 days. After pretreatment of a whole tassel at a cold temperature, dissected anthers are further pretreated in an environment that diverts microspores from their developmental pathway. The function of the preculture medium is to switch the developmental program from one of pollen development to that of embryoid/callus development. An embodiment of such an environment in the form of a preculture medium includes a sugar alcohol, for example mannitol or sorbitol, inositol or the like. An exemplary synergistic combination is the use of mannitol at a temperature of about 10&#xb0; C. for a period ranging from about 10 to 14 days. In one embodiment, 3 ml of 0.3M mannitol combined with 50 mg/l of ascorbic acid, silver nitrate, and colchicine is used for incubation of anthers at 10&#xb0; C. for between 10 and 14 days. Another embodiment is to substitute sorbitol for mannitol. The colchicine produces chromosome doubling at this early stage. The chromosome doubling agent is generally only present at the preculture stage.</p>
+<p id="p-0204" num="0208">It is believed that the mannitol or other similar carbon structures or environmental stress induce starvation and function to force microspores to focus their energies on entering developmental stages. The cells are unable to use, for example, mannitol as a carbon source at this stage. It is believed that these treatments confuse the cells causing them to develop as embryoids and plants from microspores. Dramatic increases in development from these haploid cells, as high as 25 embryoids in 10<sup>4 </sup>microspores, have resulted from using these methods.</p>
+<p id="p-0205" num="0209">To isolate microspores, an isolation media is generally used. An isolation media is used to separate microspores from the anther walls while maintaining their viability and embryogenic potential. An illustrative embodiment of an isolation media includes a 6% sucrose or maltose solution combined with an antioxidant such as 50 mg/l of ascorbic acid, 0.1 mg/l biotin, and 400 mg/l of proline, combined with 10 mg/l of nicotinic acid and 0.5 mg/l AgNO<sub>3</sub>. In another embodiment, the biotin and proline are omitted.</p>
+<p id="p-0206" num="0210">An isolation media preferably has a higher antioxidant level when it is used to isolate microspores from a donor plant (a plant from which a plant composition containing a microspore is obtained) that is field grown in contrast to greenhouse grown. A preferred level of ascorbic acid in an isolation medium is from about 50 mg/l to about 125 mg/l and, more preferably, from about 50 mg/l to about 100 mg/1.</p>
+<p id="p-0207" num="0211">One can find particular benefit in employing a support for the microspores during culturing and subculturing. Any support that maintains the cells near the surface can be used. An illustrative embodiment of a solid support is a TRANSWELL&#xae; culture dish. Another embodiment of a solid support for development of the microspores is a bilayer plate wherein liquid media is on top of a solid base. Other embodiments include a mesh or a millipore filter. Preferably, a solid support is a nylon mesh in the shape of a raft. A raft is defined as an approximately circular support material which is capable of floating slightly above the bottom of a tissue culture vessel, for example, a petri dish, of about a 60 or 100 mm size, although any other laboratory tissue culture vessel will suffice. In an illustrative embodiment, a raft is about 55 mm in diameter.</p>
+<p id="p-0208" num="0212">Culturing isolated microspores on a solid support, for example, on a 10 mm pore nylon raft floating on 2.2 ml of medium in a 60 mm petri dish, prevents microspores from sinking into the liquid medium and thus avoiding low oxygen tension. These types of cell supports enable the serial transfer of the nylon raft with its associated microspore/embryoids ultimately to full strength medium containing activated charcoal and solidified with, for example, GELRITE&#x2122; (solidifying agent).</p>
+<p id="p-0209" num="0213">The liquid medium passes through the mesh while the microspores are retained and supported at the medium-air interface. The surface tension of the liquid medium in the petri dish causes the raft to float. The liquid is able to pass through the mesh; consequently, the microspores stay on top. The mesh remains on top of the total volume of liquid medium.</p>
+<p id="p-0210" num="0214">The culture vessels can be further defined as either (1) a bilayer 60 mm petri plate wherein the bottom 2 ml of medium are solidified with 0.7% agarose overlaid with 1 mm of liquid containing the microspores; (2) a nylon mesh raft wherein a wafer of nylon is floated on 1.2 ml of medium and 1 ml of isolated microspores is pipetted on top; or (3) TRANSWELL&#xae; plates wherein isolated microspores are pipetted onto membrane inserts which support the microspores at the surface of 2 ml of medium.</p>
+<p id="p-0211" num="0215">Examples of processes of tissue culturing and regeneration of corn are described in, for example, European Patent Application Publication No. EP0160390, PCT Application WO 95/06128, and U.S. Pat. No. 5,736,369.</p>
+<heading id="h-0020" level="1">Processes of Crossing Corn Plants and the Corn Plants Produced by Such Crosses</heading>
+<p id="p-0212" num="0216">The present invention provides processes of preparing novel corn plants and corn plants produced by such processes. In accordance with such a process, a first parent corn plant may be crossed with a second parent corn plant wherein the first and second corn plants are the parent lines of hybrid corn plant variety CH011227, or wherein at least one of the plants is of hybrid corn plant variety CH011227.</p>
+<p id="p-0213" num="0217">Corn plants (<i>Zea mays </i>L.) can be crossed by either natural or mechanical techniques. Natural pollination occurs in corn when the wind blows pollen from the tassels to the silks that protrude from the tops of the recipient ears. Mechanical pollination can be effected either by controlling the types of pollen that can blow onto the silks or by pollinating by hand. In one embodiment, crossing comprises the steps of:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0218">(a) planting in pollinating proximity seeds of a first and a second parent corn plant, and preferably, seeds of a first inbred corn plant and a second, distinct inbred corn plant;</li>
+        <li id="ul0004-0002" num="0219">(b) cultivating or growing the seeds of the first and second parent corn plants into plants that bear flowers;</li>
+        <li id="ul0004-0003" num="0220">(c) emasculating flowers of either the first or second parent corn plant, i.e., treating the flowers so as to prevent pollen production, or alternatively, using as the female parent a male sterile plant, thereby providing an emasculated parent corn plant;</li>
+        <li id="ul0004-0004" num="0221">(d) allowing natural cross-pollination to occur between the first and second parent corn plants;</li>
+        <li id="ul0004-0005" num="0222">(e) harvesting seeds produced on the emasculated parent corn plant; and, when desired,</li>
+        <li id="ul0004-0006" num="0223">(f) growing the harvested seed into a corn plant, preferably, a hybrid corn plant.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0214" num="0224">Parental plants are typically planted in pollinating proximity to each other by planting the parental plants in alternating rows, in blocks or in any other convenient planting pattern. When the parental plants differ in timing of sexual maturity, it may be desired to plant the slower maturing plant first, thereby ensuring the availability of pollen from the male parent during the time at which silks on the female parent are receptive to pollen. Plants of both parental parents are cultivated and allowed to grow until the time of flowering. Advantageously, during this growth stage, plants are in general treated with fertilizer and/or other agricultural chemicals as considered appropriate by the grower.</p>
+<p id="p-0215" num="0225">At the time of flowering, in the event that plant CH011227 is employed as the male parent, the tassels of the other parental plant are removed from all plants employed as the female parental plant to avoid self-pollination. The detasseling can be achieved manually but also can be done by machine. Alternatively, when the female parent corn plant comprises a cytoplasmic or nuclear gene conferring male sterility, detasseling may not be required. Additionally, a chemical gametocide may be used to sterilize the male flowers of the female plant. In this case, the parent plants used as the male may either not be treated with the chemical agent or may comprise a genetic factor which causes resistance to the emasculating effects of the chemical agent. Gametocides affect processes or cells involved in the development, maturation or release of pollen. Plants treated with such gametocides are rendered male sterile, but typically remain female fertile. The use of chemical gametocides is described, for example, in U.S. Pat. No. 4,936,904, the disclosure of which is specifically incorporated herein by reference in its entirety. Furthermore, the use of Roundup herbicide in combination with glyphosate tolerant corn plants to produce male sterile corn plants is disclosed in PCT Publication WO 98/44140.</p>
+<p id="p-0216" num="0226">Following emasculation, the plants are then typically allowed to continue to grow and natural cross-pollination occurs as a result of the action of wind, which is normal in the pollination of grasses, including corn. As a result of the emasculation of the female parent plant, all the pollen from the male parent plant is available for pollination because tassels, and thereby pollen bearing flowering parts, have been previously removed from all plants of the plant being used as the female in the hybridization. Of course, during this hybridization procedure, the parental varieties are grown such that they are isolated from other corn fields to minimize or prevent any accidental contamination of pollen from foreign sources. These isolation techniques are well within the skill of those skilled in this art.</p>
+<p id="p-0217" num="0227">Both parental plants of corn may be allowed to continue to grow until maturity or the male rows may be destroyed after flowering is complete. Only the ears from the female parental plants are harvested to obtain seeds of a novel F<sub>1 </sub>hybrid. The novel F<sub>1 </sub>hybrid seed produced can then be planted in a subsequent growing season in commercial fields or, alternatively, advanced in breeding protocols for purposes of developing novel inbred lines.</p>
+<p id="p-0218" num="0228">Alternatively, in another embodiment of the invention, one or both first and second parent corn plants can be from variety CH011227. Thus, any corn plant produced using corn plant CH011227 forms a part of the invention. As used herein, crossing can mean selfing, backcrossing, crossing to another or the same variety, crossing to populations, and the like. All corn plants produced using the corn variety CH011227 as a parent are, therefore, within the scope of this invention.</p>
+<p id="p-0219" num="0229">One use of the instant corn variety is in the production of hybrid seed. Any time the corn plant CH011227 is crossed with another, different, corn plant, a corn hybrid plant is produced. As such, hybrid corn plant can be produced by crossing CH011227 with any second corn plant. Essentially any other corn plant can be used to produce a corn plant having corn plant CH011227 as one parent. All that is required is that the second plant be fertile, which corn plants naturally are, and that the plant is not corn variety CH011227.</p>
+<p id="p-0220" num="0230">The goal of the process of producing an F<sub>1 </sub>hybrid is to manipulate the genetic complement of corn to generate new combinations of genes which interact to yield new or improved traits (phenotypic characteristics). A process of producing an F<sub>1 </sub>hybrid typically begins with the production of one or more inbred plants. Those plants are produced by repeated crossing of ancestrally related corn plants to try to combine certain genes within the inbred plants.</p>
+<p id="p-0221" num="0231">The development of new inbred varieties using one or more starting varieties is well known in the art. In accordance with the invention, novel varieties may be created by crossing a corn variety, followed by multiple generations of breeding according to such well known methods. New varieties may be created by crossing a corn variety with any second plant. In selecting such a second plant to cross for the purpose of developing novel inbred lines, it may be desired to choose those plants which either themselves exhibit one or more desirable characteristics or which exhibit the desirable characteristic(s) when in hybrid combination. Examples of potentially desirable characteristics include greater yield, better stalks, better roots, resistance to insecticides, herbicides, pests, and disease, tolerance to heat and drought, reduced time to crop maturity, better agronomic quality, higher nutritional value, and uniformity in germination times, stand establishment, growth rate, maturity, and fruit size.</p>
+<p id="p-0222" num="0232">Once initial crosses have been made with a corn variety, inbreeding takes place to produce new inbred varieties. Inbreeding requires manipulation by human breeders. Even in the extremely unlikely event inbreeding rather than crossbreeding occurred in natural corn, achievement of complete inbreeding cannot be expected in nature due to well-known deleterious effects of homozygosity and the large number of generations the plant would have to breed in isolation. The reason for the breeder to create inbred plants is to have a known reservoir of genes whose gametic transmission is predictable.</p>
+<p id="p-0223" num="0233">The pedigree breeding method involves crossing two genotypes. Each genotype can have one or more desirable characteristics lacking in the other; or, each genotype can complement the other. If the two original parental genotypes do not provide all of the desirable characteristics, other genotypes can be included in the breeding population. Superior plants that are the products of these crosses are selfed and selected in successive generations. Each succeeding generation becomes more homogeneous as a result of self-pollination and selection. Typically, this method of breeding involves five or more generations of selfing and selection. After at least five generations, the inbred plant is considered genetically pure.</p>
+<p id="p-0224" num="0234">Marker assisted selection (MAS) can be used to reduce the number of breeding cycles and improve selection accuracy. For example, see Openshaw et al., &#x201c;Marker-assisted Selection in Backcross Breeding,&#x201d; in: Proceedings Symposium of the Analysis of Molecular Data, August 1994, Crop Science Society of America. Genome-wide selection (GWS)/genomic selection (GS) can also be used as an alternative to, or in combination to, marker assisted selection and phenotype selection. GS utilizes quantitative models over a large number of markers distributed across the genome to predict the genomic estimated breeding values (GEBVs) of individual plants that has been genotyped but not phenotyped. GS can improve complex traits or combination of multiple traits without the need to identify markers associated with the traits. GS can replace phenotyping for a few selection cycles, thus reducing the cost and the time required for variety development (Crossa et al., Trends in Plant Science, November 2017, Vol. 22, No. 11).</p>
+<p id="p-0225" num="0235">Uniform lines of new varieties may also be developed by way of doubled-haploids. This technique allows the creation of true breeding lines without the need for multiple generations of selfing and selection. In this manner true breeding lines can be produced in as little as one generation. Haploid induction systems have been developed for various plants to produce haploid tissues, plants and seeds. The haploid induction system can produce haploid plants from any genotype by crossing with an inducer line. Inducer lines and methods for obtaining haploid plants are known in the art.</p>
+<p id="p-0226" num="0236">Haploid embryos may be produced, for example, from microspores, pollen, anther cultures, or ovary cultures. The haploid embryos may then be doubled autonomously, or by chemical treatments (e.g. colchicine treatment). Alternatively, haploid embryos may be grown into haploid plants and treated to induce chromosome doubling. In either case, fertile homozygous plants are obtained. In accordance with the invention, any of such techniques may be used in connection with a plant of the invention and progeny thereof to achieve a homozygous line.</p>
+<p id="p-0227" num="0237">Corn has a diploid phase which means two conditions of a gene (two alleles) occupy each locus (position on a chromosome). If the alleles are the same at a locus, there is said to be homozygosity. If they are different, there is said to be heterozygosity. In a completely inbred plant, all loci are homozygous. Because many loci when homozygous are deleterious to the plant, in particular leading to reduced vigor, less kernels, weak and/or poor growth, production of inbred plants is an unpredictable and arduous process. Under some conditions, heterozygous advantage at some loci effectively bars perpetuation of homozygosity.</p>
+<p id="p-0228" num="0238">A single cross hybrid corn variety is the cross of two inbred plants, each of which has a genotype which complements the genotype of the other. Typically, F<sub>1 </sub>hybrids are more vigorous than their inbred parents. This hybrid vigor, or heterosis, is manifested in many polygenic traits, including markedly improved yields, better stalks, better roots, better uniformity and better insect and disease resistance. In the development of hybrids only the F<sub>1 </sub>hybrid plants are typically sought. An F<sub>1 </sub>single cross hybrid is produced when two inbred plants are crossed. A double cross hybrid is produced from four inbred plants crossed in pairs (A&#xd7;B and C&#xd7;D) and then the two F<sub>1 </sub>hybrids are crossed again (A&#xd7;B)&#xd7;(C&#xd7;D).</p>
+<p id="p-0229" num="0239">Thousands of corn varieties are known to those of skill in the art, any one of which could be crossed with corn plant CH011227 to produce a hybrid plant. Estimates place the number of different corn accessions in gene banks around the world at around 50,000. The Maize Genetics Cooperation Stock Center, which is supported by the U.S. Department of Agriculture, has a total collection of over 80,000 individually pedigreed samples (available on the World Wide Web at maizecoop.cropsci.uiuc.edu/).</p>
+<p id="p-0230" num="0240">When the corn plant CH011227 is crossed with another plant to yield progeny, it can serve as either the maternal or paternal plant. For many crosses, the outcome is the same regardless of the assigned sex of the parental plants. However, due to increased seed yield and production characteristics, it may be desired to use one parental plant as the maternal plant. Some plants produce tighter ear husks leading to more loss, for example due to rot. There can be delays in silk formation which deleteriously affect timing of the reproductive cycle for a pair of parental inbreds. Seed coat characteristics can be preferable in one plant. Pollen can be shed better by one plant. Other variables can also affect preferred sexual assignment of a particular cross.</p>
+<p id="p-0231" num="0241">The development of a hybrid corn variety involves three steps: (1) selecting plants from various germplasm pools; (2) selfing the selected plants for several generations to produce a series of inbred plants, which although different from each other, each breed true and are highly uniform; and (3) crossing the selected inbred plants with unrelated inbred plants to produce F<sub>1 </sub>hybrid progeny. During this inbreeding process in corn, the vigor of the plants decreases; however, vigor is restored when two unrelated inbred plants are crossed to produce F<sub>1 </sub>hybrid progeny. An important consequence of the genetic homozygosity and homogeneity of an inbred plant is that the F<sub>1 </sub>hybrid progeny of any two inbred varieties are genetically and phenotypically uniform. Plant breeders choose these hybrid populations that display phenotypic uniformity. Once the inbred plants that produce superior hybrid progeny have been identified, the uniform traits of their hybrid progeny can be reproduced indefinitely as long as the homogeneity of the inbred parents is maintained.</p>
+<p id="p-0232" num="0242">The development of inbred plants generally requires at least about 5 to 7 generations of selfing. Inbred plants are then cross-bred in an attempt to develop improved F<sub>1 </sub>hybrids. Hybrids are then screened and evaluated in small scale field trials. Typically, about 10 to 15 phenotypic traits, selected for their potential commercial value, are measured. A selection index of the most commercially important traits is used to help evaluate hybrids. FACT, an acronym for Field Analysis Comparison Trial (strip trials), is an on-farm experimental testing program employed by Monsanto Company to perform the final evaluation of the commercial potential of a product.</p>
+<p id="p-0233" num="0243">During the next several years, a progressive elimination of hybrids occurs based on more detailed evaluation of their phenotype. Eventually, strip trials (FACT) are conducted to formally compare the experimental hybrids being developed with other hybrids, some of which were previously developed and generally are commercially successful. That is, comparisons of experimental hybrids are made to competitive hybrids to determine if there was any advantage to further development of the experimental hybrids. After FACT testing is complete, determinations may be made whether commercial development should proceed for a given hybrid.</p>
+<p id="p-0234" num="0244">The present invention provides a genetic complement of the hybrid corn plant variety designated CH011227. As used herein, the phrase &#x201c;genetic complement&#x201d; means an aggregate of nucleotide sequences, the expression of which defines the phenotype of a corn plant or a cell or tissue of that plant. By way of example, a corn plant is genotyped to determine a representative sample of the inherited markers it possesses. Markers are alleles at a single locus. They are preferably inherited in codominant fashion so that the presence of both alleles at a diploid locus is readily detectable, and they are free of environmental variation, i.e., their heritability is 1. This genotyping is preferably performed on at least one generation of the descendant plant for which the numerical value of the quantitative trait or traits of interest are also determined. The array of single locus genotypes is expressed as a profile of marker alleles, two at each locus. The marker allelic composition of each locus can be either homozygous or heterozygous. Homozygosity is a condition in which both alleles at a locus are characterized by the same nucleotide sequence or size of a repeated sequence. Heterozygosity refers to different conditions of the gene at a locus. A preferred type of genetic marker for use with the invention is simple sequence repeats (SSRs), although potentially any other type of genetic marker could be used, for example, restriction fragment length polymorphisms (RFLPs), amplified fragment length polymorphisms (AFLPs), single nucleotide polymorphisms (SNPs), and isozymes.</p>
+<p id="p-0235" num="0245">All of the compositions and methods disclosed and claimed herein can be made and executed without undue experimentation in light of the present disclosure. While the compositions and methods of this invention have been described in terms of the foregoing illustrative embodiments, it will be apparent to those of skill in the art that variations, changes, modifications, and alterations may be applied to the composition, methods, and in the steps or in the sequence of steps of the methods described herein, without departing from the true concept, spirit, and scope of the invention. More specifically, it will be apparent that certain agents that are both chemically and physiologically related may be substituted for the agents described herein while the same or similar results would be achieved. All such similar substitutes and modifications apparent to those skilled in the art are deemed to be within the spirit, scope, and concept of the invention as defined by the appended claims.</p>
+<p id="p-0236" num="0246">The references cited herein, to the extent that they provide exemplary procedural or other details supplementary to those set forth herein, are specifically incorporated herein by reference.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A seed of hybrid corn variety CH011227, produced by crossing a first plant of variety CV691449 with a second plant of variety CV526813, wherein representative seeds of said varieties CV691449 and CV526813 are deposited under ATCC Accession No. PTA-125240 and NCMA Accession No. 202106040, respectively.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A plant of the hybrid corn variety CH011227 grown from said seed of <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A plant part of the plant of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein said plant part comprises a cell of said hybrid corn variety CH011227.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A composition comprising the seed of <claim-ref idref="CLM-00001">claim 1</claim-ref> comprised in plant seed growth media.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The composition of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein said growth media is soil or a synthetic cultivation medium.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A seed of hybrid corn variety CH011227, produced by crossing a first plant of variety CV691449 with a second plant of variety CV526813, further comprising a transgene, wherein said transgene is introduced by backcrossing or genetic transformation into said variety CV691449, said variety CV526813, or both varieties CV691449 and CV526813, and wherein representative seeds of said varieties CV691449 and CV526813 are deposited under ATCC Accession No. PTA-125240 and NCMA Accession No. 202106040, respectively.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The seed of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the transgene confers a trait selected from the group consisting of male sterility, herbicide tolerance, insect resistance, disease resistance, waxy starch, modified fatty acid metabolism, modified phytic acid metabolism, modified carbohydrate metabolism and modified protein metabolism.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A method of producing the seed of <claim-ref idref="CLM-00001">claim 1</claim-ref>, the method comprising crossing a plant of variety CV691449 with a plant of variety CV526813.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A seed of hybrid corn variety CH011227 further comprising a single locus conversion, wherein a plant grown from said seed comprises a trait conferred by said single locus conversion and otherwise comprises all of the morphological and physiological characteristics of hybrid corn variety CH011227, and wherein said seed is produced by crossing a first plant selected from the group consisting of variety CV691449 and selfed progeny thereof with a second plant selected from a second group consisting of variety CV526813 and selfed progeny thereof, wherein said first plant, said second plant, or both further comprise said single locus conversion, and wherein representative seeds of said varieties CV691449 and CV526813 are deposited under ATCC Accession No. PTA-125240 and NCMA Accession No. 202106040, respectively.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The seed of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein said single locus conversion confers a trait selected from the group consisting of male sterility, herbicide tolerance, insect resistance, disease resistance, waxy starch, modified fatty acid metabolism, modified phytic acid metabolism, modified carbohydrate metabolism and modified protein metabolism.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A plant grown from the seed of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein said plant comprises said trait and otherwise comprises all of the morphological and physiological characteristics of hybrid corn variety CH011227.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A method of introducing a heritable trait into hybrid corn variety CH011227, the method comprising the steps of:
+<claim-text>(a) introducing at least said heritable trait into a first inbred corn variety CV691449, a second inbred corn variety CV526813, or both inbred corn varieties CV691449 and CV526813 to produce plants of said inbred corn varieties that heritably carry said heritable trait, wherein said heritable trait is introduced into said inbred corn varieties by backcrossing, wherein said backcrossing is sufficient to produce an inbred corn variety further comprising said heritable trait, and wherein representative seeds of said inbred corn varieties CV691449 and CV526813 are deposited under ATCC Accession No. PTA-125240 and NCMA Accession No. 202106040, respectively; and</claim-text>
+<claim-text>(b) producing a plant of hybrid corn variety CH011227 further comprising said heritable trait by crossing a plant of said first or said second inbred corn variety that heritably carries said heritable trait with a plant of a different inbred corn variety selected from a group consisting of inbred corn varieties CV691449 and CV526813, or crossing a plant of said first inbred corn variety and a plant of said second inbred corn variety that both heritably carry said heritable trait.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein said heritable trait is selected from the group consisting of male sterility, herbicide tolerance, insect resistance, disease resistance, waxy starch, modified fatty acid metabolism, modified phytic acid metabolism, modified carbohydrate metabolism and modified protein metabolism.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref> further comprising repeating step (a) at least once to introduce at least a second heritable trait into hybrid corn variety CH011227, wherein the second heritable trait is selected from the group consisting of male sterility, herbicide tolerance, insect resistance, disease resistance, waxy starch, modified fatty acid metabolism, modified phytic acid metabolism, modified carbohydrate metabolism and modified protein metabolism.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A plant produced by the method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein said plant comprises said heritable trait and otherwise comprises all of the morphological and physiological characteristics of corn variety CH011227 when grown under the same environmental conditions.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A method of producing a progeny corn plant derived from hybrid corn variety CH011227, wherein the method comprises applying plant breeding techniques to the plant of <claim-ref idref="CLM-00002">claim 2</claim-ref> to produce said progeny corn plant derived from hybrid corn variety CH011227.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein said plant breeding techniques comprise backcrossing, marker assisted breeding, pedigree breeding, selfing, outcrossing, haploid production, doubled haploid production, or transformation.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, further comprising the steps of:
+<claim-text>(a) crossing said progeny corn plant derived from hybrid corn variety CH011227 with itself or a second plant to produce a seed of a progeny plant of a subsequent generation;</claim-text>
+<claim-text>(b) growing the progeny plant of the subsequent generation from said seed of the progeny plant of the subsequent generation; and</claim-text>
+<claim-text>(c) repeating steps (a) and (b) for at least an additional 3-10 generations to produce a progeny corn plant further derived from the hybrid corn variety CH011227.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. A method of producing a commodity plant product, the method comprising obtaining the plant of <claim-ref idref="CLM-00002">claim 2</claim-ref> or a part thereof and producing said commodity plant product therefrom wherein said plant part comprises a cell of hybrid corn variety CH011227.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein said commodity plant product is grain, starch, seed oil, corn syrup, or protein.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
