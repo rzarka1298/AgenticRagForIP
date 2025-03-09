@@ -25,13 +25,13 @@ import XMLPatent
 #     return documents
 
 def load_patent_documents(folder):
-    xml_files = XMLPatent.file_list[0:3]
+    xml_files = XMLPatent.file_list
     documents = []
     for file in xml_files:
         loc = rf"{folder}/{file}"
         patent_info = XMLPatent.parse_patent_xml(loc)
         documents.append(
-            Document( document_id=os.path.basename(loc),
+            Document( document_id=patent_info["meta-data"]["ID"],
                      content = f'TITLE:{patent_info["title"]}ABSTRACT:{patent_info["abstract"]}DESCRIPTION:{patent_info["description"]}',
                      mime_type="text",
                      metadata={}
@@ -102,7 +102,7 @@ rag_agent = Agent(
 # Step 6: Create a session and run a test query
 session_id = rag_agent.create_session("patent-session")
 user_prompts = [
-    "give me a 3 paragraph summary of the patent titled: Area registration method and area registration system. Use the knowledge_search tool to gather details."
+    "What patents are related to biology and summarize them. Use the knowledge_search tool to gather details."
 ]
 
 for prompt in user_prompts:
