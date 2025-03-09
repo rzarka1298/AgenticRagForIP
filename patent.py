@@ -5,20 +5,36 @@ from llama_stack_client.lib.agents.agent import Agent
 from llama_stack_client.lib.agents.event_logger import EventLogger
 from llama_stack_client.types import Document
 import glob
+import XMLPatent
 
 # Function to load patent XML files from a folder
-def load_patent_documents(folder_path):
-    xml_files = glob.glob(os.path.join(folder_path, '*.XML'))
+# def load_patent_documents(folder_path):
+#     xml_files = glob.glob(os.path.join(folder_path, '*.XML'))
+#     documents = []
+#     for file_path in xml_files:
+#         with open(file_path, 'r', encoding='utf-8') as file:
+#             content = file.read()
+#         documents.append(
+#             Document(
+#                 document_id=os.path.basename(file_path),
+#                 content=content,
+#                 mime_type="text/xml",
+#                 metadata={}
+#             )
+#         )
+#     return documents
+
+def load_patent_documents(folder):
+    xml_files = XMLPatent.file_list[0:3]
     documents = []
-    for file_path in xml_files:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            content = file.read()
+    for file in xml_files:
+        loc = rf"{folder}/{file}"
+        patent_info = XMLPatent.parse_patent_xml(loc)
         documents.append(
-            Document(
-                document_id=os.path.basename(file_path),
-                content=content,
-                mime_type="text/xml",
-                metadata={}
+            Document( document_id=os.path.basename(loc),
+                     content = f'TITLE:{patent_info["title"]}ABSTRACT:{patent_info["abstract"]}DESCRIPTION:{patent_info["description"]}',
+                     mime_type="text",
+                     metadata={}
             )
         )
     return documents
@@ -86,7 +102,7 @@ rag_agent = Agent(
 # Step 6: Create a session and run a test query
 session_id = rag_agent.create_session("patent-session")
 user_prompts = [
-    "Can you summarize the key claims of the patent in XML? Use the knowledge_search tool to gather details."
+    "give me a 3 paragraph summary of the patent titled: Area registration method and area registration system. Use the knowledge_search tool to gather details."
 ]
 
 for prompt in user_prompts:
