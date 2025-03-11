@@ -31,8 +31,8 @@ def load_patent_documents(folder):
         loc = rf"{folder}/{file}"
         patent_info = XMLPatent.parse_patent_xml(loc)
         documents.append(
-            Document( document_id=patent_info["meta-data"]["ID"],
-                     content = f'TITLE:{patent_info["title"]}ABSTRACT:{patent_info["abstract"]}DESCRIPTION:{patent_info["description"]}',
+            Document( document_id=patent_info["meta-data"]["doc-number"],
+                     content = f'TITLE:{patent_info["title"]}, ABSTRACT:{patent_info["abstract"]}, DESCRIPTION:{patent_info["description"]}',
                      mime_type="text",
                      metadata={}
             )

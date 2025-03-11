@@ -25,7 +25,7 @@ def parse_patent_xml(loc: str):
 #####################################################
 ###   helper functions to pull info from files    ###
 #####################################################
-def pullDesc(headN):
+def pullDesc(headN) -> str:
     """returns str of all text from description node in specified file"""
     descN = headN.getElementsByTagName("description")[0].childNodes
     desc = ""
@@ -39,21 +39,25 @@ def pullDesc(headN):
     return desc.strip()
 
 
-def pullAbs(headN):
+def pullAbs(headN) -> str:
     """returns str of all text which make the abstract ndoe in specified file"""
     abstract = ""
     for p in headN.getElementsByTagName("abstract")[0].getElementsByTagName("p"):
         abstract+=str(p.childNodes[0].nodeValue).strip()+" "
     return abstract.strip()
-def pullTitle(headN):
+def pullTitle(headN) -> str:
     """returns invention title of the specified patent file"""
     return headN.getElementsByTagName("invention-title")[0].childNodes[0].nodeValue
 
 
-def pullMeta(headN):
-    """collects metadata from file and returns in dict format"""
+def pullMeta(headN) -> dict[str]:
+    """collects metadata from file and returns in dict format, ref. keys in code below"""
     metadata = {}
-    metadata["ID"] = headN.getAttribute("file").strip(".XML")
+    metadata["ID"] = headN.getAttribute("file").strip(".XML") #shit ID, dont reference (not unique)
+    metadata["doc-number"] = headN.getElementsByTagName("application-reference")[0].getElementsByTagName("document-id")[0].getElementsByTagName("doc-number")[0].childNodes[0].nodeValue #unique
     return metadata
+
+#add image parsing
+
 #####################################################
 #####################################################
