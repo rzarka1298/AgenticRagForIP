@@ -25,13 +25,17 @@ import XMLPatent
 #     return documents
 
 def load_patent_documents(folder):
-    xml_files = XMLPatent.file_list
+    xml_files = XMLPatent.file_list[0:10]
     documents = []
     for file in xml_files:
-        loc = rf"{folder}/{file}"
+        curLoc = rf"{XMLPatent.DIR_PATH}\{file}\{file}.xml"
+        if (os.path.exists(curLoc)):
+            loc = curLoc
+        else:
+            loc = rf"{curLoc.strip(".xml")}\{file}.xml"
         patent_info = XMLPatent.parse_patent_xml(loc)
         documents.append(
-            Document( document_id=patent_info["meta-data"]["doc-number"],
+            Document( document_id=patent_info["meta-data"]["ID"],
                      content = f'TITLE:{patent_info["title"]}, ABSTRACT:{patent_info["abstract"]}, DESCRIPTION:{patent_info["description"]}',
                      mime_type="text",
                      metadata={}
@@ -62,7 +66,7 @@ client = (
 
 
 # Step 2: Load patent documents from the local 'patents' folder
-folder = "/Users/rugvedzarkar/Desktop/PatentMar8/XML"  # Update to your actual folder path
+folder = rf"C:\Users\rrgam\OneDrive\Desktop\TAR files\I20241217\UTIL12167"  # Update to your actual folder path
 documents = load_patent_documents(folder)
 print(f"Loaded {len(documents)} patent documents.")
 
@@ -87,7 +91,7 @@ client.tool_runtime.rag_tool.insert(
 
 # Step 5: Create the RAG agent configured for patent analysis
 rag_agent = Agent(
-    client,
+    client=client,
     model=os.environ["INFERENCE_MODEL"],
     instructions="You are a patent expert assistant. Use the provided documents to answer questions about patents accurately.",
     enable_session_persistence=False,
@@ -96,13 +100,13 @@ rag_agent = Agent(
             "name": "builtin::rag/knowledge_search",
             "args": {"vector_db_ids": [vector_db_id]},
         }
-    ],
+    ]
 )
 
 # Step 6: Create a session and run a test query
 session_id = rag_agent.create_session("patent-session")
 user_prompts = [
-    "What patents are related to biology and summarize them. Use the knowledge_search tool to gather details."
+    "Are there any patents provided related to biology? if there are, please summarize them in labeled list labeled with the ID for each patent. Use the knowledge_search tool to gather any details."
 ]
 
 for prompt in user_prompts:
