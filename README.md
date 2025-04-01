@@ -4,6 +4,8 @@
 export LLAMA_STACK_PORT=5001
 export TOGETHER_API_KEY=...
 export INFERENCE_MODEL=meta-llama/Llama-3.1-8B-Instruct
+uvicorn server:app --reload --port 8000
+
 
 4. Run Docker Image
 
