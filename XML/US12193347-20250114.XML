@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="US12193347-20250114.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20241225" date-publ="20250114">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>12193347</doc-number>
+<kind>B2</kind>
+<date>20250114</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17620726</doc-number>
+<date>20200617</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2019-114952</doc-number>
+<date>20190620</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant><us-term-extension>54</us-term-extension></us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>27</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>69</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>69</main-group>
+<subgroup>008</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>0219</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>0223</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>027</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>0278</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>028</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>27</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">Work vehicle</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>7689356</doc-number>
+<kind>B2</kind>
+<name>Dix</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G05D 1/0219</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701425</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>7844378</doc-number>
+<kind>B2</kind>
+<name>Lange</name>
+<date>20101100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 15/20</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701472</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>7877182</doc-number>
+<kind>B2</kind>
+<name>Dix</name>
+<date>20110100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G05D 1/0219</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701 50</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>8489290</doc-number>
+<kind>B1</kind>
+<name>Lange</name>
+<date>20130700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G05D 1/0278</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172310</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>8686900</doc-number>
+<kind>B2</kind>
+<name>Whitehead</name>
+<date>20140400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01S 19/14</classification-cpc-text>
+<classification-national><country>US</country><main-classification>34235734</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>9002565</doc-number>
+<kind>B2</kind>
+<name>Jones</name>
+<date>20150400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01S 19/53</classification-cpc-text>
+<classification-national><country>US</country><main-classification>34235739</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>10231374</doc-number>
+<kind>B2</kind>
+<name>Sakaguchi</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01S 19/14</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2007/0021913</doc-number>
+<kind>A1</kind>
+<name>Heiniger</name>
+<date>20070100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G05D 1/0278</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701412</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2008/0086249</doc-number>
+<kind>A1</kind>
+<name>Lange</name>
+<date>20080400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G05D 1/0278</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701 41</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2009/0037041</doc-number>
+<kind>A1</kind>
+<name>Senneff</name>
+<date>20090200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G05D 1/0219</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701 23</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2009/0265098</doc-number>
+<kind>A1</kind>
+<name>Dix</name>
+<date>20091000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G05D 1/0278</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701 23</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2013/0166132</doc-number>
+<kind>A1</kind>
+<name>Matthews</name>
+<date>20130600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 69/008</classification-cpc-text>
+<classification-national><country>US</country><main-classification>707705</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2017/0367252</doc-number>
+<kind>A1</kind>
+<name>Sakaguchi</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 69/008</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>CN</country>
+<doc-number>108040582</doc-number>
+<kind>A</kind>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01D 34/412</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>CN</country>
+<doc-number>108762260</doc-number>
+<kind>A</kind>
+<date>20181100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>WO</country>
+<doc-number>WO-2018214977</doc-number>
+<kind>A1</kind>
+<date>20181100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01D 34/00</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>WO</country>
+<doc-number>WO-2019096264</doc-number>
+<kind>A1</kind>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01D 34/008</classification-cpc-text>
+</us-citation>
+</us-references-cited>
+<number-of-claims>4</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>17</number-of-drawing-sheets>
+<number-of-figures>21</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20220408628</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Yanmar Power Technology Co., Ltd.</orgname>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Suzuki</last-name>
+<first-name>Akihiro</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Nakahata</last-name>
+<first-name>Akihiro</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Mizukura</last-name>
+<first-name>Yoshiharu</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="004" designation="us-only">
+<addressbook>
+<last-name>Kitano</last-name>
+<first-name>Keita</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Mizumoto</last-name>
+<first-name>Chris</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Yanmar Power Technology Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Weisenfeld</last-name>
+<first-name>Aryan E</first-name>
+<department>3667</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Wang</last-name>
+<first-name>Kai</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2020/023851</doc-number>
+<date>20200617</date>
+</document-id>
+<us-371c12-date>
+<date>20211219</date>
+</us-371c12-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2020/256036</doc-number>
+<kind>A </kind>
+<date>20201224</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">This work vehicle has: a positioning unit for measuring the current position and the current direction of the vehicle body using a satellite positioning system; and an automatic travel control unit for executing automatic travel control based on positioning information from the positioning unit. The positioning unit comprises: a plurality of positioning antennas provided on the vehicle body; a plurality of positioning units for measuring the positions of the positioning antennas; a calculation unit for calculating the current position and the current direction of the vehicle body on the basis of positioning information from the positioning units; and a positioning state determination unit for determining whether or not the positioning state of the positioning units is a high-accuracy positioning state. When at least two positioning units are in the high accuracy positioning state, the positioning state determination unit permits the start of the automatic travel control.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="198.20mm" wi="155.02mm" file="US12193347-20250114-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="217.93mm" wi="162.73mm" orientation="landscape" file="US12193347-20250114-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="232.58mm" wi="152.40mm" orientation="landscape" file="US12193347-20250114-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="185.84mm" wi="155.79mm" file="US12193347-20250114-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="181.95mm" wi="141.82mm" file="US12193347-20250114-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="176.70mm" wi="140.38mm" file="US12193347-20250114-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="204.72mm" wi="154.77mm" file="US12193347-20250114-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="202.95mm" wi="154.09mm" file="US12193347-20250114-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="152.57mm" wi="168.15mm" file="US12193347-20250114-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="218.19mm" wi="151.89mm" file="US12193347-20250114-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="209.89mm" wi="166.96mm" file="US12193347-20250114-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="217.42mm" wi="157.06mm" file="US12193347-20250114-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="208.11mm" wi="169.50mm" file="US12193347-20250114-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="250.27mm" wi="78.99mm" file="US12193347-20250114-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="239.27mm" wi="82.38mm" file="US12193347-20250114-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="133.27mm" wi="99.57mm" file="US12193347-20250114-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="232.92mm" wi="132.42mm" file="US12193347-20250114-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="221.15mm" wi="118.96mm" file="US12193347-20250114-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE</heading>
+<p id="p-0002" num="0001">This application is a US National Stage Application under 35 U.S.C. &#xa7; 371 of International Application No. PCT/JP2020/023851 filed Jun. 17, 2020, which claims foreign priority of JP2019-114952 filed Jun. 20, 2019, the disclosures of which are hereby incorporated by reference in their entirety.</p>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present invention relates to a work vehicle capable of automatic travel in a work site.</p>
+<heading id="h-0003" level="1">BACKGROUND ART</heading>
+<p id="p-0004" num="0003">As a work vehicle, some work vehicles are configured to include a position calculation means that measures a position of a vehicle body using a satellite positioning system, an orientation sensor that detects an orientation of the vehicle body, an automatic travel means that causes the work vehicle to automatically travel, and a control device and to automatically travel in accordance with a target path (a set travel path) stored in a memory of the control device (see, for example, Patent Literature 1).</p>
+<heading id="h-0004" level="1">CITATION LIST</heading>
+<heading id="h-0005" level="1">Patent Literature</heading>
+<p id="p-0005" num="0004">Patent Literature 1: International Publication No. 2015/147111</p>
+<heading id="h-0006" level="1">DISCLOSURE OF INVENTION</heading>
+<heading id="h-0007" level="1">Problems to be Solved by the Invention</heading>
+<p id="p-0006" num="0005">A work vehicle described in Patent Literature 1 includes a single mobile GPS antenna that receives radio waves from GPS satellites. A position calculation means measures A position of a vehicle body using radio waves received by the single mobile GPS antenna or the like. An automatic travel means causes the work vehicle to automatically travel in accordance with a target path, based on the position of the vehicle body measured by the position calculation means and an orientation of the vehicle body detected by an orientation sensor.</p>
+<p id="p-0007" num="0006">A geomagnetic sensor capable of calculating an absolute orientation may be employed as the orientation sensor. However, if a work site of the work vehicle is a farm, such as an orchard or the like, where there are structures, such as metal poles, wires, or the like, that are noise sources for the geomagnetic sensor, there is a probability that it is not possible to ensure sufficient accuracy in calculating the absolute orientation depending on conditions.</p>
+<p id="p-0008" num="0007">Therefore, the work vehicle may include, instead of the orientation sensor, an inertial measurement device. However, since the inertial measurement device uses a three-axis gyroscope and a three-direction acceleration sensor to measure the orientation of the vehicle body, in a case where the work vehicle is turning at low speed, an output value of each sensor is small, and measurement accuracy of the orientation of the vehicle body is reduced depending on conditions of a noise cut filter in some cases.</p>
+<p id="p-0009" num="0008">It is also possible to obtain a movement vector of the vehicle body from the position of the vehicle body measured by the position calculation means to calculate the orientation of the vehicle body from the movement vector. However, in this case, the smaller a turning radius during turning becomes, the more difficult it becomes to calculate the movement vector of the vehicle body, and therefore, it is not possible to calculate the orientation of the vehicle body with high accuracy from the movement vector of the vehicle body during turning in which the turning radium is small.</p>
+<p id="p-0010" num="0009">In other words, there is room for improvement in causing the work vehicle to automatically travel in accordance with the target path with high accuracy regardless of conditions of the work site or a travel state of the work vehicle.</p>
+<p id="p-0011" num="0010">In view of the above-described actual situation, it is a major object of the present invention to provide a work vehicle capable of automatically traveling in accordance with a target path with high accuracy regardless of conditions of a work site or a travel state of the work vehicle.</p>
+<heading id="h-0008" level="1">Means for Solving the Problems</heading>
+<p id="p-0012" num="0011">A work vehicle according to the present invention includes a positioning unit that uses a satellite positioning system to measure current position and current orientation of a vehicle body, and an automatic travel control unit that executes automatic travel control to cause the vehicle body to automatically travel in accordance with a target path, based on positioning information from the positioning unit. The positioning unit includes a plurality of positioning antennas installed at different positions on the vehicle body, a plurality of positioning sections that measure the positions of the positioning antennas, a calculation unit that calculates the current position and current orientation of the vehicle body, based on positioning information from the positioning sections, and a positioning state determination unit that determines whether a positioning state of each of the positioning sections is a high-accuracy positioning state, and the positioning state determination unit permits start of the automatic travel control in a case where at least two of the positioning sections are in the high-accuracy positioning state.</p>
+<p id="p-0013" num="0012">According to the present invention, it is possible to provide a work vehicle capable of automatically traveling in accordance with a target path with high accuracy regardless of conditions of a work site or a travel state of the work vehicle.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0009" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a schematic diagram illustrating a schematic configuration of an automatic travel system for a work vehicle.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a block diagram illustrating a schematic configuration of the automatic travel system for a work vehicle.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a perspective view illustrating a configuration of a farm work vehicle.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a front view illustrating the configuration of the farm work vehicle.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a rear view illustrating the configuration of the farm work vehicle.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a right side view illustrating the configuration of the farm work vehicle with a left cover body removed.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a left side view illustrating the configuration of the farm work vehicle with a right cover body removed.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a plan view illustrating the configuration of the farm work vehicle.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a plan view illustrating a target path for the work vehicle in a farm.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a block diagram illustrating a schematic configuration of an obstacle detection system and the like.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a flowchart of positioning control.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a flowchart of the positioning control.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a flowchart of the positioning control.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a flowchart of a first orientation calculation process.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a graph illustrating an inclination calculation process.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>16</b></figref> a view illustrating an inclination offset amount calculation process.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a view illustrating an orientation calculation process.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is a side view of a major portion of an antenna unit illustrating the antenna unit in a use position and a retracted position.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is a side view of a major portion illustrating a lifted state of a crawler relative to a vehicle frame caused by a lifting and lowering unit.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>20</b></figref> is a side view of a major portion illustrating a lowered state of the crawler relative to the vehicle frame caused by the lifting and lowering unit.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>21</b></figref> is a longitudinal cross-sectional rear view of a major portion illustrating a configuration of the lifting and lowering unit.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0010" level="1">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0035" num="0034">As an example of a form for carrying out the present invention, an embodiment in which the present invention is applied to a farm work vehicle that is an example of a work vehicle is described below with reference to the drawings. The present invention can be applied to, in addition to farm work vehicles, passenger work vehicles capable of automatic travel, such as, for example, tractors, passenger mowers, passenger rice transplanters, combines, snow plows, wheel loaders, transport vehicles, or the like, and unmanned work vehicles, such as unmanned cultivators and unmanned mowers.</p>
+<p id="p-0036" num="0035">As illustrated in <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>2</b></figref>, a farm work vehicle V described in this embodiment is capable of automatic travel in a farm, such as a vineyard, a tea garden, or the like, that is an example of work sites by using an automatic travel system for a work vehicle. An automatic travel system for a work vehicle includes an automatic travel unit <b>2</b> mounted on a vehicle body <b>1</b> of the work vehicle V, a mobile communication terminal <b>3</b> that is an example of a wireless communication device set to be capable of wireless communication with the automatic travel unit <b>2</b>, and the like. The mobile communication terminal <b>3</b> includes a multi-touch display device (for example, a liquid crystal panel) <b>3</b>A or the like that enables display and input operations of various information related to automatic travel.</p>
+<p id="p-0037" num="0036">As illustrated in <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>8</b></figref>, the work vehicle V includes a gate-type vehicle body <b>1</b> that travels straddling fruit trees, such as grape trees, apple trees, tea trees, or the like, planted in multiple lines in a farm, a chemical spraying device <b>4</b> that sprays chemical liquid on the trees as work targets, a positioning unit <b>5</b> that measures current position and current orientation of the vehicle body <b>1</b> using a global navigation satellite system (GNSS) that is an example of a satellite positioning system, an obstacle detection system <b>6</b> that monitors surroundings of the vehicle body <b>1</b> and detects an obstacle that exists around the vehicle body <b>1</b>, a camera unit <b>7</b> that photographs front and rear sides of the vehicle body <b>1</b>, and the like. The obstacle detection system <b>6</b> detects trees or the like planted in the farm as obstacles.</p>
+<p id="p-0038" num="0037">The work vehicle V can include, instead of or in addition to the chemical spraying device <b>4</b>, a work device, such as a clipper-type plucking device that plucks trees as work targets, a cultivator that performs weeding and crushing on soil between trees, or the like. As the mobile communication terminal <b>3</b>, an HMI tablet, a smartphone, or the like can be employed. As wireless communication, short-range wireless communication using a wireless local area network (LAN), such as Wi-Fi (registered trademark), Bluetooth (registered trademark), or the like can be employed.</p>
+<p id="p-0039" num="0038">As illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref> and <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>8</b></figref>, the vehicle body <b>1</b> has a vehicle frame <b>10</b> formed in a gate shape in a view in a front-back direction and left and right crawlers <b>11</b> connected to left and right lower ends of the vehicle frame <b>10</b>. An engine <b>12</b>, a battery <b>13</b>, and the like are mounted on a left side portion of the vehicle body <b>1</b>. A right side portion of the vehicle body <b>1</b> is provided with an oil tank <b>14</b> made of a steel plate formed in a lateral L shape, a chemical tank <b>4</b>A of a chemical spraying device <b>4</b>, and the like. A ceiling of the vehicle body <b>1</b> is provided with a front antenna unit <b>15</b> arranged on a front portion of a ceiling, a rear antenna unit <b>16</b> arranged on a rear portion of the ceiling, a stacked indication lamp <b>17</b> that indicates a travel state of the vehicle body <b>1</b>, and the like. The engine <b>12</b>, the battery <b>13</b>, and the like are covered by a left cover <b>18</b> forming a left outer surface of the vehicle body <b>1</b>. The oil tank <b>14</b>, the chemical tank <b>4</b>A, and the like are covered by a right cover <b>19</b> forming a right outer surface of the vehicle body <b>1</b>.</p>
+<p id="p-0040" num="0039">As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>8</b></figref>, the vehicle body frame <b>10</b> has left and right side frames <b>20</b> arranged in parallel at predetermined intervals in a left-right direction, a front cross member <b>21</b> bridging between upper ends of the left and right side frames <b>20</b> at a front end, and a rear cross member <b>22</b> bridging between upper ends of the left and right side frames <b>20</b> at a rear end, and the like. Thus, the vehicle body frame <b>10</b> is formed in a gate shape with a space ensured between the left and right side frames <b>20</b> to allow passage of trees. An inner wall body <b>23</b> forming a corresponding one of left and right inner surfaces of the vehicle body <b>1</b> is attached to each of the left and right side frames <b>20</b>.</p>
+<p id="p-0041" num="0040">As illustrated in <figref idref="DRAWINGS">FIGS. <b>4</b> to <b>7</b></figref>, each of the side frames <b>20</b> has a base member <b>20</b>A extending in a front-rear direction of the vehicle body <b>1</b>, a front pillar member <b>20</b>B extending upwardly from a front end of the base member <b>20</b>A, a rear pillar member <b>20</b>C extending upwardly from a rear end of the base member <b>20</b>A, and an upper side member <b>20</b>D bridging between an upper end of the front pillar member <b>20</b>B and an upper end of the rear pillar member <b>20</b>C, and the like. Thus, the left and right side frames <b>20</b> are formed in a rectangular shape in a view in the left-right direction.</p>
+<p id="p-0042" num="0041">As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>6</b></figref>, of the left and right side frames <b>20</b>, the left side frame <b>20</b> supports a loading stand <b>24</b> on which the engine <b>12</b>, the battery <b>13</b>, and the like are placed. The loading stand <b>24</b> is arranged directly above the left side crawler <b>11</b> in proximity to the crawler <b>11</b> by extending leftward from a lower portion of the left side frame <b>20</b>. As illustrated in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the loading stand <b>24</b> is provided with a first support portion <b>24</b>A that supports a muffler <b>25</b> and a fuel tank <b>26</b>.</p>
+<p id="p-0043" num="0042">As illustrated in <figref idref="DRAWINGS">FIGS. <b>4</b> to <b>5</b></figref> and <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the oil tank <b>14</b> is connected to the right side frame <b>20</b> with the oil tank <b>14</b> extending rightward from a lower portion of the right side frame <b>20</b>. Thus, the oil tank <b>14</b> is arranged directly above the right side crawler <b>11</b> in proximity to the crawler <b>11</b>.</p>
+<p id="p-0044" num="0043">That is, in the work vehicle V, the engine <b>12</b> and the battery <b>13</b> that are heavy, and the oil tank <b>14</b> that becomes heavy when oil is stored therein, and the like are arranged in a lower portion of the vehicle body <b>1</b> in a state of being divided into left and right. Thus, the work vehicle V is configured such that a center of gravity is made lower in a state where a left-right balance is achieved. As a result, the work vehicle V can stably perform contour travel or the like at a slope of a farm.</p>
+<p id="p-0045" num="0044">As illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIGS. <b>6</b> to <b>7</b></figref>, the left and right crawlers <b>11</b> use the base members <b>20</b>A of the side frames <b>20</b> that also serve as track frames thereof. In each of the left and right crawlers <b>11</b>, a driving sprocket <b>11</b>A and a first rolling wheel <b>11</b>B are rotatably supported at the front end of the track frame (base member) <b>20</b>A. A tension play wheel <b>11</b>C is supported at the rear end of the track frame <b>20</b>A so as to be displaceable in the front-back direction. Front and rear equalizer arms <b>11</b>E each of which pivots like a balance in an up-down direction about a corresponding one of front and rear support shafts <b>11</b>D extending laterally toward outside from the track frame <b>20</b>A are provided in front and rear middle portions of the track frame <b>20</b>A. A second rolling wheel <b>11</b>F is rotatably supported at front and rear free ends of each of the equalizer arms <b>11</b>E. That is, four second rolling wheels <b>11</b>F are supported at the front and rear middle portions of the track frame <b>20</b>A so as to be pivotally displaceable in the up-down direction. A crawler belt <b>11</b>G is put around the driving sprocket <b>11</b>A, each of the rolling wheels <b>11</b>B and <b>11</b>F, and the play wheel <b>11</b>C. A tensioning mechanism (not illustrated) is provided at a rear portion of the truck frame <b>20</b>A to maintain the crawler belt <b>11</b>G under tension by displacing and energizing the play wheels <b>11</b>C rearwardly.</p>
+<p id="p-0046" num="0045">As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>6</b></figref>, in the left side crawler <b>11</b>, the front and rear support shafts <b>11</b>D have their left ends connected to a left end of the loading stand <b>24</b> via a left side support plate <b>27</b>. As illustrated in <figref idref="DRAWINGS">FIGS. <b>4</b> to <b>5</b></figref> and <figref idref="DRAWINGS">FIG. <b>7</b></figref>, in the right side crawler <b>11</b>, the front and rear support shafts <b>11</b>D have their right ends connected to a right end of the oil tank <b>14</b> via a right side support plate <b>27</b>. That is, in the work vehicle V, the vehicle body frame <b>10</b> and the left and right crawlers <b>11</b> are configured as a single structure.</p>
+<p id="p-0047" num="0046">As illustrated in <figref idref="DRAWINGS">FIG. <b>4</b></figref> and <figref idref="DRAWINGS">FIGS. <b>6</b> to <b>7</b></figref>, power from the engine <b>12</b> is transmitted to the respective driving sprockets <b>11</b>A of the crawlers <b>11</b> via a pair of hydrostatic continuously variable transmissions (hereinafter referred to as HSTs) <b>30</b> and left and right chain-type transmission devices <b>31</b>. As each of the HSTs <b>30</b>, a separate-type HST having a variable displacement, axial plunger type hydraulic pump <b>30</b>A, a fixed displacement, axial plunger type hydraulic motor <b>30</b>B, and a plurality of hydraulic pipes <b>30</b>C connecting the hydraulic pump <b>30</b>A and the hydraulic motor <b>30</b>B is employed.</p>
+<p id="p-0048" num="0047">With the above-described configuration, the left and right crawlers <b>11</b> are driven by power from the engine <b>12</b> in a state where independent shifting by the corresponding HST <b>30</b> is possible. Thus, the vehicle body <b>1</b> is put in a forward state where the vehicle body <b>1</b> moves forward by driving the left and right crawlers <b>11</b> at equal speeds in a forward direction and is put in a backward state where the vehicle body <b>1</b> moves rearward by driving the left and right crawlers <b>11</b> at equal speeds in the backward direction. The vehicle body <b>1</b> is put in a forward turning state where the vehicle body <b>1</b> turns slowly while moving forward by driving the left and right crawlers <b>11</b> at unequal speeds in the forward direction and is put in a backward turning state where the vehicle body <b>1</b> turns slowly while moving backward by driving the left and right crawlers <b>11</b> at unequal speeds in the backward direction. The vehicle body <b>1</b> is put in a pivot turning state by driving, while driving of one of the left and right crawlers <b>11</b> is stopped, the other one of the left and right crawlers <b>11</b>, and is put in a spin turning state by driving the left and right crawlers <b>11</b> at equal speeds in the forward and backward directions. The vehicle body <b>1</b> is put in a travel stop state by stopping driving of the left and right crawlers <b>11</b>.</p>
+<p id="p-0049" num="0048">The left and right crawlers <b>11</b> may electrically configured such that their driving sprockets <b>11</b>A are driven by left and right electric motors.</p>
+<p id="p-0050" num="0049">As illustrated in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, in each of the HSTs <b>30</b>, their hydraulic pumps <b>30</b>A are of a dual-type that is driven by a single pump shaft (not illustrated) directly connected to an output shaft <b>12</b>A of the engine <b>12</b>. The dual hydraulic pump <b>30</b>A is placed on the loading stand <b>24</b> in an arrangement directly below the fuel tank <b>26</b>. As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>4</b></figref> and <figref idref="DRAWINGS">FIGS. <b>6</b> to <b>7</b></figref>, each of the left and right hydraulic motors <b>30</b>B is attached to an upper portion of a transmission case <b>29</b> connected to a lower portion of the front end of each of the side frames <b>20</b>. Each of the hydraulic pipes <b>30</b>C is provided along the vehicle body frame <b>10</b>. Each of the left and right chain-type transmission devices <b>31</b> transmits power to a drive shaft (not illustrated) that turns integrally with the driving sprocket <b>11</b>A of the crawler <b>11</b> from the output shaft (not illustrated) of the hydraulic motor <b>30</b>B in a corresponding one of the transmission cases <b>29</b>.</p>
+<p id="p-0051" num="0050">As illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>8</b></figref>, the chemical spraying device <b>4</b> includes a chemical tank <b>4</b>A that stores chemical liquid, a chemical pump <b>4</b>B that pumps the chemical liquid, an electric spraying motor <b>4</b>C that drives the chemical pump <b>4</b>B, a belt-type transmission device <b>4</b>D that transmits power from the spraying motor <b>4</b>C to the chemical pump <b>4</b>B, spraying pipes <b>4</b>E provided such that two spraying pipes <b>4</b>E are arranged at each of left and right sides in a longitudinal attitude in a back portion of the vehicle body <b>1</b>, twelve spraying nozzles <b>4</b>F in total provided such that three spraying nozzles <b>4</b>F are arranged in each spraying pipe <b>4</b>E, an electronically controlled valve unit <b>4</b>G that changes amount and pattern of spraying of the chemical liquid, a plurality of chemical pipes (not illustrated) that connect these components, and the like.</p>
+<p id="p-0052" num="0051">The chemical tank <b>4</b>A is supported by the oil tank <b>14</b> via front and rear support frames <b>32</b> and <b>33</b> provided on a top surface of the oil tank <b>14</b>. The chemical pump <b>4</b>B is placed on a rear portion of the loading stand <b>24</b>. The spraying motor <b>4</b>C is supported by a second support portion <b>24</b>B provided to the rear portion of the loading stand <b>24</b>. The spraying motor <b>4</b>C is arranged directly above the chemical pump <b>4</b>B. Each of the two spraying pipes <b>4</b>E on a left side is attached to a support member <b>20</b>E having an L shape in a plan view and provided to the left side frame <b>20</b> via a pipe holder <b>34</b> extending in the up-down direction and a bracket <b>35</b> connected to upper and lower middle portions of the pipe holder <b>34</b>. Each of the two spraying pipes <b>4</b>E on a right side is attached to a support member <b>20</b>E having an L shape in a plan view and provided on the right side frame <b>20</b> via a pipe holder <b>34</b> extending in the up-down direction and a bracket <b>35</b> connected to upper and lower middle portions of the pipe holder <b>34</b>.</p>
+<p id="p-0053" num="0052">Each of the spraying nozzles <b>4</b>F is attached to a corresponding one of the spraying pipes <b>4</b>E so as to be repositionable in the up-down direction. Thus, spaces between the spraying nozzles <b>4</b>F in the up-down direction and height positions of the spraying nozzles <b>4</b>F relative to the spraying pipes <b>4</b>E can be changed in accordance with a spray target. Each of the pipe holders <b>34</b> is pin-connected to a corresponding one of the brackets <b>35</b> in the up-down direction so as to be repositionable. Thus, the height position of each of the spraying nozzles <b>4</b>F relative to the vehicle body <b>1</b> can be changed for each of the pipe holders <b>34</b> in accordance with the spray target. Each of the brackets <b>35</b> is pin-connected to a corresponding one of the support members <b>20</b>E so as to be repositionable in the left-right direction. Thus, a position of each of the spraying nozzles <b>4</b>F in the left-right direction relative to the vehicle body <b>1</b> can be changed for each of the brackets <b>35</b> in accordance with the spray target.</p>
+<p id="p-0054" num="0053">As illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>9</b></figref>, among the spraying nozzles <b>4</b>F, six middle spraying nozzles <b>4</b>F provided to two of the spraying pipes <b>4</b>E at center of the vehicle body <b>1</b> spray the chemical liquid to trees Z located in a space at center of the vehicle body in the left-right direction. Three left spraying nozzles <b>4</b>F provided to the spraying pipe <b>4</b>E at a left end of the vehicle body spray the chemical liquid to trees Z located at a left outer side of the vehicle body <b>1</b>. Three right spraying nozzles <b>4</b>F provided to the spraying pipe <b>4</b>E at a right end of the vehicle body spray the chemical liquid to trees Z located at a right outer side of the vehicle body <b>1</b>.</p>
+<p id="p-0055" num="0054">As illustrated in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, a left end of the oil tank <b>14</b> is supported by the base member <b>20</b>A of the right side frame <b>20</b>. A support plate <b>36</b> is connected to a right end of the oil tank <b>14</b>. An upper end of the support plate <b>36</b> is connected to an upper member <b>20</b>D of the right side frame <b>20</b> via front and rear support members <b>37</b>. Thus, a right end of the oil tank <b>14</b> is supported by the upper member <b>20</b>D of the right side frame <b>20</b> via the support plate <b>36</b> and the front and rear support members <b>37</b>.</p>
+<p id="p-0056" num="0055">That is, the oil tank <b>14</b> has a high support strength that enables it to be used as a loading stand on which the chemical tank <b>4</b>A is placed, as both its left and right ends are supported by the right side frame <b>20</b>. A shape of the oil tank <b>14</b> in a plan view is laterally symmetrical to a shape of the loading stand <b>24</b> in a plan view.</p>
+<p id="p-0057" num="0056">As illustrated in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, an automatic travel control unit <b>40</b> that causes the vehicle body <b>1</b> to automatically travel in accordance with a target path P (see <figref idref="DRAWINGS">FIG. <b>9</b></figref>) in a farm, based on positioning information from the positioning unit <b>5</b> or the like, an engine control unit <b>41</b> that controls the engine <b>12</b>, an HST control unit <b>42</b> that controls each of the HSTs <b>30</b>, a work device control unit <b>43</b> that controls a work device, and the like are mounted on the vehicle body <b>1</b>. Each of the control units <b>40</b> to <b>43</b> is constructed by an electronic control unit on which a microcontroller and the like are mounted and various information and control programs stored in a non-volatile memory (for example, EEPROM, such as flash memory or the like) of the microcontroller. The various information stored in the non-volatile memory includes the target path P generated in advance in accordance with the farm that is a work target, or the like.</p>
+<p id="p-0058" num="0057">The control units <b>40</b> to <b>43</b> are connected to each other so as to mutually communicate with each other via a controller area network (CAN) that is an example of an in-vehicle network. For example, in-vehicle Ethernet, CAN with Flexible Data Rate (CAN-FD), or the like may be used for the in-vehicle network.</p>
+<p id="p-0059" num="0058">As illustrated in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the target path P includes work paths Pw in a plurality of lines along which the work vehicle V travels while performing work on the trees Z planted in a plurality of lines and a plurality of moving paths Pm connecting the work paths Pw in the plurality of lines in a travel order of the work vehicle V. Each of the moving paths Pm is a path along which the work vehicle V travels without performing any work. Each of the moving paths Pm includes a turning path Pmt used for changing the direction of the vehicle body <b>1</b>. The target path P includes various information related to automatic travel, such as the travel direction, set vehicle speed, a travel state, a work state, or the like, of the vehicle body <b>1</b> in each of the paths Pw and Pm.</p>
+<p id="p-0060" num="0059">Incidentally, in each of the work paths Pw, the vehicle speed is set to relatively high speed (work speed) because each of the work paths Pw is a straight path or an approximately straight path corresponding to trees Z planted in a plurality of lines. In each of the turning paths Pmt of each of the moving paths Pm, the vehicle speed is set to lower speed (turning speed) than the vehicle speed in the work paths Pw in order to prevent the work vehicle V from deviating from the turning path Pmt. On the other hand, in the other moving paths than the turning paths Pmt, the vehicle speed is set to the same relatively high speed as that on the work paths Pw because they are straight paths or approximately straight paths similar to the work paths Pw.</p>
+<p id="p-0061" num="0060">The target path P illustrated in <figref idref="DRAWINGS">FIG. <b>9</b></figref> is merely one example. The target path P can be changed in various manners in accordance with vehicle information, such as a type of the work device provided in the vehicle body <b>1</b>, a type of work, or the like, and work site information, such as an arrangement state and the number of lines of the trees Z that vary from farm to farm.</p>
+<p id="p-0062" num="0061">As illustrated in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the mobile communication terminal <b>3</b> includes a terminal control unit <b>3</b>B that performs control related to a display device <b>3</b>A or the like. The terminal control unit <b>3</b>B is constructed by an electronic control unit on which a microcontroller and the like are mounted and various information and control programs stored in a non-volatile memory (for example, EEPROM, such as flash memory or the like) of the microcontroller. The various information stored in the non-volatile memory includes work site information, the target path P (see <figref idref="DRAWINGS">FIG. <b>9</b></figref>), or the like. Thus, the work site information, the target path P, or the like can be displayed on the display device <b>3</b>A of the mobile communication terminal <b>3</b>.</p>
+<p id="p-0063" num="0062">The vehicle body <b>1</b> and the mobile communication terminal <b>3</b> include communication modules <b>28</b> and <b>3</b>C that enable wireless communication between the automatic travel control unit <b>40</b> and the terminal control unit <b>3</b>B, respectively. The communication module <b>28</b> of the vehicle body <b>1</b> functions as a converter that converts communication information into CAN and Wi-Fi bidirectionally in a case where Wi-Fi is employed for wireless communication with the mobile communication terminal <b>3</b>. The terminal control unit <b>3</b>B can acquire various information related to the vehicle body <b>1</b>, including the current position and current orientation of the vehicle body <b>1</b>, through wireless communication with the automatic travel control unit <b>40</b>. Thus, various information including the current position and current orientation of the vehicle body <b>1</b> relative to the target path P can be displayed on the display device <b>3</b>A of the mobile communication terminal <b>3</b>.</p>
+<p id="p-0064" num="0063">As illustrated in <figref idref="DRAWINGS">FIG. <b>2</b></figref> and <figref idref="DRAWINGS">FIG. <b>8</b></figref>, the positioning unit <b>5</b> includes two GNSS antennas (examples of positioning antennas) <b>5</b>A and <b>5</b>B that receive radio waves transmitted from a plurality of positioning satellites <b>8</b> (see <figref idref="DRAWINGS">FIG. <b>1</b></figref>), two GNSS receivers (examples of positioning sections) <b>5</b>C and <b>5</b>D that use the radio waves received by the GNSS antenna <b>5</b>A and <b>5</b>B to measure respective positions of the GNSS antennas <b>5</b>A and <b>5</b>B (which will be hereinafter occasionally referred to simply as the antenna positions), an inertial measurement unit (IMU) <b>5</b>E that measures attitude and orientation of the vehicle body <b>1</b>, a positioning module (an example of a calculation unit) <b>5</b>F that calculates the current position and current orientation of the vehicle body <b>1</b>, based on position information from each of the GNSS receivers <b>5</b>C and <b>5</b>D and measurement information from the inertial measurement device <b>5</b>E, and the like.</p>
+<p id="p-0065" num="0064">Each of the GNSS receivers <b>5</b>C and <b>5</b>D and the inertial measurement device <b>5</b>E is connected to the automatic travel control unit <b>40</b> via CAN so as to mutually communicate with the automatic travel control unit <b>40</b>. The inertial measurement device <b>5</b>E includes a 3-axis gyroscope and a 3-directional acceleration sensor, and the like. The positioning module <b>5</b>F is constructed by a control program for positioning or the like stored in a non-volatile memory of the automatic travel control unit <b>40</b>.</p>
+<p id="p-0066" num="0065">GNSS-based positioning methods include differential GNSS (DGNSS): relative positioning system, real time kinematic GNSS (RTK-GNSS): interferometric positioning system, and the like. In this embodiment, highly accurate RTK-GNSS suitable for positioning of mobile objects is used. Therefore, base stations <b>9</b> that enable positioning by RTK-GNSS are installed at known locations around the farm.</p>
+<p id="p-0067" num="0066">As illustrated in <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>2</b></figref>, the base station <b>9</b> is provided with a GNSS antenna <b>9</b>A that receives radio waves transmitted from the plurality of positioning satellites <b>8</b> and a GNSS receiver <b>9</b>B that uses the radio waves received by the GNSS antenna <b>9</b>A to measure a position of the GNSS antenna <b>9</b>A (which will be hereinafter occasionally referred to simply as the antenna position). The GNSS receiver <b>9</b>B acquires position correction information, based on the measured antenna position and an installation position of the base station <b>9</b>. The positioning unit <b>5</b> and the base station <b>9</b> are provided with communication modules <b>5</b>G, <b>5</b>H, and <b>9</b>C that enable wireless communication between the GNSS receivers <b>5</b>C and <b>5</b>D of the positioning unit <b>5</b> and the GNSS receiver <b>9</b>B of the base station <b>9</b>. This allows each of the GNSS receivers <b>5</b>C and <b>5</b>D of the positioning unit <b>5</b> to receive the position correction information from the GNSS receiver <b>9</b>B of the base station <b>9</b>.</p>
+<p id="p-0068" num="0067">Each of the GNSS receivers <b>5</b>C and <b>5</b>D of the positioning unit <b>5</b> corrects a corresponding one of the antenna positions measured by them, based on the position correction information from the GNSS receiver <b>9</b>B of the base station <b>9</b>. This allows each of the GNSS receivers <b>5</b>C and <b>5</b>D to measure the position (latitude, longitude, and altitude in the global coordinate system) of each of the GNSS antennas <b>5</b>A and <b>5</b>B with high accuracy. The positioning unit <b>5</b> has the GNSS receivers <b>5</b>C and <b>5</b>D and the inertial measurement device <b>5</b>E, so that reduction in positioning accuracy in the GNSS receivers <b>5</b>C and <b>5</b>D caused by deterioration of a surrounding environment or the like can be supplemented by the inertial measurement device <b>5</b>E. The positioning unit <b>5</b> can correct measurement errors accumulated in the inertial measurement device <b>5</b>E, based on the antenna positions measured by the GNSS receivers <b>5</b>C and <b>5</b>D. Even with the GNSS antennas <b>5</b>A and <b>5</b>B arranged at a top of the vehicle body <b>1</b> in order to increase a reception sensitivity of each of the GNSS antennas <b>5</b>A and <b>5</b>B, the positioning unit <b>5</b> can correct misalignment of each antenna position in the left-right direction of the vehicle body relative to the target path P caused by the rolling of the vehicle body <b>1</b>, based on an installation height of each of the GNSS antennas <b>5</b>A and <b>5</b>B and a roll angle of the vehicle body <b>1</b> measured by the inertial measurement device <b>5</b>E. This allows the positioning unit <b>5</b> to measure the current position, current orientation, and attitude angles (yaw angle, roll angle, and pitch angle) of the vehicle body <b>1</b> with high accuracy.</p>
+<p id="p-0069" num="0068">As illustrated in <figref idref="DRAWINGS">FIG. <b>8</b></figref>, each of the GNSS antennas <b>5</b>A and <b>5</b>B of the positioning unit <b>5</b> is separately installed in two positions, that is, front and rear positions, in the ceiling of the vehicle body <b>1</b> at predetermined intervals in the front-rear direction of the vehicle body. Respective height positions of the front and rear GNSS antennas <b>5</b>A and <b>5</b>B are set at the same height. Of the front and rear GNSS antennas <b>5</b>A and <b>5</b>B, the front GNSS antenna <b>5</b>A is provided in the front antenna unit <b>15</b> together with the communication module <b>5</b>G connected to the GNSS receiver <b>5</b>C corresponding to the front GNSS antenna <b>5</b>A, or the like. The rear GNSS antenna <b>5</b>B is provided in a rear antenna unit <b>16</b> together with the communication module <b>5</b>H connected to the GNSS receiver <b>5</b>D corresponding to the rear GNSS antenna <b>5</b>B, the inertial measurement device <b>5</b>E, the communication module <b>28</b> for the mobile communication terminal <b>3</b>, or the like. The positional relationship between the antennas, the installation height, and the like of the front and rear GNSS antennas <b>5</b>A and <b>5</b>B are stored in the non-volatile memory of the automatic travel control unit <b>40</b>.</p>
+<p id="p-0070" num="0069">As illustrated in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the obstacle detection system <b>6</b> includes left and right front LiDAR sensors <b>6</b>A and a single rear LiDAR sensor <b>6</b>B. As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>4</b></figref> and <figref idref="DRAWINGS">FIG. <b>6</b></figref>, of the left and right front LiDAR sensors <b>6</b>A, the left front LiDAR sensor <b>6</b>A is arranged in a left front end in the ceiling of the vehicle body <b>1</b> in a front down attitude looking down on a left front side of the vehicle body <b>1</b> from an obliquely upper side. Thus, for the left front LiDAR sensor <b>6</b>A, a predetermined range at the left front side of the vehicle body is set as a measurement range. As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>4</b></figref> and <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the right front LiDAR sensor <b>6</b>A is arranged at a right front end in the ceiling of the vehicle body <b>1</b> in a front down attitude looking down on a right front side of the vehicle body <b>1</b> from an obliquely upper side. Thus, for the right front LiDAR sensor <b>6</b>A, a predetermined range at the right front side of the vehicle body is set as a measurement range. As illustrated in <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>7</b></figref>, the rear LiDAR sensor <b>6</b>B is arranged at a rear end of the ceiling of the vehicle body <b>1</b> at center in the left-right direction in a rear down attitude looking down on a rear side of the vehicle body <b>1</b> from an obliquely upper side. Thus, for the rear LiDAR sensor <b>6</b>B, a predetermined range at the rear side of the vehicle body is set as a measurement range.</p>
+<p id="p-0071" num="0070">Each of the LiDAR sensors <b>6</b>A and <b>6</b>B measures a distance from a corresponding one of the LiDAR sensors <b>6</b>A and <b>6</b>B to each distance measurement point (measurement target object) in the measurement ranges by a time-of-flight (TOF) method used for measuring the distance to a distance measurement point, based on a round trip time until an irradiated laser beam reaches the distance measurement point and returns. Each of the LiDAR sensors <b>6</b>A and <b>6</b>B scans the laser beam horizontally and vertically at high speed over the entire measurement ranges and sequentially measures the distance to the distance measurement point at each scanning angle (coordinates). Each of the LiDAR sensors <b>6</b>A and <b>6</b>B generates a distance image from measurement information, such as the measured distance to each distance measurement point, the scanning angle (coordinates) for each distance measurement point, or the like, and extracts a group of distance measurement points that are presumed to be obstacles, and then, transmits the measurement information related to the extracted group of distance measurement points to the automatic travel control unit <b>40</b> as measurement information related to obstacles.</p>
+<p id="p-0072" num="0071">As illustrated in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the obstacle detection system <b>6</b> includes left and right front ultrasonic sensors <b>6</b>C, front and rear left ultrasonic sensors <b>6</b>D, front and rear right ultrasonic sensors <b>6</b>E, and a single obstacle detection unit <b>6</b>F. As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>4</b></figref> and <figref idref="DRAWINGS">FIGS. <b>6</b> to <b>7</b></figref>, the left and right front ultrasonic sensors <b>6</b>C are arranged at left and right front ends of the vehicle body <b>1</b> in a forward facing attitude. Thus, for the left and right front ultrasonic sensors <b>6</b>C, left and right predetermined ranges at a front side of the vehicle body are set as measurement ranges. As illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the front and rear left ultrasonic sensors <b>6</b>D are arranged at front and rear left ends of the vehicle body <b>1</b> in a left facing attitude. Thus, for the front and rear left ultrasonic sensors <b>6</b>D, front and rear predetermined ranges at the left outer side of the vehicle body <b>1</b> are set as measurement ranges. The front and rear right ultrasonic sensors <b>6</b>E are arranged at front and rear right ends in the vehicle body <b>1</b> in a right facing attitude. Thus, for the front and rear right ultrasonic sensors <b>6</b>E, front and rear predetermined ranges at a right outer side of the vehicle body <b>1</b> are set as measure ranges.</p>
+<p id="p-0073" num="0072">The obstacle detection unit <b>6</b>F determines whether a measurement target object in the measurement range of each of the ultrasonic sensors <b>6</b>C to <b>6</b>E, based on transmission and reception of ultrasonic waves at each of the ultrasonic sensors <b>6</b>C to <b>6</b>E. The obstacle detection unit <b>6</b>F measures a distance from each of the ultrasonic sensors <b>6</b>C to <b>6</b>E to the measurement target object by the time-of-flight (TOF) method used for measuring a distance to a distance measurement point, based on a round trip time until transmitted ultrasonic waves reach the distance measurement point and return. The obstacle detection unit <b>6</b>F transmits the measured distance to the measured measurement target object and the direction of the measurement target object to the automatic travel control unit <b>40</b> as measurement information related to the obstacle.</p>
+<p id="p-0074" num="0073">Each of the LiDAR sensors <b>6</b>A and <b>6</b>B and the obstacle detection unit <b>6</b>F includes an electronic control unit on which a microcontroller and the like are mounted, various control programs, and the like. Each of the LiDAR sensors <b>6</b>A and <b>6</b>B and the obstacle detection unit <b>6</b>F is connected to the automatic travel control unit <b>40</b> via CAN so as to mutually communicate with the automatic travel control unit <b>40</b>.</p>
+<p id="p-0075" num="0074">As illustrated in <figref idref="DRAWINGS">FIG. <b>2</b></figref> and <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the automatic travel control unit <b>40</b> includes a collision avoidance module <b>40</b>A that avoids a risk that the work vehicle V collides with an obstacle, based on measurement information related to the obstacle from each of the LiDAR sensors <b>6</b>A and <b>6</b>B and the obstacle detection unit <b>6</b>F.</p>
+<p id="p-0076" num="0075">As illustrated in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the camera unit <b>7</b> includes left and right front cameras <b>7</b>A that photograph a front side of the vehicle body <b>1</b>, a single rear camera <b>7</b>B that photographs the rear side of the vehicle body <b>1</b>, and an image processing unit <b>7</b>C that processes images from each of the cameras <b>7</b>A and <b>7</b>B. As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>4</b></figref>, <figref idref="DRAWINGS">FIG. <b>6</b></figref>, and <figref idref="DRAWINGS">FIG. <b>8</b></figref>, of the left and right front cameras <b>7</b>A, the left front camera <b>7</b>A is arranged at the left front end in the ceiling of the vehicle body <b>1</b> in a front down attitude looking down on the left front side of the vehicle body <b>1</b> from an obliquely upper side. Thus, for the left front camera <b>7</b>A, a predetermined range at the left front side of the vehicle body is set as an imaging range. As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>4</b></figref> and <figref idref="DRAWINGS">FIGS. <b>7</b> to <b>8</b></figref>, the right front camera <b>7</b>A is arranged at the right front end in the ceiling of the vehicle body <b>1</b> in a front down attitude looking down on the right front side of the vehicle body <b>1</b> from an obliquely upper side. Thus, for the right front camera <b>7</b>A, a predetermined range at the right front side of the vehicle body is set as an imaging range. As illustrated in <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>8</b></figref>, the rear camera <b>7</b>B is arranged at the rear end of the ceiling of the vehicle body <b>1</b> at center in the left-right direction in a rear down attitude looking down on a rear side of the vehicle body <b>1</b> from an obliquely upper side. As a result, for the rear camera <b>7</b>B, a predetermined range at the rear side of the vehicle body is set as an imaging range.</p>
+<p id="p-0077" num="0076">The image processing unit <b>7</b>C includes an electronic control unit on which a microcontroller and the like are mounted, various control programs, and the like. The image processing unit <b>7</b>C is connected to the automatic travel control unit <b>40</b> via CAN so as to mutually communicate with the automatic travel control unit <b>40</b>. The image processing unit <b>7</b>C processes the information from each of the cameras <b>7</b>A and <b>7</b>B to generate a left front image of the vehicle body, a right front image of the vehicle body, and a rear image of the vehicle body, or the like and transmits the image to the automatic travel control unit <b>40</b>. The automatic travel control unit <b>40</b> transfers each transmitted image to the terminal control unit <b>3</b>B of the mobile communication terminal <b>3</b>. Thus, the left front image of the vehicle body, the right front image of the vehicle body, the rear image of the vehicle body, or the like can be displayed on the display device <b>3</b>A of the mobile communication terminal <b>3</b>. A user can then easily grasp a situation on the front side of the vehicle body and a situation on the rear side of the vehicle body by viewing each image displayed on the display device <b>3</b>A.</p>
+<p id="p-0078" num="0077">The camera unit <b>7</b> may be included in the obstacle detection system <b>6</b> by applying a learning process for recognizing trees or the like in the farm as obstacles to the camera unit <b>7</b>. In this case, the obstacle can be detected with higher accuracy, based on information related to the obstacle from each of the LiDAR sensors <b>6</b>A and <b>6</b>B and each of the ultrasonic sensors <b>6</b>C to <b>6</b>E with high distance measurement accuracy and information related to the obstacle from the camera unit <b>7</b> with high object discrimination accuracy.</p>
+<p id="p-0079" num="0078">In the work vehicle V, in a case where start of automatic travel is commanded by a user's touch operation on the display device <b>3</b>A of the mobile communication terminal <b>3</b>, the positioning module <b>5</b>F of the positioning unit <b>5</b> executes positioning control to measure the current position and current orientation of the vehicle body <b>1</b>. Also, the automatic travel control unit <b>40</b> executes automatic travel control to cause the vehicle body <b>1</b> to automatically travel in accordance with the target path P, based on the target path P in the farm stored in the non-volatile memory, positioning information from the positioning module <b>5</b>F, or the like.</p>
+<p id="p-0080" num="0079">The automatic travel control includes engine command processing in which control commands related to the engine <b>12</b> are transmitted to the engine control unit <b>41</b>, HST command processing in which control commands related to the HSTs <b>30</b> are transmitted to the HST control unit <b>42</b>, work command processing in which control commands related to the work device, such as the chemical spraying device <b>4</b> or the like, are transmitted to the work device control unit <b>43</b>, and the like.</p>
+<p id="p-0081" num="0080">In the engine command processing, the automatic travel control unit <b>40</b> transmits, to the engine control unit <b>46</b>A, an engine speed change command to instruct changing of engine speed, based on set engine speed included in the target path P, or the like. The engine control unit <b>46</b>A executes engine speed control that changes the engine speed in response to the engine speed change command transmitted from the automatic travel control unit <b>46</b>F, or the like.</p>
+<p id="p-0082" num="0081">In the HST command processing, the automatic travel control unit <b>40</b> transmits, to the HST control unit <b>42</b>, a travel state switching command to instruct switching of the travel state, based on the travel state of the vehicle body <b>1</b> included in the target path P and a vehicle speed change command to instruct changing of the vehicle speed, based on set vehicle speed included in the target path P, or the like. The HST control unit <b>42</b> executes travel state switching control to control an operation of each of the HSTs <b>30</b> in response to a travel state switching command transmitted from the automatic travel control unit <b>40</b>, vehicle speed control to control the operation of each of the HSTs <b>30</b> in response to the vehicle speed change command transmitted from the automatic travel control unit <b>40</b>, or the like.</p>
+<p id="p-0083" num="0082">In the work command processing, the automatic travel control unit <b>40</b> transmits, to the work device control unit <b>43</b>, a spray pattern switching command to instruct switching of a spray pattern in the chemical spraying device <b>4</b>, based on a spray pattern included in the target path P, a spray start command to instruct start of spraying chemical liquid by the chemical spraying device <b>4</b>, based on a work start point included in the target path P, a spray stop command to instruct stop of spraying the chemical liquid by the chemical spraying device <b>4</b>, based on a work stop point included in the target path P, or the like. The work device control unit <b>43</b> executes chemical spraying control that controls a spraying state of the chemical liquid by the chemical spraying device <b>4</b> by controlling an operation of the valve unit <b>4</b>G in accordance with the spray pattern switching command, the spray start command, the spray stop command, or the like transmitted from the automatic travel control unit <b>40</b>.</p>
+<p id="p-0084" num="0083">That is, the automatic travel unit <b>2</b> described above includes the positioning unit <b>5</b>, the obstacle detection system <b>6</b>, the camera unit <b>7</b>, the automatic travel control unit <b>40</b>, the engine control unit <b>41</b>, the HST control unit <b>42</b>, the work device control unit <b>43</b>, and the like. When these units properly operate, the work vehicle V can be accordingly caused to automatically travel in accordance with the target path P, and the chemical spraying work by the chemical spraying device <b>4</b> can be properly performed.</p>
+<p id="p-0085" num="0084">Although not illustrated, the vehicle body <b>1</b> includes various detection devices, such as a first rotation sensor that detects output rotation speed of the engine <b>12</b>, left and right second rotation sensors that detect respective output rotation speeds of the hydraulic motors <b>30</b>B in the HSTs <b>30</b>, a first residual volume sensor that detects a residual volume of the chemical liquid in the chemical tank <b>4</b>A, a second residual volume sensor that detects a residual volume of a fuel in the fuel tank <b>26</b>, or the like.</p>
+<p id="p-0086" num="0085">A control operation of the positioning module <b>5</b>F in positioning control will be described below based on flowcharts of <figref idref="DRAWINGS">FIGS. <b>11</b> to <b>14</b></figref> and <figref idref="DRAWINGS">FIGS. <b>15</b> to <b>17</b></figref>.</p>
+<p id="p-0087" num="0086">As illustrated in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the positioning module <b>5</b>F performs a first initialization process to initialize the front and rear GNSS receivers <b>5</b>C and <b>5</b>D upon start of the positioning control and a first determination process to determine whether positioning states of both of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D have converged from a low-accuracy positioning state (FLOAT state) with a positioning accuracy of several tens of centimeters to a high-accuracy positioning state (FIX state) with a positioning accuracy of several centimeters in the first initialization process (Steps #<b>1</b> and #<b>2</b>).</p>
+<p id="p-0088" num="0087">While the positioning states have not converged to the high-accuracy positioning state in the first determination process, the positioning module <b>5</b>F continues an automatic travel non-permission process that does not permit execution of automatic travel control (Step #<b>3</b>). If the positioning states have converged to the high-accuracy positioning state in the first determination process, the positioning module <b>5</b>F performs an antenna position acquisition process to acquire front and rear antenna positions (latitude, longitude, and altitude of each of the GNSS antennas <b>5</b>A and <b>5</b>B in the global coordinate system) measured by the GNSS receivers <b>5</b>C and <b>5</b>D in the high-accuracy positioning state and a second determination process (synchronization determination process) to determine whether a difference between a reception time of the front antenna position and a reception time of the rear antenna position in the front and rear GNSS receivers <b>5</b>C and <b>5</b>D is within a first specified time (Steps #<b>4</b> and #<b>5</b>).</p>
+<p id="p-0089" num="0088">If the difference between the antenna position reception times is within the first specified time in the second determination process, the positioning module <b>5</b>F performs a first orientation calculation process to calculate the orientation of the vehicle body <b>1</b> from the front and rear antenna positions and an automatic travel permission process to permit execution of automatic travel control (Steps #<b>6</b> and #<b>7</b>). If the difference between the antenna position reception times exceeds the first specified time in the second determination process, the positioning module <b>5</b>F terminates the positioning control without permitting execution of the automatic travel control.</p>
+<p id="p-0090" num="0089">As illustrated in <figref idref="DRAWINGS">FIGS. <b>14</b> to <b>17</b></figref>, the first orientation calculation process includes a first coordinate transformation process to coordinate-transform front and rear antenna positions p<b>1</b> and p<b>2</b> measured by the GNSS receivers <b>5</b>C and <b>5</b>D into a NED coordinate system with one of the front and rear antenna positions (in this case, the rear antenna position p<b>2</b>) as the origin, an inclination calculation process to calculate an inclination &#x3b8;L of a straight line L connecting the antennas with an X axis (north: N) set to 0 degrees from a difference &#x394;x in an X direction and a difference &#x394;y in a Y direction of the front antenna position p<b>1</b> relative to the rear antenna position p<b>2</b> in the NED coordinate system (see <figref idref="DRAWINGS">FIG. <b>15</b></figref>), an inclination offset amount calculation process to calculate an inclination offset amount &#x394;&#x3b8; between the antennas in a case where the vehicle body <b>1</b> is caused to face true north (N), based on a positional relationship between the front and rear GNSS antennas <b>5</b>A and <b>5</b>B stored in the volatile memory of the automatic travel control unit <b>40</b> (see <figref idref="DRAWINGS">FIG. <b>16</b></figref>), and an orientation calculation process to calculate an orientation &#x3b8;v of the vehicle body <b>1</b> from a difference between the inclination &#x3b8;L of the straight line L obtained in the inclination calculation process and the inclination offset amount &#x394;&#x3b8; between the antennas obtained in the inclination offset amount calculation process (see <figref idref="DRAWINGS">FIG. <b>17</b></figref>) (Steps #<b>31</b> to <b>34</b>).</p>
+<p id="p-0091" num="0090">As illustrated in <figref idref="DRAWINGS">FIG. <b>12</b></figref>, after performing the automatic travel permission process, the positioning module <b>5</b>F performs a third determination process to determine whether the positioning states of both of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D are high-accuracy positioning states (Step #<b>8</b>).</p>
+<p id="p-0092" num="0091">If it is determined that both of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D are in the high-accuracy positioning state in the third determination process, the positioning module <b>5</b>F performs the first orientation calculation process described above (Step #<b>9</b>), and performs a first orientation update process to update the orientation of the vehicle body <b>1</b> calculated in the first orientation calculation process as the current orientation of the vehicle body <b>1</b> (Step #<b>10</b>). The positioning module <b>5</b>F also performs a first setting process to set the rear antenna position as a reference position used for calculating the current position of the vehicle body <b>1</b> in the NED coordinate system, a first vehicle body position calculation process to calculate the current position of the vehicle body <b>1</b> in the NED coordinate system, and a second coordinate transformation process to coordinate-transform the calculated current position of the vehicle body <b>1</b> from the NED coordinate system to the global coordinate system (Steps #<b>11</b> to #<b>13</b>). Thereafter, the positioning module <b>5</b>F performs a fourth determination process to determine whether termination of the automatic travel has been commanded by reaching an end position of the target path P or by a user's touch operation on the display device <b>3</b>A of the mobile communication terminal <b>3</b>, or the like (Step #<b>14</b>). Then, the positioning module <b>5</b>F terminates the positioning control if termination of the automatic travel has been commanded in the fourth determination process, and shifts to the third determination process of Step #<b>8</b> if not commanded.</p>
+<p id="p-0093" num="0092">If it is not determined that both of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D are in the high-accuracy positioning state in the third determination process, the positioning module <b>5</b>F performs a fifth determination process to determine whether the positioning state of either one of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D is the high-accuracy positioning state (Step #<b>15</b>).</p>
+<p id="p-0094" num="0093">If it is determined that either one of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D is in the high-accuracy positioning state in the fifth determination process, the positioning module <b>5</b>F performs a sixth determination process to determine whether the current position of the vehicle body <b>1</b> is on the turning path Pmt (Step #<b>16</b>). If it is not determined that either one of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D is in the high-accuracy positioning state in the fifth determination process and if the vehicle body <b>1</b> is on the turning path Pmt in the sixth determination process, the positioning module <b>5</b>F performs an automatic travel suspension process to suspend the automatic travel control (Step #<b>17</b>), and then, shifts to the first determination processing of Step #<b>2</b>.</p>
+<p id="p-0095" num="0094">If the vehicle body <b>1</b> is not on the turning path Pmt in the sixth determination process, the positioning module <b>5</b>F performs a second orientation calculation process to calculate the orientation of the vehicle body <b>1</b> from the orientation of the vehicle body <b>1</b> calculated in the first orientation calculation process immediately before either one of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D is put in the low-accuracy positioning state and a yaw angle change amount measured by the inertial measurement device <b>5</b>E (Step #<b>18</b>), and performs a second orientation update process to update the orientation of the vehicle body <b>1</b> calculated in the second orientation calculation process as the current orientation of the vehicle body <b>1</b> (Step #<b>19</b>).</p>
+<p id="p-0096" num="0095">After performing the second orientation update process, the positioning module <b>5</b>F performs a seventh determination process to determine whether the positioning states are the high-accuracy positioning state (Step #<b>20</b>).</p>
+<p id="p-0097" num="0096">If the front GNSS receiver <b>5</b>C is in the high-accuracy positioning state in the seventh determination process, the positioning module <b>5</b>F performs a second setting process to set the front antenna position as a reference position used for calculating the current position of the vehicle body <b>1</b> in the NED coordinate system (Step #<b>21</b>). If the rear GNSS receiver <b>5</b>D is in the high-accuracy positioning state in the seventh determination process, the first setting process described above is performed (Step #<b>22</b>).</p>
+<p id="p-0098" num="0097">When the reference position is set in the first setting process of Step #<b>22</b> or the second setting process of Step #<b>21</b>, as illustrated in <figref idref="DRAWINGS">FIG. <b>13</b></figref>, the positioning module <b>5</b>F performs a second vehicle body position calculation process to calculate the current position of the vehicle body <b>1</b> in the NED coordinate system and a second coordinate transformation process to coordinate-transform the calculated current position of the vehicle body <b>1</b> from the NED coordinate system to the global coordinate system (Steps #<b>23</b> to <b>24</b>).</p>
+<p id="p-0099" num="0098">After performing the second coordinate transformation process of Step #<b>24</b>, the positioning module <b>5</b>F performs an eighth determination process to determine whether a time since either one of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D was put in the low-accuracy positioning state exceeds a second specified time at which measurement accuracy of the inertial measurement device <b>5</b>E cannot be ensured (Step #<b>25</b>).</p>
+<p id="p-0100" num="0099">If the time exceeds the second specified time in the eighth determination process in the eighth determination process, the positioning module <b>5</b>F shifts to the automatic travel suspension process of Step #<b>17</b>. If the positioning module <b>5</b>F does not exceed the second specified time in the eighth determination process, the positioning module <b>5</b>F shifts to the third determination process of Step #<b>8</b>.</p>
+<p id="p-0101" num="0100">That is, in the work vehicle V, the positioning module <b>5</b>F functions as a positioning state determination unit that determines whether the positioning state of each of the GNSS receivers <b>5</b>C and <b>5</b>D is the high-accuracy positioning state. If the positioning module <b>5</b>F determines that both of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D are in the high-accuracy positioning state, the positioning module <b>5</b>F permits start of automatic travel control. Therefore, when start of automatic travel control is permitted, the GNSS receivers <b>5</b>C and <b>5</b>D in the high-accuracy positioning state measures the front and rear antenna positions using GNSS, and the positioning module <b>5</b>F calculates the current position and current orientation of the vehicle body <b>1</b>, based on the front and rear antenna positions measured by the GNSS receivers <b>5</b>C and <b>5</b>D in the high-accuracy positioning state.</p>
+<p id="p-0102" num="0101">As described above, if the front and rear GNSS receivers <b>5</b>C and <b>5</b>D are in the high-accuracy positioning state, the current orientation of the vehicle body <b>1</b> can be calculated by the positioning module <b>5</b>F without using the inertial measurement device <b>5</b>E or an orientation sensor. Therefore, even in a case where a work site of the work vehicle V is a farm, such as an orchard or the like, where there are structures, such as metal poles, wires, or the like, or in a case where the work vehicle V turns at low speed, the current position and current orientation of the vehicle body <b>1</b> can be calculated with high accuracy.</p>
+<p id="p-0103" num="0102">In addition, in the work vehicle V, the positioning module <b>5</b>F calculates the current orientation of the vehicle body <b>1</b>, based on the front and rear antenna positions, and therefore, it is no longer necessary to obtain a movement vector of the vehicle body <b>1</b> in the process as is the case where the current orientation of the vehicle body <b>1</b> is calculated from a single antenna position. Therefore, the current orientation of the vehicle body <b>1</b> can be calculated with high accuracy even when the vehicle body <b>1</b> is turning with a small turning radius and thus it is difficult to determine a movement vector of the vehicle body <b>1</b>, or when the vehicle body <b>1</b> is stopped and thus it is impossible to determine the movement vector of the vehicle body <b>1</b>.</p>
+<p id="p-0104" num="0103">In the work vehicle V, the automatic travel control unit <b>40</b> cannot start automatic travel control until the front and rear GNSS receivers <b>5</b>C and <b>5</b>D are in the high-accuracy positioning state, and the automatic travel control can be started when the front and rear GNSS receivers <b>5</b>C and <b>5</b>D are in the high-accuracy positioning state. Therefore, at start of the automatic travel control, it is possible to cause the work vehicle V to automatically travel in accordance with the target path P, based on the highly accurate current position and current orientation of the vehicle body <b>1</b> calculated by the positioning module <b>5</b>F.</p>
+<p id="p-0105" num="0104">In the work vehicle V, even in a case where the positioning accuracy of either one of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D is reduced due to, for example, reduction in the number of positioning satellites <b>8</b> radio waves of which can be received by the GNSS antennas <b>5</b>A and <b>5</b>B or reduction in strength of the radio waves from the positioning satellites <b>8</b> caused by deterioration of the surrounding environment, the positioning module <b>5</b>F can calculate the current position of the vehicle body <b>1</b> with high accuracy, based on positioning information from the GNSS receivers <b>5</b>C and <b>5</b>D in the high-accuracy state as long as the positioning accuracy of the other one of the GNSS receivers <b>5</b>C and <b>5</b>D is in the high-accuracy state. Furthermore, the positioning unit <b>5</b> includes the inertial measurement device <b>5</b>E, and thus, the positioning module <b>5</b>F can calculate the highly accurate current orientation of the vehicle body <b>1</b> from the highly accurate orientation (absolute orientation) of the vehicle body <b>1</b> calculated, based on the positioning information from the front and rear GNSS receivers <b>5</b>C and <b>5</b>D in the high-accuracy positioning state until immediately before the positioning accuracy of one of the GNSS receivers <b>5</b>C and <b>5</b>D is reduced and the orientation (yaw angle change) of the vehicle body <b>1</b> measured by the inertial measurement device <b>5</b>E.</p>
+<p id="p-0106" num="0105">However, it is difficult to maintain measurement accuracy of the inertial measurement device <b>5</b>E at low speed. Considering this point, in a case where the positioning accuracy of either one of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D is reduced, the positioning module <b>5</b>F determines the current position of the vehicle body <b>1</b>, and if the position of the vehicle body <b>1</b> is on the work path Pw with high set speed or on some other path than the turning path Pmt in the moving path Pm, the positioning module <b>5</b>F permits continuation of the automatic travel control. If the current position of the vehicle body <b>1</b> is on the turning path Pmt with low set speed, the positioning module <b>5</b>F suspends the automatic travel control.</p>
+<p id="p-0107" num="0106">That is, even in a case where the positioning accuracy of either one of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D is reduced, if the current position of the vehicle body <b>1</b> is on the work path Pw or on some other path than the turning path Pmt in the moving path Pm, the measurement accuracy of the inertial measurement device <b>5</b>E is high, and therefore, the automatic travel control by the automatic travel control unit <b>40</b> is continued. As a result, the automatic travel control unit <b>40</b> can cause the work vehicle V to automatically travel in accordance with the target path P, based on the highly accurate current orientation of the vehicle body <b>1</b> calculated by the positioning module <b>5</b>F, or the like.</p>
+<p id="p-0108" num="0107">In contrast, if the current position of the vehicle body <b>1</b> is on the turning path Pmt, the measurement accuracy of the inertial measurement device <b>5</b>E is reduced, and therefore, the automatic travel control by the automatic travel control unit <b>40</b> is suspended. In addition, the inertial measurement device <b>5</b>E is configured such that, as a measurement time increases, accumulated errors are increased. Therefore, even when the current position of the vehicle body <b>1</b> is on the work path Pw or on some other path than the turning path Pmt in the moving path Pm, the positioning module <b>5</b>F suspends the automatic travel control if a time since either one of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D was put in the low-accuracy positioning state exceeds the above-described second specified time. As a result, it is possible to avoid a risk that the work vehicle V deviates from the target path P due to automatic travel of the work vehicle V caused by the automatic travel control unit <b>40</b> based on the current orientation of the vehicle body <b>1</b> calculated by the positioning module <b>5</b>F with low accuracy when the measurement accuracy of the inertial measurement device <b>5</b>E is low.</p>
+<p id="p-0109" num="0108">Furthermore, in the work vehicle V, in a case where it is not both of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D that are in the high-accuracy positioning state, the positioning module <b>5</b>F suspends the automatic travel control. Thus, it is possible to avoid a risk that the work vehicle V deviates from the target path P due to automatic travel of the work vehicle V caused by the automatic travel control unit <b>40</b>, based on the current orientation of the vehicle body <b>1</b> calculated by the positioning module <b>5</b>F with low accuracy when both of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D are not in the high-accuracy positioning state.</p>
+<p id="p-0110" num="0109">In addition, in the work vehicle V, when the positioning accuracy of either one of the front and rear GNSS receivers <b>5</b>C and <b>5</b>D is reduced, the positioning module <b>5</b>F calculates the current position of the vehicle body <b>1</b>, based on, as a reference, the antenna positions measured by the GNSS receivers <b>5</b>C and <b>5</b>D in the high-accuracy positioning state, and therefore, the module <b>5</b>F can calculate the current position of the vehicle body <b>1</b> with high accuracy even when the positioning accuracy of either one of the GNSS receivers <b>5</b>C and <b>5</b>D is reduced. As a result, the automatic travel control unit <b>40</b> can cause the work vehicle V to automatically travel in accordance with the target path P, based on the highly accurate current position of the vehicle body <b>1</b> calculated by the positioning module <b>5</b>F or the like.</p>
+<p id="p-0111" num="0110">The current position of the vehicle body <b>1</b> calculated by the positioning module <b>5</b>F can be set in various manners. For example, the current position of the vehicle body <b>1</b> can be set in a front end position at center in the left-right direction in the upper end of the vehicle body <b>1</b>, a rear end position at center in the left-right direction in the upper end of the vehicle body <b>1</b>, a middle position in the front-rear direction at center in the left-right direction in the upper end of the vehicle body <b>1</b>, a central position of the vehicle body <b>1</b>, a center of gravity position of the vehicle body <b>1</b>, a turning center position in a spin turning state, or the like.</p>
+<p id="p-0112" num="0111">As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>4</b></figref>, <figref idref="DRAWINGS">FIG. <b>8</b></figref>, and <figref idref="DRAWINGS">FIG. <b>18</b></figref>, a support member <b>50</b> with a U shape in a plan view supporting the front antenna unit <b>15</b> is attached to the front cross member <b>21</b> of the vehicle body frame <b>10</b>. As illustrated in <figref idref="DRAWINGS">FIG. <b>4</b></figref> and <figref idref="DRAWINGS">FIG. <b>18</b></figref>, the support member <b>50</b> includes left and right support plates <b>51</b> formed in a downward L shape in a side view. As illustrated in <figref idref="DRAWINGS">FIG. <b>18</b></figref>, each of the support plates <b>51</b> has a long hole <b>51</b>A extending in the front-rear direction of the vehicle body at an upper end thereof. Using the long holes <b>51</b>A, each of left and right brackets <b>52</b> provided at the bottom of the front antenna unit <b>15</b> is connected to a corresponding one of the support plates <b>51</b> via a pair of front and rear bolts <b>53</b> or the like. With this configuration, the front antenna unit <b>15</b> can be repositioned from a use position above the vehicle body as indicated by a solid line in <figref idref="DRAWINGS">FIG. <b>18</b></figref> to a retracted position in front of the vehicle body as indicated by a double-dotted chain line in <figref idref="DRAWINGS">FIG. <b>18</b></figref> by loosening connection with the support plates <b>51</b> via the rear bolts <b>53</b> or the like after releasing connection with the support plates <b>51</b> via the front bolts <b>53</b> or the like.</p>
+<p id="p-0113" num="0112">As illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>8</b></figref>, a support member <b>54</b> with a U shape in a plan view supporting the rear antenna unit <b>16</b> is attached to the rear cross member <b>22</b> of the vehicle body frame <b>10</b>. As illustrated in <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>7</b></figref>, the support member <b>54</b> includes left and right support plates <b>55</b> formed in a downward L shape in a side view. Each of the support plates <b>55</b> has a long hole <b>55</b>A extending in the front-rear direction of the vehicle body formed at an upper end thereof. Using the long holes <b>55</b>A, each of left and right brackets (not illustrated) provided at the bottom of the rear antenna unit <b>16</b> is connected to a corresponding one of the support plates <b>55</b> via a pair of front and rear bolts <b>56</b> or the like. With this configuration, the rear antenna unit <b>16</b> can be repositioned from a use position above the vehicle body to a retracted position behind the vehicle body by loosening connection with the support plates <b>55</b> via the rear bolts <b>56</b> or the like after releasing connection with the support plates <b>55</b> via the rear bolts <b>56</b> or the like.</p>
+<p id="p-0114" num="0113">As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>4</b></figref>, <figref idref="DRAWINGS">FIG. <b>8</b></figref>, and <figref idref="DRAWINGS">FIG. <b>18</b></figref>, left and right head lights <b>58</b> are attached to respective front lower portions of the left and right support plates <b>51</b> via left and right support metal fittings <b>57</b>. The left and right support metal fittings <b>57</b> are bolted to the left and right support plates <b>51</b> such that angle adjustment in the up-down direction is possible. The left and right head lights <b>58</b> are bolted to the left and right support metal fittings <b>57</b> so as to be pivotally displaceable in the left and right direction. With this configuration, lighting directions of the left and right head lights <b>58</b> can be adjusted to the up-down direction and the left-right direction. In addition, as illustrated in <figref idref="DRAWINGS">FIG. <b>18</b></figref>, in a case where the front antenna unit <b>15</b> is repositioned from the use position indicated by the solid line in <figref idref="DRAWINGS">FIG. <b>18</b></figref> to the retracted position indicated by the double-dotted chain line in <figref idref="DRAWINGS">FIG. <b>18</b></figref>, interference between the front antenna unit <b>15</b> and the left and right indication lights <b>58</b> can be avoided by repositioning the left and right front lights <b>58</b> from the use position in the forward direction to the retracted position in a laterally outward direction.</p>
+<p id="p-0115" num="0114">As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>6</b></figref>, <figref idref="DRAWINGS">FIG. <b>8</b></figref>, and <figref idref="DRAWINGS">FIG. <b>18</b></figref>, the bracket <b>59</b> to which the above-described indication lamp <b>17</b> is detachably attached is connected to a left side of the support member <b>50</b>.</p>
+<p id="p-0116" num="0115">With the above-described configuration, in the work vehicle V, the occurrence of inconvenience in which each of the antenna units <b>15</b> and <b>16</b> and the indication lamp <b>17</b> contacts some other object and is damaged in a case where the work vehicle V is stored in a barn or in a case where the work vehicle V is conveyed by a conveyance vehicle or the like can be suppressed by changing each of respective positions of the antenna units <b>15</b> and <b>16</b> from the use position to the retracted position and removing the indication lamp <b>17</b> from the bracket <b>59</b>.</p>
+<p id="p-0117" num="0116">As illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>8</b></figref>, left and right combination lamps <b>60</b> each having a stop lamp and a back lamp are attached to the left and right support plates <b>55</b>. The left and right combination lamps <b>60</b> are arranged in a position where position change of the rear antenna unit <b>16</b> described above is not interfered.</p>
+<p id="p-0118" num="0117">As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>4</b></figref>, <figref idref="DRAWINGS">FIG. <b>6</b></figref>, and <figref idref="DRAWINGS">FIG. <b>8</b></figref>, on the left side of the vehicle body <b>1</b>, a power switch <b>61</b> that cuts off power supply from the battery <b>13</b> to each of electrical components, such as the control units <b>40</b> to <b>43</b> or the like, is attached to the bracket <b>59</b> supporting the indication lamp <b>17</b>. A step <b>62</b> is attached to the left support plate <b>27</b> to allow standing ride of the user. The left cover <b>18</b> includes an upper cover <b>18</b>A (see <figref idref="DRAWINGS">FIG. <b>3</b></figref>) located in a middle portion of the left cover <b>18</b> in the front-rear direction such that the upper cover <b>18</b>A can pivot to open and close in the up-down direction. In a left inner portion of the vehicle body <b>1</b>, a cross-rocking type control lever <b>63</b> that can be manually operated when the upper cover <b>18</b>A is held in an open position. The control lever <b>63</b> is coupled to the automatic travel control unit <b>40</b> via a sensor unit (not illustrated) that detects operation direction and operation amount thereof, or the like. The automatic travel control unit <b>40</b> transmits switching of the travel state of the vehicle body <b>1</b> to the HST control unit <b>42</b> in accordance with the operation direction and operation amount of the control lever <b>63</b> transmitted from the sensor unit. The HST control unit <b>42</b> controls an operation of each of the HSTs <b>30</b> in accordance with the switching of the travel state transmitted from the automatic travel control unit <b>40</b>.</p>
+<p id="p-0119" num="0118">That is, in the work vehicle V, the user can easily operate the power switch <b>61</b> by standing on the step <b>62</b>. In addition, with the upper cover <b>18</b>A held in the open position, the user can stand on the step <b>62</b> and manually cause the work vehicle V to move and travel by using the control lever <b>63</b>.</p>
+<heading id="h-0011" level="1">Other Embodiments</heading>
+<p id="p-0120" num="0119">Other embodiments of the present invention will be described. Configurations of the other embodiments described below can be applied not only independently but also in combination with the configurations of other different embodiments.</p>
+<p id="p-0121" num="0120">(1) The work vehicle V may be configured in an electric specification including left and right electric motors that independently drive the left and right crawlers <b>11</b>, instead of the engine <b>12</b> and the pair of HSTs <b>30</b>.</p>
+<p id="p-0122" num="0121">(2) As illustrated in <figref idref="DRAWINGS">FIGS. <b>19</b> to <b>21</b></figref>, the work vehicle V may be connected to the vehicle body frame <b>10</b> such that one or both of the left and right crawlers <b>11</b> are lifted and lowered via the lifting and lowering unit <b>70</b>.</p>
+<p id="p-0123" num="0122">To describe in detail the configuration of the lifting and lowering unit <b>70</b>, as illustrated in <figref idref="DRAWINGS">FIGS. <b>19</b> to <b>21</b></figref>, the lifting and lowering unit <b>70</b> has a support member <b>71</b> extending in the front-rear direction of the vehicle body <b>1</b>. The support member <b>71</b> is fixed to a lower portion of the vehicle body frame <b>10</b>. The support member <b>71</b> is formed in a gate shape in which the support member <b>71</b> extends straddling the crawler <b>11</b> in a view in the front-rear direction. Left and right first swing arms <b>73</b> that are supported to swing up and down via left and right first support shafts <b>72</b> are provided in a front end of the support member <b>71</b>. Left and right second swing arms <b>75</b> that are supported to swing up and down via left and right second support shafts <b>74</b> are provided in a rear end of the support member <b>71</b>. A free end of each of the first swing arms <b>73</b> is fitted to a corresponding one of left and right third support shafts <b>76</b> extending laterally outward from a front side of the truck frame <b>20</b>A so as to be relatively rotatable. A free end of each of the second swing arms <b>75</b> is fitted to a corresponding one of left and right fourth support shafts <b>77</b> extending laterally outward from a rear end of the truck frame <b>20</b>A so as to be relatively rotatable. Thus, the track frame <b>20</b>A, the support member <b>71</b>, the left and right first swing arms <b>73</b>, and the left and right second swing arms <b>75</b> function as parallel links that allow parallel movement of the crawlers <b>11</b> relative to the vehicle body frame <b>10</b>. An operation arm <b>75</b>A extending upward from a swinging fulcrum of a corresponding one of the left and right second swing arms <b>75</b> is integrally formed with a corresponding one of the left and right second swing arms <b>75</b>. Free ends of the left and right operation arms <b>75</b>A are connected to each other via a fifth support shaft <b>78</b> extending in the left-right direction. A lifting and lowering cylinder <b>80</b> used for operating the operation arms <b>75</b>A of the second swing arms <b>75</b> in a swinging manner in the front-rear direction of the vehicle body is provided to bridge between the fifth support shaft <b>78</b> and a sixth support shaft <b>79</b> provided on an upper portion of the support member <b>71</b> to extend in the left-right direction. The lifting and lowering cylinder <b>80</b> is arranged within a width of the support member <b>71</b> in the left-right direction. For the lifting and lowering cylinder <b>80</b>, a hydraulic cylinder controlled hydraulically by an operation of a solenoid valve (not illustrated), an electric cylinder, or the like can be employed.</p>
+<p id="p-0124" num="0123">According to this configuration, in a case where the work vehicle V performs contour travel along the target path P in a work site, such as a farm or the like, where a road surface is inclined, the height positions of the left and right crawlers <b>11</b> relative to the vehicle body frame <b>10</b> can be changed in accordance with an inclination of the road surface, and an attitude of the work vehicle V can be maintained to be a vertical attitude regardless of the inclination of the road surface. Thus, even with the GNSS antennas <b>5</b>A and <b>5</b>B arranged at the top of the vehicle body <b>1</b> in order to increase the reception sensitivity of each of the GNSS antennas <b>5</b>A and <b>5</b>B, misalignment of each of the antenna positions in the left-right direction of the vehicle body with respect to the target path P caused by contour travel can be prevented. As a result, the work vehicle V can be caused to automatically travel in accordance with the target path P even in contour travel in the work site where the road surface is inclined.</p>
+<p id="p-0125" num="0124">In addition, in a case where the gate-type work vehicle V performs a work while traveling straddling trees planted in a plurality of lines, the height positions of the left and right crawlers <b>11</b> relative to the vehicle body frame <b>10</b> can be changed in accordance with left and right inclinations of the trees relative to the vehicle body <b>1</b>, and a roll attitude of the work vehicle V can be changed to any attitude in accordance with the left and right inclinations of the trees. As a result, in a case where the work vehicle V performs a work while traveling straddling the trees planted in a plurality of lines, the occurrence of an inconvenience in which the work vehicle V contacts the trees can be suppressed.</p>
+<p id="p-0126" num="0125">Change of heights of the left and right crawlers <b>11</b> by an operation of the lifting and lowering unit <b>70</b> may be performed by a control operation of the automatic travel control unit <b>40</b> based on a user's touch operation on the display device <b>3</b>A of the mobile communication terminal <b>3</b>, or may be performed automatically by the control operation of the automatic travel control unit <b>40</b> based on detection information from the obstacle detection system <b>6</b>.</p>
+<p id="p-0127" num="0126">(3) The work vehicle V may be configured such that a width of the vehicle body <b>1</b> in the left-right direction can be changed together with a distance between the left and right crawlers <b>11</b> in the left-right direction.</p>
+<p id="p-0128" num="0127">(4) The positioning unit <b>5</b> may include three or more positioning antennas <b>5</b>A and <b>5</b>B and positioning sections <b>5</b>C and <b>5</b>D. In this case, the positioning state determination unit (positioning module) <b>5</b>F may be configured to select the positioning sections <b>5</b>C and <b>5</b>D to be used in accordance with the positioning state of each of the positioning sections <b>5</b>C and <b>5</b>D or the like.</p>
+<p id="p-0129" num="0128">(5) The positioning unit <b>5</b> may include a plurality of inertial measurement devices <b>5</b>E.</p>
+<p id="p-0130" num="0129">(6) Instead of the configuration in which the positioning module <b>5</b>F functions as the calculation unit and the positioning state determination unit, the positioning unit <b>5</b> may have a configuration including the calculation unit and the positioning state determination unit separately.</p>
+<heading id="h-0012" level="1">Additional Remarks</heading>
+<p id="p-0131" num="0130">A first feature configuration of the present invention is a configuration in which a work vehicle includes a positioning unit that uses a satellite positioning system to measure current position and current orientation of a vehicle body, and an automatic travel control unit that executes automatic travel control to cause the vehicle body to automatically travel in accordance with a target path, based on positioning information from the positioning unit, and the positioning unit includes a plurality of positioning antennas installed at different positions on the vehicle body, a plurality of positioning sections that measure the positions of the positioning antennas, a calculation unit that calculates the current position and current orientation of the vehicle body, based on positioning information from the positioning sections, and a positioning state determination unit that determines whether a positioning state of each of the positioning sections is a high-accuracy positioning state, and the positioning state determination unit permits start of the automatic travel control in a case where at least two of the positioning sections are in the high-accuracy positioning state.</p>
+<p id="p-0132" num="0131">According to this configuration, at a stage where the positioning state determination unit permits start of automatic travel control, at least two positioning sections in the high-accuracy positioning state are measuring positions of two positioning antennas (which will be hereinafter occasionally referred to simply as antenna positions) using a satellite positioning system, and the calculation unit calculates the current position and current orientation of the vehicle body, based on the at least two antenna positions measured by the positioning sections in the high-accuracy positioning state.</p>
+<p id="p-0133" num="0132">To additionally describe calculation of the current orientation of the vehicle body by the calculation unit, for example, in a case where the two positioning sections are in the high precision positioning state, the calculation unit first transforms the coordinate system of the two antenna positions measured by the positioning sections in the high-accuracy positioning state into the NED coordinate system with one of the antenna positions as an origin. Next, the calculation unit calculates an inclination of a straight line connecting the antennas with the X axis (north) at 0 degrees from a difference from one of the antenna positions, of the other one of the antenna positions, in an X direction and a difference thereof in a Y direction in the NED coordinate system. The calculation unit also calculates an inclination offset amount between the antennas in a case where the vehicle body is positioned to face the true north, based on a positional relationship between the two positioning antennas on the vehicle body that is known information. Then, the calculation unit calculates the current orientation of the vehicle body from a difference between the calculated inclination of the straight line connecting the antennas and the inclination offset amount between the antennas.</p>
+<p id="p-0134" num="0133">As described above, the positioning unit includes the plurality of positioning antennas and the plurality of positioning sections, and thus, calculation of the current orientation of the vehicle body by the calculation unit is possible even without an orientation sensor or an inertial measurement device, so that, even in a case where the work site of the work vehicle is a farm, such as an orchard or the like, where there are structures, such as metal poles, wires, or the like, or in a case where the work vehicle turns at low speed, the current position and current orientation of the vehicle body can be calculated with high accuracy.</p>
+<p id="p-0135" num="0134">In particular, since the calculation unit calculates the current orientation of the vehicle body, based on at least two antenna positions, it is no longer necessary to obtain a movement vector of the vehicle body in the process as is the case where the current orientation of the vehicle body is calculated from a single antenna position. Therefore, the current orientation of the vehicle body can be calculated with high accuracy even when the vehicle body is turning with a small turning radius and it is difficult to determine a movement vector of the vehicle body or when the vehicle body is stopped and thus it is not possible to determine the movement vector of the vehicle body.</p>
+<p id="p-0136" num="0135">Moreover, the automatic travel control unit cannot start automatic travel control until at least two positioning sections are put in the high-accuracy positioning state, and automatic travel control can be started when the at least two positioning sections are put in the high-accuracy positioning state, so that, at start of automatic travel control, it is possible to cause the work vehicle to automatically travel in accordance with a target path, based on highly accurate current position and current orientation of the vehicle body calculated by the calculation unit.</p>
+<p id="p-0137" num="0136">As a result, it is possible to provide a work vehicle capable of automatically traveling in accordance with a target path with high accuracy regardless of conditions of a work site or a travel state of the work vehicle.</p>
+<p id="p-0138" num="0137">A second feature configuration of the present invention is a configuration in which the positioning unit includes an inertial measurement device that measures the orientation of the vehicle body, and the positioning state determination unit allows, if any one of the positioning sections is in the high-accuracy positioning state, continuation of the automatic travel control even in a case where the number of the positioning sections in the high-accuracy positioning state is reduced during execution of the automatic travel control.</p>
+<p id="p-0139" num="0138">According to this configuration, even in a case where positioning accuracy of some of positioning sections is reduced due to, for example, reduction in the number of positioning satellites radio waves of which can be received by the positioning antennas or reduction in strength of radio waves from positioning satellites caused by deterioration of a surrounding environment, if any one of the positioning sections is in the high-accuracy positioning state, the calculation unit can calculate the current position of the vehicle body with high accuracy, based on the positioning information from the positioning section. In addition, the positioning unit includes an inertial measurement device, and thus, the calculation unit can calculate the highly accurate current orientation of the vehicle body from the highly accurate orientation (absolute orientation) of the vehicle body calculated based on positioning information from the plurality of positioning sections in the high-accuracy positioning state until immediately before the positioning accuracy of the positioning sections is reduced and the orientation (yaw angle change amount) of the vehicle body measured by the inertial measurement device.</p>
+<p id="p-0140" num="0139">Thus, if any one of the positioning sections is in the high-accuracy positioning state, the automatic travel control unit can cause the work vehicle to automatically drive in accordance with the target path, based on the highly accurate current position and current orientation of the vehicle body calculated by the calculation unit.</p>
+<p id="p-0141" num="0140">A third characteristic configuration of the present invention is a configuration in which the target path includes a work path on which vehicle speed is set to predetermined work speed and a turning path on which the vehicle speed is set to turning speed lower than the work speed, and in a case where any one of the positioning sections is in the high-accuracy positioning state, the positioning state determination unit permits continuation of the automatic travel control if the current position of the vehicle body is on the work path and suspends the automatic travel control if the current position of the vehicle body is on the turning path.</p>
+<p id="p-0142" num="0141">According to this configuration, in a case where any one of the positioning sections is in the high-accuracy positioning state, it is necessary to use the orientation of the vehicle body measured by the inertial measurement device in calculating the current orientation of the vehicle body. However, the inertial measurement device has difficulty in maintaining measurement accuracy at low speed, and therefore, considering this point, continuation of the automatic travel control is permitted if the current position of the vehicle body is on a work path with high set speed, and the automatic travel control is suspended if the current position of the vehicle body is on a turning path with low set speed.</p>
+<p id="p-0143" num="0142">That is, in a case where any one of the positioning sections is in the high-accuracy positioning state, if the current position of the vehicle body is on a work path on which the measurement accuracy of the inertial measurement device is high, the automatic travel control by the automatic travel control unit continues. Thus, the automatic travel control unit can cause the work vehicle to automatically travel in accordance with the target path, based on the highly accurate current orientation of the vehicle body calculated by the calculation unit, or the like. If the current position of the vehicle body is on a turning path on which the measurement accuracy of the inertial measurement device is low, the automatic travel control by the automatic travel control unit is suspended. Thus, a risk that the work vehicle deviates from the target path due to automatic travel of the work vehicle caused by the automatic travel control unit, based on the current orientation of the vehicle body calculated by the calculation unit, or the like, with low accuracy.</p>
+<p id="p-0144" num="0143">A fourth feature configuration of the present invention is a configuration in which the plurality of positioning antennas are a pair of front and rear positioning antennas installed in two positions, that is, front and rear positions, in the vehicle body at predetermined intervals.</p>
+<p id="p-0145" num="0144">According to this configuration, the calculation unit calculates the current position and current orientation of the vehicle body with high accuracy, based on the front and rear two antenna positions set on the vehicle body.</p>
+<p id="p-0146" num="0145">Thus, it is possible to calculate the current position and current orientation of the vehicle body with high accuracy while reducing the number of positioning antennas and positioning sections installed and to cause the work vehicle to automatically travel in accordance with the target path with high accuracy.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A work vehicle comprising:
+<claim-text>a positioning unit that uses a satellite positioning system to measure current position and current orientation of a vehicle body; and</claim-text>
+<claim-text>an automatic travel control unit that executes automatic travel control to cause the vehicle body to automatically travel in accordance with a target path, based on positioning information from the positioning unit,</claim-text>
+<claim-text>wherein</claim-text>
+<claim-text>the positioning unit includes a plurality of positioning antennas installed at different positions on the vehicle body, a plurality of positioning sections that measure the positions of the positioning antennas, a calculation unit that calculates the current position and current orientation of the vehicle body, based on positioning information from the positioning sections, and a positioning state determination unit that determines whether a positioning state of each of the positioning sections is a high-accuracy positioning state, and</claim-text>
+<claim-text>the positioning state determination unit permits start of the automatic travel control in a case where at least two of the positioning sections are in the high-accuracy positioning state.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The work vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the positioning unit includes an inertial measurement device that measures the orientation of the vehicle body, and</claim-text>
+<claim-text>the positioning state determination unit permits, if any one of the positioning sections is in the high-accuracy positioning state, continuation of the automatic travel control even in a case where the number of the positioning sections in the high-accuracy positioning state is reduced during execution of the automatic travel control.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The work vehicle according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein
+<claim-text>the target path includes a work path on which vehicle speed is set to predetermined work speed and a turning path on which the vehicle speed is set to turning speed lower than the work speed, and</claim-text>
+<claim-text>in a case where any one of the positioning sections is in the high-accuracy positioning state, the positioning state determination unit permits continuation of the automatic travel control if the current position of the vehicle body is on the work path and suspends the automatic travel control if the current position of the vehicle body is on the turning path.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The work vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the plurality of positioning antennas are a pair of front and rear positioning antennas arranged in two positions, that is, front and rear positions, in the vehicle body at predetermined intervals.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

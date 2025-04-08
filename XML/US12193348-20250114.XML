@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="US12193348-20250114.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20241225" date-publ="20250114">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>12193348</doc-number>
+<kind>B2</kind>
+<date>20250114</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17800877</doc-number>
+<date>20210203</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2020-026687</doc-number>
+<date>20200219</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>JP</country>
+<doc-number>2021-012745</doc-number>
+<date>20210129</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant><us-term-extension>188</us-term-extension></us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>69</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>69</main-group>
+<subgroup>008</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>0212</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e79">Area registration method and area registration system</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2019/0353483</doc-number>
+<kind>A1</kind>
+<name>Liu</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G05D 1/0219</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>JP</country>
+<doc-number>2019204544</doc-number>
+<kind>A</kind>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 69/008</classification-cpc-text>
+</us-citation>
+</us-references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-cpc-text>G05D 1/0212</classification-cpc-text>
+<classification-cpc-text>A01B 69/008</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>19</number-of-drawing-sheets>
+<number-of-figures>19</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20230081284</doc-number>
+<kind>A1</kind>
+<date>20230316</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Yanmar Power Technology Co., Ltd.</orgname>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Nishii</last-name>
+<first-name>Yasuto</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Shirafuji</last-name>
+<first-name>Taiki</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Mizumoto</last-name>
+<first-name>Chris</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Yanmar Power Technology Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Nolan</last-name>
+<first-name>Peter D</first-name>
+<department>3667</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Huynh</last-name>
+<first-name>Luke</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2021/003973</doc-number>
+<date>20210203</date>
+</document-id>
+<us-371c12-date>
+<date>20220818</date>
+</us-371c12-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2021/166650</doc-number>
+<kind>A </kind>
+<date>20210826</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An area registration method including setting information about a work vehicle that autonomously travels in a travel area; setting a work area which is included in the travel area and in which the work vehicle performs work; setting a headland area that is included in the travel area and is located on the outer side of the work area; and, when an operation for inputting the set information of the headland area is received after the work area and the headland area have been set, changing the sizes of the work area and the headland area on the basis of the inputted set information.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="117.52mm" wi="158.75mm" file="US12193348-20250114-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="177.38mm" wi="146.39mm" orientation="landscape" file="US12193348-20250114-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="190.25mm" wi="147.07mm" orientation="landscape" file="US12193348-20250114-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="214.97mm" wi="165.78mm" orientation="landscape" file="US12193348-20250114-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="108.97mm" wi="115.23mm" file="US12193348-20250114-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="153.25mm" wi="107.19mm" file="US12193348-20250114-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="140.04mm" wi="108.03mm" file="US12193348-20250114-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="145.37mm" wi="118.70mm" file="US12193348-20250114-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="158.33mm" wi="112.86mm" file="US12193348-20250114-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="209.89mm" wi="156.29mm" orientation="landscape" file="US12193348-20250114-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="151.55mm" wi="155.19mm" file="US12193348-20250114-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="143.93mm" wi="151.72mm" file="US12193348-20250114-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="118.36mm" wi="151.13mm" file="US12193348-20250114-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="207.86mm" wi="153.42mm" orientation="landscape" file="US12193348-20250114-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="191.85mm" wi="160.10mm" orientation="landscape" file="US12193348-20250114-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="196.43mm" wi="161.37mm" orientation="landscape" file="US12193348-20250114-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="211.58mm" wi="157.82mm" orientation="landscape" file="US12193348-20250114-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="213.78mm" wi="138.77mm" orientation="landscape" file="US12193348-20250114-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="98.21mm" wi="145.46mm" file="US12193348-20250114-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="216.24mm" wi="159.51mm" orientation="landscape" file="US12193348-20250114-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE</heading>
+<p id="p-0002" num="0001">This application is a national phase of an international application, PCT/JP2021/003973 filed on Feb. 3, 2021, which claims the benefit of Japanese Application No. 2020-026687, filed on Feb. 19, 2020 and Japanese Application No. 2021-012745, filed on Jan. 29, 2021, all of which are incorporated by reference.</p>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present invention relates to an area registration method and an area registration system that enable an operator, a user or the like to re-set, to change, and to register a desired headland area and the like as appropriate when generating and setting a work route and the like for an autonomously traveling work vehicle to work while traveling.</p>
+<heading id="h-0003" level="1">BACKGROUND ART</heading>
+<p id="p-0004" num="0003">In order to generate the work route on which the autonomously traveling work vehicle travels, it is necessary to classify and register the headland area, which is set up as a travel area for a 180-degree change of direction or the like, a work area disposed inside the headland area and the like in advance. Regarding the method of generating a travel route as above, a method described in the Patent Literature 1 is known.</p>
+<p id="p-0005" num="0004">This Patent Literature 1 describes a method in which a headland area is set by determining the number of work strokes on the basis of vehicle information of the work vehicle and the like, and the work area is set in accordance with a size of the headland area. In the method of setting the headland area here, the headland area is set from the vehicle information, and the headland area is automatically set with a range that can ensure safety of the work vehicle and a width that allows the work vehicle to turn as a minimum range.</p>
+<heading id="h-0004" level="1">CITATION LIST</heading>
+<heading id="h-0005" level="1">Patent Literature</heading>
+<p id="p-0006" num="0005">Patent Literature 1 : WO2015/119263</p>
+<heading id="h-0006" level="1">DISCLOSURE OF INVENTION</heading>
+<heading id="h-0007" level="1">Problems to be Solved by the Invention</heading>
+<p id="p-0007" num="0006">However, when the size of the headland area is automatically determined in this way, the size of the work area is also automatically determined inevitably, and it was not possible to set the headland area and the work area as desired by the operator or user (hereinafter collectively referred to as the &#x201c;operator&#x201d;).</p>
+<p id="p-0008" num="0007">Therefore, an object of the present invention is to provide an area registration method and an area registration system that allow the operator to re-set the desired work area or headland area as desired, that is, to review setting of a registered area by changing a size of the once-set headland area or the like to an arbitrary size.</p>
+<heading id="h-0008" level="1">Means for Solving the Problems</heading>
+<p id="p-0009" num="0008">An area registration method according to the present invention is a method of executing setting information on a work vehicle that autonomously travels in a travel area, setting a work area that is included in the travel area and in which the work vehicle performs a work, setting a headland area that is included in the travel area and disposed on an outer side of the work area, and when an operation to input setting information of the headland area is accepted after the work area and the headland area have been set, changing the sizes of the work area and the headland area on the basis of the input setting information.</p>
+<p id="p-0010" num="0009">The area registration system according to the present invention is a system including a vehicle information setting unit that sets information on a work vehicle that autonomously travels in a travel area, a work area setting unit that sets a work area included in the travel area and in which the work vehicle performs a work, a headland area setting unit that sets a headland area included in the travel area and disposed on the outer side of the work area, and a changing unit that changes the sizes of the work area and the headland area on the basis of the input setting information, when an operation to input the setting information of the headland area is accepted after the work area and the headland area have been set.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0009" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a schematic side view illustrating an autonomously traveling work vehicle, a GPS satellite, and a reference station according to a first embodiment of the present invention.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a control block diagram illustrating the autonomously traveling work vehicle, the GPS satellite, and the reference station according to the first embodiment of the present invention.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a block diagram illustrating a structure of a remote control device according to the first embodiment of the present invention.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is an explanatory diagram illustrating a length and other specifications of each portion to be a reference of the autonomously traveling work vehicle according to the first embodiment of the present invention.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is an explanatory diagram illustrating a stroke for obtaining field data.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is an explanatory diagram illustrating a direction in which a reference route can travel.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is an explanatory diagram illustrating a work range, a headland and a travel route in the field.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is an explanatory diagram illustrating a state where the autonomously traveling work vehicle approaches a work start position according to the first embodiment of the present invention.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is an explanatory diagram illustrating an operation screen at a changing work of a headland width and the like in a changing unit according to the first embodiment of the present invention.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a flowchart of a first example illustrating an operation example at the changing work of the headland width and the like in the changing unit according to the first embodiment of the present invention.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>11</b>A</figref> is an explanatory diagram illustrating ineligibility of the set travel route in conventional automatic setting of a headland width.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>11</b>B</figref> is an explanatory diagram illustrating appropriateness of the set travel route in this embodiment.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a flowchart of first another example illustrating an operation example at the changing work of the headland width and the like in the changing unit according to the first embodiment of the present invention.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a flowchart of first another example (when the set value is too small) illustrating an operation example at the changing work of the headland width and the like in the changing unit according to the first embodiment of the present invention.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a flowchart of first another example (when the set value is too large) illustrating an operation example at the changing work of the headland width and the like in the changing unit according to the first embodiment of the present invention.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is an explanatory diagram illustrating the operation screen at the changing work in the changing unit of first another embodiment of the present invention.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is an explanatory diagram illustrating a setting method of a work &#x201c;area&#x201d; in first another embodiment of the present invention, in which (a) shows a travel locus of the autonomously traveling work vehicle and (b) is a diagram showing the work &#x201c;area&#x201d; that has been set.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is an explanatory diagram illustrating the travel route of the autonomously traveling work vehicle in the work &#x201c;area&#x201d; that has been set in first another embodiment of the present invention.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is an explanatory diagram illustrating the operation screen at the changing work of the work area in the changing unit of a second embodiment of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0010" level="1">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0030" num="0029">Embodiments of the present invention will be described below with reference to the accompanying figures.</p>
+<heading id="h-0011" level="1">First Embodiment</heading>
+<p id="p-0031" num="0030">Regarding an autonomously traveling work vehicle which employs an area registration system of this embodiment, a tractor is used as the autonomously traveling work vehicle <b>1</b> that is capable of unmanned and automatic travel, and explanation will be made with this autonomously traveling work vehicle <b>1</b> (hereinafter referred to as the &#x201c;tractor <b>1</b>&#x201d; in some cases) to which a rotary cultivator as a work machine <b>24</b> is attached. However, in the present invention, the work vehicle is not limited to the tractor <b>1</b>, but may be a combine harvester or the like, and the work machine is not limited to the rotary cultivator, but may be a ridging machine, a mower, a rake, a seeding machine, a fertilizing machine, a wagon or the like.</p>
+<p id="p-0032" num="0031">First, the overall configuration of the tractor <b>1</b> is described in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>. In this tractor <b>1</b>, an engine <b>3</b> is installed inside a hood <b>2</b>, a dashboard <b>14</b> is provided inside a cabin <b>11</b> on a rear part of the hood <b>2</b>, and a steering handle <b>4</b> as steering operation means is provided on the dashboard <b>14</b>. A direction of a front wheel <b>9</b> is rotated through a steering device by turning the steering handle <b>4</b>.</p>
+<p id="p-0033" num="0032">A steering direction of the tractor <b>1</b> is detected by a steering sensor <b>20</b>. The steering sensor <b>20</b> is constituted by an angle sensor and is disposed at a rotation base portion of the front wheel <b>9</b>. A detection value obtained by the steering sensor <b>20</b> is input to a control device <b>30</b>.</p>
+<p id="p-0034" num="0033">A driver's seat <b>5</b> is disposed on a rear of the steering handle <b>4</b>, and a transmission case <b>6</b> is disposed below the driver's seat <b>5</b>. A rear axle case <b>8</b> is connected to both left and right sides of the transmission case <b>6</b>, and a rear wheel <b>10</b> is supported by the rear axle case <b>8</b> via an axle. Transmission means <b>44</b> is connected to the control device <b>30</b>. A rotation number of the rear wheel <b>10</b> is detected by a car speed sensor <b>27</b> and is input to the control device <b>30</b> as a traveling speed.</p>
+<p id="p-0035" num="0034">A PTO clutch and a PTO transmission device are accommodated in the transmission case <b>6</b>. The PTO clutch is engaged/disengaged by PTO switching means <b>45</b>, and the PTO switching means <b>45</b> is connected to the control device <b>30</b> and is capable of controlling engagement/disengagement of power to a PTO shaft.</p>
+<p id="p-0036" num="0035">A front axle case <b>7</b> is supported on a front frame <b>13</b> that supports the engine <b>3</b> and it is configured such that the front wheels <b>9</b> are supported on both sides of the front axle case <b>7</b>, and the power from the transmission case <b>6</b> can be transmitted to the front wheels <b>9</b>. The front wheel <b>9</b> is a steering wheel and can be rotated by turning the steering handle <b>4</b>. This front wheel <b>9</b> can be steered and rotated left and right by a steering actuator <b>40</b>, which is constituted by a power steering cylinder as steering drive means. The steering actuator <b>40</b> is connected to the control device <b>30</b> and is driven by automatic travel control.</p>
+<p id="p-0037" num="0036">To the control device <b>30</b>, an engine controller <b>60</b>, which serves as engine rotation control means, is connected, and to the engine controller <b>60</b>, an engine rotation number sensor <b>61</b>, a water temperature sensor, an oil pressure sensor and the like are connected so as to enable detection of an engine state. The engine controller <b>60</b> detects a load from a set rotation number and an actual rotation number and executes control so as not to generate overload, and also transmits a state of the engine <b>3</b> to a remote control device <b>100</b>, which will be described later, so that it can be displayed on a display <b>102</b> that serves as display means.</p>
+<p id="p-0038" num="0037">On display means <b>49</b> provided on the dashboard of the tractor <b>1</b>, a fuel gauge that displays a remaining amount of fuel and the like are provided and are connected to the control device <b>30</b>. Then, information on the remaining amount of the fuel is transmitted from the control device <b>30</b> to the remote control device <b>100</b>, and the remaining amount of the fuel and available work time are displayed on the display <b>102</b> of the remote control device <b>100</b>. Moreover, on the dashboard <b>14</b>, the display means <b>49</b> that displays an engine tachometer, a fuel gauge, monitors showing an oil pressure and the like and abnormalities, set values and the like is disposed.</p>
+<p id="p-0039" num="0038">Furthermore, it is configured such that the rotary cultivator <b>24</b> is mounted as a work machine, capable of elevation, for a cultivating work is attached on the rear of a machine body of the tractor <b>1</b> via a work-machine mounting device <b>23</b>. An elevating cylinder <b>26</b> is provided on the transmission case <b>6</b>, and by extending and retracting the elevating cylinder <b>26</b>, an elevating arm constituting the work-machine mounting device <b>23</b> can be rotated so as to elevate the rotary cultivator <b>24</b>. The elevating cylinder <b>26</b> is extended and retracted by an action of an elevation actuator <b>25</b>, and the elevation actuator <b>25</b> is connected to the control device <b>30</b>.</p>
+<p id="p-0040" num="0039">A mobile receiver <b>33</b>, which constitutes a satellite positioning system, is connected to the control device <b>30</b>. To the mobile receiver <b>33</b>, a mobile GPS antenna <b>34</b> and a data receiving antenna <b>38</b> are connected. On the other hand, the mobile GPS antenna <b>34</b> and the data receiving antenna <b>38</b> are provided on the cabin <b>11</b>. The mobile receiver <b>33</b> includes position calculating means so that measured latitude and longitude can be transmitted to the control device <b>30</b> and a current position can be grasped.</p>
+<p id="p-0041" num="0040">The tractor <b>1</b> includes a gyro sensor <b>31</b> to obtain information on an attitude change of a machine body and an azimuth sensor <b>32</b> to detect an advancing direction, which are connected to the control device <b>30</b>. However, since the advancing direction can be calculated from position measurement of the GPS, the azimuth sensor <b>32</b> can be omitted.</p>
+<p id="p-0042" num="0041">The gyro sensor <b>31</b> detects an angular speed of inclination (pitch) in a front-back direction of the machine body, the angular speed of inclination (roll) in a left-right direction of the machine body, and the angular speed of turning (yaw) of the tractor <b>1</b>. This gyro sensor <b>31</b> is connected to the control device <b>30</b> and inputs information related to the above three angular speeds to the control device <b>30</b>.</p>
+<p id="p-0043" num="0042">The azimuth sensor <b>32</b> detects an orientation of the tractor <b>1</b> (advancing direction). This azimuth sensor <b>32</b> is connected to the control device <b>30</b> and inputs information related to an orientation of the machine body to the control device <b>30</b>.</p>
+<p id="p-0044" num="0043">In this way, the control device <b>30</b> calculates signals acquired from the above gyro sensor <b>31</b> and azimuth sensor <b>32</b> by attitude/azimuth calculating means and acquires the attitude of the tractor <b>1</b> (that is, orientation, inclination in the front-back and left-right directions of the machine body, and the turning direction).</p>
+<heading id="h-0012" level="1">Method of Acquiring Position Information</heading>
+<p id="p-0045" num="0044">Subsequently, a method of acquiring position information of the tractor <b>1</b> using GPS (Global Positioning System) will be described in brief.</p>
+<p id="p-0046" num="0045">Various methods can be used as a positioning method using the GPS, but an RTK-GPS positioning method, which has high measurement accuracy, is employed in this embodiment.</p>
+<p id="p-0047" num="0046">In this embodiment, the mobile receiver <b>33</b>, the mobile GPS antenna <b>34</b> and the data receiving antenna <b>38</b>, which serve as mobile stations, are disposed on the tractor <b>1</b>, and a fixed receiver <b>35</b>, a fixed GPS antenna <b>36</b>, and a data transmission antenna <b>39</b>, which serve as reference stations, are disposed at a predetermined position that does not interfere with works in a field.</p>
+<p id="p-0048" num="0047">The mobile GPS antenna <b>34</b> disposed on the tractor <b>1</b> receives signals from GPS satellites <b>37</b>, <b>37</b> . . . . This signal is transmitted to the mobile receiver <b>33</b> for positioning. And at the same time, the fixed GPS antenna <b>36</b>, which serves as a reference station, receives signals from the GPS satellites <b>37</b>, <b>37</b> . . . , positions them with the fixed receiver <b>35</b>, transmits them to the mobile receiver <b>33</b>, and determines the position of a mobile station. The position information obtained as above is transmitted to the control device <b>30</b>.</p>
+<p id="p-0049" num="0048">The control device <b>30</b> in the tractor <b>1</b> receives radio waves transmitted from the GPS satellites <b>37</b>, <b>37</b> . . . and acquires the position information of the machine body at set time intervals with the mobile receiver <b>33</b>, acquires displacement information and azimuth information of the machine body (work vehicle <b>1</b>) from the gyro sensor <b>31</b> and the azimuth sensor <b>32</b>, and on the basis of the position information, displacement information, and azimuth information, controls the steering actuator <b>40</b>, the transmission means <b>44</b> and the like so that the machine body can travel along a travel route R set in advance.</p>
+<p id="p-0050" num="0049">Moreover, in the tractor <b>1</b>, an obstacle sensor <b>41</b> is disposed and is connected to the control device <b>30</b> so as not to contact obstacles. For example, the obstacle sensor <b>41</b> of this embodiment is connected to the control device <b>30</b> and executes control to stop travel when an obstacle approaches within a set distance.</p>
+<p id="p-0051" num="0050">Moreover, in the tractor <b>1</b>, a camera <b>42</b> that takes pictures of a periphery of the machine body is mounted and is connected to the control device <b>30</b>. Images captured by the camera <b>42</b> are displayed on the display <b>102</b> of the remote control device <b>100</b> carried by the operator.</p>
+<p id="p-0052" num="0051">The camera images can be displayed at all times or selectively on the display <b>102</b> or on the display means <b>49</b> provided on the tractor <b>1</b>.</p>
+<p id="p-0053" num="0052">The remote control device <b>100</b> registers/sets the travel route R of the tractor <b>1</b>, remotely controls the tractor <b>1</b>, monitors a traveling state of the tractor <b>1</b> or a working state of the work machine <b>24</b>, and stores work data, details of which will be described later.</p>
+<p id="p-0054" num="0053">In addition, the remote control device <b>100</b> and the tractor <b>1</b> are configured capable of communicating with each other wirelessly, and in the tractor <b>1</b> and the remote control device <b>100</b>, a transceiver <b>110</b> and a transceiving unit <b>104</b> for communication are provided, respectively. The transceiving unit <b>104</b> is configured integrally with the remote control device <b>100</b>. Communication means is configured capable of communicating with each other via a wireless LAN, such as WiFi. When communication is conducted between the tractor <b>1</b> and the remote control device <b>100</b>, measures are taken to avoid communication jamming (including virus infection and the like), interference and the like. For example, proprietary protocols and languages can be used.</p>
+<heading id="h-0013" level="1">Remote Control Device</heading>
+<p id="p-0055" num="0054">As shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the remote control device <b>100</b> is constituted by a touch panel type operation screen (hereinafter referred to as a &#x201c;touch panel&#x201d; in some cases) <b>101</b> that can be operated by touching the screen with a finger or the like, a liquid crystal display unit (hereinafter referred to as a &#x201c;display&#x201d; or an &#x201c;LCD&#x201d; in some cases.) <b>102</b> that displays various switches and the like of this operation screen <b>101</b> on a liquid crystal screen, a storage unit (memory) <b>103</b> that stores/saves registration information and the like, a transceiving unit <b>104</b> that performs transmission/reception with the tractor <b>1</b>, a control unit (CPU) <b>105</b> that controls the above, a route generation unit <b>105</b>A that sets a travel route (or a work route R) in a work area WA, a notification unit <b>106</b>, a battery, a camera and the like, not shown.</p>
+<p id="p-0056" num="0055">The operation screen <b>101</b> includes a vehicle information setting unit <b>101</b>A for inputting and setting various types of data related to the vehicle (tractor <b>1</b> or the like) required for registration as the work area WA, a work area setting unit <b>101</b>B for inputting and setting various types of data required for the registration as a work area WA of a field H (travel area) to be worked on, a headland area setting unit <b>101</b>C for setting a headland area disposed on an outer side of the work area WA and excluding the work area WA in the travel area on the basis of the information of the tractor <b>1</b>, a work start position setting unit <b>101</b>E for setting a position where the tractor <b>1</b> should start the work, and a changing unit <b>101</b>D which enables data change for the various types of data input for the registration as the work area and the like. The headland area is constituted by a first headland area that includes a turn and a second headland area that does not include a turn.</p>
+<p id="p-0057" num="0056">Note that, as the headland area setting unit <b>101</b>C, a case where only either one of the first headland area and the second headland area is set is also included.</p>
+<p id="p-0058" num="0057">In addition, the display <b>102</b> is configured to display images of the surroundings and a state of the tractor <b>1</b> taken by the camera <b>42</b> on the tractor <b>1</b> side, a state of the work, information on the GPS (positioning information), a communication status between the remote control device <b>100</b> and the tractor <b>1</b> (display of good or bad, radio field intensity, and communication speed, for example), a positional relationship with the tractor <b>1</b> and the like so that the operator can monitor them.</p>
+<p id="p-0059" num="0058">The route generation unit <b>105</b>A sets the travel route R in the work area WA by the data calculated by the control unit <b>105</b>, and the travel route R is displayed as a straight line on the screen of the display <b>102</b> as shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref> and <figref idref="DRAWINGS">FIG. <b>17</b></figref>, for example (however, it is displayed as a simplified U-shape at a turning part by the tractor <b>1</b> and the like).</p>
+<p id="p-0060" num="0059">The notification unit <b>106</b> notifies the operator by a buzzer sound, lighting of a lamp or display of a message that a value or a number of work strokes arbitrarily input by the operator is not accepted if the route generation unit <b>105</b>A cannot set the work route or the travel route R in the work area WA regarding a value of the headland area width (headland width), the number of work strokes and the like which have been input. In addition, the notification unit <b>106</b> notifies the operator that the value of the headland area width or the number of work strokes is not accepted if the tractor <b>1</b> cannot turn in the headland area with a size corresponding to the value of the headland area width (headland width) or the number of work strokes which has been input. Therefore, it is configured such that the operator who learned that can then change the relevant data again by the changing unit <b>101</b>D and have it re-registered.</p>
+<p id="p-0061" num="0060">Note that the data related to the work with the tractor <b>1</b> includes the work route (that is, a target route or the travel route R), a current position, a distance to the headland area calculated from the work stroke, a remaining work route, the number of work strokes and the like, and it is configured that the work route (or the travel route R) and the like can also be displayed on the display <b>102</b>.</p>
+<p id="p-0062" num="0061">Information on the GPS (positioning information) is a longitude and a latitude as an actual position of the tractor <b>1</b>, a number of supplemental satellites, radio-field reception intensity and the like.</p>
+<p id="p-0063" num="0062">The display <b>102</b> of the remote control device <b>100</b> can also display the state of the tractor <b>1</b>, the pre-set work route (or the travel route R) and the like, in addition to the images of the surroundings taken by the camera <b>42</b>.</p>
+<p id="p-0064" num="0063">Moreover, the tractor <b>1</b> can be remotely operated by the remote control device <b>100</b>. In other words, the display <b>102</b> displays various switches and the like which can be operated by touching them with a finger for emergency stop, pause, restart of the tractor <b>1</b> and the like, as will be described in detail later. That is, the operator can remotely operate the tractor <b>1</b> easily by controlling an engine controller, an accelerator actuator, the transmission means <b>44</b>, the PTO switching means <b>45</b> and the like via the transceiving unit <b>104</b>, the transceiver <b>110</b>, and the control device <b>30</b> from the remote control device <b>100</b>.</p>
+<p id="p-0065" num="0064">As described above, the tractor <b>1</b> of this embodiment includes, as a general configuration, the mobile receiver <b>33</b> including position calculating means (to measure the position of the tractor <b>1</b>), the steering actuator <b>40</b> to operate the steering device, the transmission means <b>44</b>, the engine controller (ECU) <b>60</b> as rotation control means of the engine <b>3</b>, and the control device <b>30</b> which controls them and causes the tractor <b>1</b> to travel autonomously along the travel route R (see <figref idref="DRAWINGS">FIG. <b>7</b></figref> and <figref idref="DRAWINGS">FIG. <b>8</b></figref>) stored in the control device <b>30</b>.</p>
+<p id="p-0066" num="0065">On the other hand, regarding the area registration system employed by the autonomously traveling work vehicle according to the present invention, registration of the various types of data required to cause the tractor <b>1</b> of this embodiment to travel autonomously in a desired field H is performed by an input device, not shown, included in the tractor <b>1</b> itself by using the touch panel <b>101</b> or the remote control device <b>100</b>. As this remote control device <b>100</b>, as described above, a tablet type one that can be used as a portable and handheld device is used in this embodiment.</p>
+<p id="p-0067" num="0066">In case of trouble with the tractor <b>1</b> or the like, the operator can operate or check the remote control device <b>100</b> near the tractor <b>1</b> or at a position where he/she can see it well, and the trouble or the like can be taken care of easily by the operator.</p>
+<p id="p-0068" num="0067">In addition, the remote control device <b>100</b> is constituted by a touch panel-type tablet having the display (LCD) <b>102</b>. In addition, the display <b>102</b> of this remote control device <b>100</b> displays a traveling state of the tractor <b>1</b>, the state of the engine <b>3</b>, the state of the work machine <b>24</b>, and the positional relationship with the tractor <b>1</b> and thus, the operator can easily grasp the state of the tractor <b>1</b> visually and can quickly respond to any abnormality in the tractor <b>1</b>.</p>
+<p id="p-0069" num="0068">In addition, on the touch panel <b>101</b> which constitutes interface provided on the display <b>102</b>, the vehicle information setting unit <b>101</b>A which sets various information about the tractor <b>1</b>, the work area setting unit <b>101</b>B which sets the work area, the headland area setting unit <b>101</b>C, the work start position setting unit <b>101</b>E, and the changing unit <b>101</b>D which enables changes of the setting information are provided. Moreover, this display <b>102</b> is configured capable of displaying a target travel route (set travel route R), the current position, the distance to the headland area, work time, the work time to completion, the work route and the like of the tractor <b>1</b>, which will be described later, and that makes it easy to recognize the travel state, a progress of work and the like during the work and to draw up a work plan.</p>
+<p id="p-0070" num="0069">In addition, the display <b>102</b> is configured to display the GPS information (positioning information), which makes it possible to grasp the reception state from the satellite and to easily take action when the signal from the GPS satellite is lost or the like.</p>
+<p id="p-0071" num="0070">In addition, the tractor <b>1</b> includes the camera <b>42</b> that takes pictures of the surroundings of the machine body as described above, and it is configured such that the images taken by the camera <b>42</b> can be displayed on the display <b>102</b> and thus, a state of the surrounding of the tractor <b>1</b> can be easily recognized at a position away therefrom and can be easily dealt with in a case of an obstacle or the like.</p>
+<heading id="h-0014" level="1">Method of Generating Target Travel Route R in Desired Field</heading>
+<p id="p-0072" num="0071">Subsequently, generation of the target travel route R of the tractor <b>1</b> will be described. Note that, after the target travel route is generated, it is assumed to be the travel route R that has been set and registered. Note that, the control device <b>30</b> is configured to control travel/work of the tractor <b>1</b> and to store it in a storage device <b>30</b><i>a. </i></p>
+<p id="p-0073" num="0072">The target travel route is generated in accordance with a work mode. There are various work modes, such as a single travel work only of the tractor <b>1</b>, a composite harvesting work using an autonomously traveling harvesting vehicle (combine harvester) and an accompanying transport vehicle and the like, but a method of generating a travel route for the tractor <b>1</b> including a rotary cultivator <b>24</b>, which is a work machine, will be described in this embodiment.</p>
+<p id="p-0074" num="0073">Hereinafter, the method of generating a travel route for an automatic work system in which various cultivating works and the like are performed while the autonomous travel is performed by the tractor <b>1</b> will be described. In addition, a route generation work and a setting operation in accordance with the generation method are configured to be performed by the route generation unit <b>105</b>A of the remote control device <b>100</b>, but it is assumed that they can be performed also by the display means <b>49</b> of the tractor <b>1</b>.</p>
+<p id="p-0075" num="0074">Note that it is configured such that, regarding inputs and selection of set values on the display <b>102</b> of the remote control device <b>100</b>, setting screens are displayed sequentially on the display <b>102</b> in principle, as shown below, and they are performed in accordance with a procedure stored in a ROM of the storage unit <b>103</b> and the like so that an error or omission of setting does not occur and thus, it can be easily operated by the operator, and settings and inputs can be made reliably and without omissions as shown below.</p>
+<heading id="h-0015" level="1">1. Registration of Field Outline</heading>
+<p id="p-0076" num="0075">First, as shown in <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>8</b></figref>, for example, in order to set the position of the field H, a work range, and the travel route R to be worked on, the tractor <b>1</b> is positioned at four corners of the field H (A, B, C, D, or inflection points), and a stroke for positioning is performed.</p>
+<p id="p-0077" num="0076">The tractor <b>1</b> is advanced into the field from an entrance E and is moved to one corner (corner) A closest to the entrance. Then, the autonomously traveling work vehicle <b>1</b> is positioned so as to be parallel to a short side or a long side in the field outline, and a position thereof is determined and stored as first corner data (latitude and longitude).</p>
+<p id="p-0078" num="0077">Subsequently, the tractor <b>1</b> is moved to the next corner B, a direction thereof is changed by approximately 90 degrees so as to be parallel to the field outline, and the position thereof is determined and stored as second corner data. Then, in the same way, it is moved to the next corner C so as to acquire and store the third corner data and is moved to the next corner D so as to acquire and store the fourth corner data.</p>
+<p id="p-0079" num="0078">In this way, by connecting the corners (B, C, and D) with straight lines unicursally from one corner A, a shape of the field is finalized and acquired as field data. However, if the shape of the field is a deformed (odd-shaped) field, the field data is finalized by acquiring data for corner positions other than the four corners and inflection point positions. For example, position data of three corners in a case of a triangle and of five corners in a case of a pentagon are acquired and stored.</p>
+<p id="p-0080" num="0079">Note that, regarding acquisition of the data, procedures and conditions (protocols) as follows can be used as an example for execution/acquisition.</p>
+<p id="p-0081" num="0080">i) Since the corner part of the field H is a subordinate concept, and the inflection point is a superordinate concept, the field data can be acquired by sequentially positioning the inflection points so as to acquire position data and to go round.</p>
+<p id="p-0082" num="0081">ii) Also, the travel route R can be generated only in an area inside a field outer perimeter data acquired by traveling around an outermost perimeter, and it is so configured that, in a case of going out thereof, it is an error, and the travel route R cannot be generated.</p>
+<p id="p-0083" num="0082">iii) In addition, when corner data is connected with straight lines, if the straight lines cross each other, it is configured not to be recognized as the field data. This is because it is highly possible that a corner or inflection point is missing.</p>
+<p id="p-0084" num="0083">iv) In addition, in the generation of field data, obtainment of the field data from the Internet or map data published by map manufacturers and the like is prohibited, and employment of only the position data positioned at the site as described above is allowed.</p>
+<p id="p-0085" num="0084">In this way, going out of the field due to errors in travel during an actual work is prevented.</p>
+<p id="p-0086" num="0085">Moreover, there are such cases that water intakes and drains are provided, stakes, stones and the like indicating boundaries are disposed, and trees intrude and grow around the field, for example. These will get in the way when traveling linearly. Thus, it is configured such that the field outline is registered by avoiding the obstacles.</p>
+<heading id="h-0016" level="1">2. Setting of Work Start Position and End Positions</heading>
+<p id="p-0087" num="0086">In addition, it is so configured that a work start position and an end position can be set or selected in the field data.</p>
+<p id="p-0088" num="0087">In other words, the work start position and the work end position can be set to positions preferred by the operator by the work start position setting unit <b>101</b>E provided in the remote control device <b>100</b>.</p>
+<heading id="h-0017" level="1">3. Selection of Reference Travel Start Direction</heading>
+<p id="p-0089" num="0088">This is a process of selecting a reference travel start direction.</p>
+<p id="p-0090" num="0089">As the reference travel start direction, an advancing direction from the work start position X to the work end position for a turning work or a reciprocating work, or a route (work direction on the outer side of a work &#x201c;area&#x201d; HA) from the work end position to the exit is selected. Specifically, as shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, regarding the reference travel start direction, it is set whether to start and end a work in the right-hand turning direction R or in the left-hand turning direction L. This setting can be easily selected by causing arrows, landmarks and the like to be displayed on the display <b>102</b> and touching them or the like.</p>
+<heading id="h-0018" level="1">4. Setting of Headland Area Width and Work Area</heading>
+<p id="p-0091" num="0090">A subsequent process is to set the headland area width and the work area.</p>
+<p id="p-0092" num="0091">As shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, a width Wb of a first headland area HB (hereinafter referred to as a &#x201c;first headland area width Wb&#x201d;) is acquired from a cultivating width W<b>1</b> (see <figref idref="DRAWINGS">FIG. <b>4</b></figref>) and the like, assuming that the work machine is the rotary cultivator <b>24</b>, for example. Specifically, the cultivating width W<b>1</b>+a width W<b>2</b> of a chain case <b>24</b><i>a </i>(=work width W), for example, is input and set by a value obtained by multiplying the work width W by the number of going-round strokes n. However, the first headland area width Wb is supposed to have a length in the direction parallel to the advancing direction (longitudinal direction) in which the tractor <b>1</b> works in the work &#x201c;area&#x201d; HA. Note that the first headland area width Wb shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref> should be larger than a minimum turning radius because it is necessary to make a turn with a margin in a case of turning without turning back the steering handle back and forth, for example.</p>
+<p id="p-0093" num="0092">Thus, the minimum turning radius of the autonomously traveling work vehicle (tractor <b>1</b>) with the work machine (rotary cultivator <b>24</b> in this embodiment) attached is stored in the storage device <b>30</b><i>a </i>in advance so that values smaller than this minimum turning radius cannot be input during setting.</p>
+<p id="p-0094" num="0093">It is configured such that, once the first headland area width Wb is determined, a size of the work area is automatically set. Thus, as shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the work &#x201c;area&#x201d; HA acquired from the field data is made to be a substantial square, and this work &#x201c;area&#x201d; HA is displayed on the display <b>102</b> of the remote control device <b>100</b>. In this work &#x201c;area&#x201d; HA, the first headland area HB is further set on both sides of the front and rear of the work direction in which the tractor <b>1</b> advances.</p>
+<p id="p-0095" num="0094">When another work machine is attached, an entire length of the work machine, a width of a strip and the like are taken into account and thus, it is configured such that an arbitrary length can be input in numerical values for the first headland area width Wb. There are cases where the work is performed while reciprocating in the headland area or the work is finished after spirally going around the work range including the headland area and thus, it is configured such that a turning direction in the first headland area HB can also be set.</p>
+<p id="p-0096" num="0095">As another embodiment, the size (width) of the headland area may be set after the work area has been set. For example, the work area setting unit <b>101</b>B sets the work area on the basis of a travel locus on which the operator cause the tractor <b>1</b> to travel, and the headland area setting unit <b>101</b>C sets the headland area on the basis of the set work area. Details of this embodiment will be explained in the &#x3c;First Another Embodiment&#x3e; below.</p>
+<heading id="h-0019" level="1">5. Setting of Target Travel Route R</heading>
+<p id="p-0097" num="0096">The aforementioned numerical values and options are input and set using various buttons on the touch panel <b>101</b> that constitutes the interface provided in the remote control device <b>100</b>. Then, the route generation unit <b>105</b>A provided in the remote control device <b>100</b> (also may be performed by the control device <b>30</b> on the tractor <b>1</b> side) automatically generates the travel route R so that the tractor <b>1</b>, which is capable of autonomous travel, can sequentially perform a reciprocating straight-traveling work in the work &#x201c;area&#x201d; HA and a reversing turn in the first headland area HB.</p>
+<heading id="h-0020" level="1">6. Setting of Work Condition</heading>
+<p id="p-0098" num="0097">After the process of generating the travel route R, a next step is a process of setting work conditions, but the detailed explanation thereof is omitted here.</p>
+<heading id="h-0021" level="1">7. The Operator Drives the Tractor <b>1</b> to Move to the Work Start Position X</heading>
+<p id="p-0099" num="0098">Lastly, when the aforementioned settings are finished and the travel route R and the work process along this travel route R are generated, the operator actually drives the tractor <b>1</b> so as to move to the work start position X in order to start the work. The operator then operates the remote control device <b>100</b> so as to start the work.</p>
+<p id="p-0100" num="0099">In order to start the work, start conditions of the tractor <b>1</b> should be met. These work start conditions are stored in the control device <b>30</b> of the tractor <b>1</b>, and when work starting means, not shown, of the remote control device <b>100</b> is turned on, the control device <b>30</b> determines whether the predetermined work start conditions are satisfied. The work starting means in this embodiment is constituted by a start button, a start switch and the like on the remote control device <b>100</b>, but this start button, the start switch and the like may be provided on the tractor <b>1</b>.</p>
+<p id="p-0101" num="0100">Note that, regarding the setting and registering work of the travel route R in a desired field described above, it may be so configured that the registering work of the specific travel route R is performed by causing the tractor <b>1</b> to travel from one end (work start position X) to the other end (work end position) of the field H after the registration of the area by the area registration system of the present invention, which will be described later, is completed.</p>
+<heading id="h-0022" level="1">Area Registration Method</heading>
+<p id="p-0102" num="0101">Subsequently, the area registration system according to this embodiment will be explained in detail with reference to <figref idref="DRAWINGS">FIGS. <b>9</b> to <b>13</b></figref>. Note that the present invention may also be an invention of an area registration method in which the remote control device <b>100</b> executes a part or all of area registration processing, or an invention of an area registration program for causing the remote control device <b>100</b> to execute a part or all of the area registration method. Moreover, a computer (one or a plurality of processors, for example) may also execute the aforementioned area registration processing. For example, the area registration method of the present invention is a method of executing setting information on a work vehicle that autonomously travels in a travel area, setting a work area that is included in the travel area and in which the work vehicle performs a work, setting a headland area that is included in the travel area and disposed on an outer side of the work area, and when an operation to input setting information of the headland area is accepted after the work area and the headland area have been set, changing sizes of the work area and the headland area on the basis of the input setting information.</p>
+<heading id="h-0023" level="1">First Example</heading>
+<p id="p-0103" num="0102">In the area registration system of the present invention shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref> (hereinafter referred to as a &#x201c;first example&#x201d; in some cases), the operation screen <b>101</b> that displays (which is the interface) a menu for area registration on the display <b>102</b> of the remote control device <b>100</b> (see <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>3</b></figref>) is constituted by a touch panel.</p>
+<p id="p-0104" num="0103">On this operation screen (hereinafter referred to as the &#x201c;touch panel <b>101</b>&#x201d; in some cases), a part of the desired field H is displayed on a left half, and selection switches S<b>1</b> to S<b>4</b>, which are activated by a touch operation with a finger or the like are displayed/formed on a right half. In addition, on a lower part of this operation screen <b>101</b>, two switching buttons B<b>1</b>, B<b>2</b> are displayed/formed for selecting either one of an input of the number of work strokes (stroke-number input mode) and an input of headland width specification (numerical-value input mode) and for switching/operating either one of the modes for data input, and to the right thereof, a forward tab T<b>1</b> and a backward tab T<b>2</b> are displayed/formed to shift a menu page to the previous or next page.</p>
+<p id="p-0105" num="0104">The selection switch S<b>1</b> can allow selection by an operation of touching it or the like (this is referred to as a &#x201c;first mode&#x201d;). Registration contents which are set when this first mode was selected are, first, to specify the headland widths of the first headland area and the second headland area to minimum values, whereby an area in the field excluding the headland area is set and registered as the work area.</p>
+<p id="p-0106" num="0105">At this time, the cultivating width W<b>1</b> (see <figref idref="DRAWINGS">FIG. <b>4</b></figref>) is uniquely determined on the basis of information on the models of the work vehicle <b>1</b> and the work machine (the rotary cultivator <b>24</b> in this embodiment) that have been registered in advance, and the number of work strokes in the work area WA to be cultivated by the work vehicle <b>1</b> is also automatically calculated and set and registered from a size of the registered work area WA.</p>
+<p id="p-0107" num="0106">The selection switch S<b>2</b> can also allow selection by an operation of touching it with a finger or the like (this is referred to as a &#x201c;second mode&#x201d;). The registration contents which are set when this second mode was selected are to specify that the headland widths of the first headland area and the second headland area are set to multiples of the work width W. Here, a side-drive type is used for the rotary cultivator <b>24</b>, which is the work machine, and the work width W at this time is defined as the sum of the cultivation width W<b>1</b> and the width W<b>2</b> of the chain case <b>24</b><i>a</i>. Moreover, an area in the field excluding the headland area is set and registered as the work area WA.</p>
+<p id="p-0108" num="0107">Note that, assuming that the field H has a laterally long rectangular shape, here, the cultivating work is performed while the work vehicle <b>1</b> reciprocates in a vertical direction. By the way, the headland width at this time depends on the shape of the field, but in general, a width in the headland, which is a side margin on both left and right end sides (that is, the headland width), and a width in the first headland area on both upper and lower end sides (that is, the first headland width Wb) are different in many cases, but the both widths are multiples of cultivating width described below, and these two types of headland widths are registered as the headland widths in this second mode, respectively.</p>
+<p id="p-0109" num="0108">Note that, similarly to the case of the selection switch S<b>1</b>, since the cultivating width W<b>1</b> (see <figref idref="DRAWINGS">FIG. <b>4</b></figref>) is uniquely determined on the basis of the information on the models of the work vehicle <b>1</b> and the work machine (rotary cultivator <b>24</b> in this embodiment) that has been registered in advance, the number of reciprocating work strokes in the work area WA to be cultivated by the work vehicle <b>1</b> is also automatically calculated and set and registered from the registered width of the work area WA and the work width W.</p>
+<p id="p-0110" num="0109">The selection switch S<b>3</b> can also allow selection by an operation of touching it with a finger or the like (this is called a &#x201c;third mode&#x201d;). The registration contents which are set when this third mode was selected are, similarly to the case of the second mode, the first headland area and the second headland area are set with widths of multiples of the work width W, and an area excluding the second headland area (HC) and the first headland area (HB) in the field are set and registered as the work area WA.</p>
+<p id="p-0111" num="0110">Here again, assuming that the field H has a laterally long rectangular shape, the cultivating work is performed while the work vehicle <b>1</b> reciprocates in the vertical direction, and the headland width at this time depends on the shape of the field, but in general, a headland width in the second headland area, which is the side margin on the both left and right end sides and the headland width Wb in the first headland area on the both upper and lower end sides are different in some cases (both are multiples of the cultivating width described below) and thus, a least common multiple (LCM) of these two types of headland widths is registered as the set width in this third mode.</p>
+<p id="p-0112" num="0111">Note that, in this third mode, too, similarly to the case of the first and second modes, since the cultivating width W<b>1</b> (see <figref idref="DRAWINGS">FIG. <b>4</b></figref>) is uniquely determined on the basis of the information on the models of the tractor <b>1</b>, which is the work vehicle, and the work machine (rotary cultivator <b>24</b> in this embodiment) that has been registered in advance, the number of reciprocating work strokes in the work area WA to be cultivated by the work vehicle <b>1</b> is also automatically calculated and set and registered from the registered size of the work area WA.</p>
+<p id="p-0113" num="0112">The selection switch S<b>4</b> can also allow free setting and registration of an area width by an operation of touching it with a finger or the like (this is called a &#x201c;fourth mode&#x201d;) and functions as an operation unit (interface) of the changing unit <b>101</b>D shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>. In this way, the registration contents which are set when the fourth mode was selected are different from those in the first to third modes, and the headland widths of the first headland area and the second headland area, the number of work strokes and the like can be set and registered by the operator or the like by optionally, that is, by arbitrarily inputting numerical values. However, there is certain limitation to the sizes of the headland widths of the first headland area and the second headland area, and they cannot be set to be too narrow unlimitedly. Similarly, there is limitation on the number of work strokes such as a maximum of 50 strokes, for example.</p>
+<p id="p-0114" num="0113">Specifically, the width (headland width) of each of the first headland area and the second headland area can be set and registered arbitrarily by the operator. Moreover, in setting of the headland width, setting can be made by inputting the number of work strokes or by inputting a numerical value for the width. Furthermore, the value of the input number of work strokes can be calculated as the value of the headland width, and vice versa, the value of the headland width can be calculated as the value of the input number of work strokes.</p>
+<heading id="h-0024" level="1">Specific Procedure for Area Setting and Registration</heading>
+<p id="p-0115" num="0114">Subsequently, the area registration system according to the first embodiment of the present invention will be explained mainly with reference to <figref idref="DRAWINGS">FIGS. <b>9</b> to <b>11</b></figref>. However, it is assumed that the following items have already been registered in advance, as explained in the method of generating the target travel route R in the desired field. Note that, for convenience of explanation, the input of the number of work strokes and the input of the numerical value of the headland width are described as if they are executed in order, but setting can be made either by the input of the number of work strokes and the input of the numerical value of the headland width. Moreover, by touching the switching buttons B<b>1</b> and B<b>2</b> in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the values set by the number of work strokes and the numerical value of the headland width can be checked.</p>
+<p id="p-0116" num="0000">(1) In this embodiment, information on the field H to be cultivated (a size, a shape and the like, for example) is supposed to be already registered by the work area setting unit <b>101</b>B of the remote control device <b>100</b> by actual travel of the tractor <b>1</b> or the like.
+<br/>
+(2) Moreover, as the work vehicle, the tractor <b>1</b> uses the rotary cultivator <b>24</b> as the work machine, and the cultivating width W<b>1</b> and the width W<b>2</b> (see <figref idref="DRAWINGS">FIG. <b>4</b></figref>) of the chain case <b>24</b><i>a </i>are uniquely determined from the specifications of the tractor <b>1</b> and the rotary cultivator <b>24</b>. Therefore, the work width W (=W<b>1</b>+W<b>2</b>) has also already been determined.
+<br/>
+Thus, in the vehicle information setting unit <b>101</b>A of the tablet-type remote control device <b>100</b>, it is assumed that the information (such as the work width W and the minimum turning radius of the tractor <b>1</b>) is already stored (registered) in the storage unit <b>103</b> via the control unit <b>105</b>.
+<br/>
+(3) It is assumed that the work start position X (see <figref idref="DRAWINGS">FIG. <b>8</b></figref>) of the travel route R has also already been determined and stored in the storage unit <b>103</b> by the work start position setting unit <b>101</b>E of the remote control device <b>100</b>. Note that this work start position X can also be arbitrarily changed through the control unit <b>105</b> (with certain area constraints, though) by an operation by the work start position setting unit <b>101</b>E via the changing unit <b>101</b>D.
+</p>
+<p id="p-0117" num="0115">The target travel route R is generated in the work area, and the work area is determined by the size of the headland area. Conventionally, the size of the headland area was automatically determined by the minimum values of the work width and the number of work strokes by selecting the first mode to the third mode described above. As described above, the work area is automatically determined by the size of the headland area, which causes a limitation that the size of the work area cannot be changed and thus, the work start position (see <figref idref="DRAWINGS">FIG. <b>8</b></figref>) and the end position can be changed, but the work start position desired by the operator could not be set more flexibly. Thus, by allowing the operator to arbitrarily set the size of the headland area, setting of the work start position desired by the operator is realized.</p>
+<p id="p-0118" num="0116"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a flowchart of the first example illustrating an operation example at a changing work of the headland width and the like in the changing unit <b>101</b>D according to the first embodiment of the present invention. First, a menu page for the headland width to be specified, that is, the touch panel screen on which buttons and switches for input are displayed on the display <b>102</b> as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref> is displayed (first Step SA<b>1</b>).</p>
+<p id="p-0119" num="0117">Then, on this screen, it is determined whether or not the operator selects the selection switch S<b>4</b> (second Step SA<b>2</b>).</p>
+<p id="p-0120" num="0118">Then, when the operator selects this selection switch S<b>4</b>, he/she operates this selection switch S<b>4</b> so as to set the fourth mode. That is, the operator touches the selection switch S<b>4</b> with a finger or the like and also touches the switching button B<b>1</b>, for example, to make a selection. As a result, such a state is brought about that the number of strokes in the first headland area and the second headland area can be input on the screen, respectively (third Step SA<b>3</b>).</p>
+<p id="p-0121" num="0119">Subsequently, the operator numerically inputs the desired number of work strokes or the numerical values of the headland widths for the second headland area and the first headland area. For example, here, the operator specifies and inputs the number of work strokes in the first headland area as 2 and the number of work strokes in the second headland area as 4. After setting the values for the first headland area and the second headland area as above, by operating the forward tab T<b>1</b> in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the screen shifts to a work setting screen where the vehicle speed during the work and the vehicle speed at a turn are set. Then, after final confirmation of setting items, the target travel route R is generated (fourth Step SA<b>4</b>).</p>
+<p id="p-0122" num="0120">Note that the operator can switch to an input menu of a numerical value (m) of the headland width by touching the switching button B<b>2</b>, for example, in this input menu of the number of work strokes, and settings and changes can be also made by numerical values. In addition, if the work width W is 2 m and the first headland area width is 4.5 m, for example, the number of work strokes is 4.5 (m)/2 (m)=2.25 (strokes), which is not an integer. In such a case, the number of work strokes in the headland area is displayed as 3, since the number of work strokes is rounded up to 3. Note that the calculation work up to this point is performed by the control unit <b>105</b> of the remote control device <b>100</b> on the basis of various types of data in the storage unit <b>103</b>, and the numerical values obtained from the calculation are displayed on the screen.</p>
+<p id="p-0123" num="0121">Moreover, when the work route R is generated, the operator can check whether there is any problem (inconvenience) in the work start position X or the work end position by an appropriate operation such as touching the forward tab T<b>1</b>, for example, to switch the screen and causes the work route R to be displayed on the display <b>102</b> of the remote control device (tablet) <b>100</b>. Then, the operator determines whether there is any problem with the work start position X or the like of the displayed work route R (fifth Step SA<b>5</b>). For example, by superimposing and displaying the tractor <b>1</b> and the work route R as shown in <figref idref="DRAWINGS">FIG. <b>11</b>A</figref>, the operator himself/herself can check whether there is any problem with the work start position X1 and the work end position.</p>
+<p id="p-0124" num="0122">And if it is determined that there is no problem with the work start position X or the work end position or the like, assuming that the generation work of the work route R is finished, a series of works up to this point is finished.</p>
+<p id="p-0125" num="0123">On the other hand, if the operator determines that there is some problem with the work start position X or the like, he/she returns to the second Step SA<b>2</b> and starts over again with the work done so far. Then, the operator can cause the setting screen for the headland area width to be displayed by touching the selection switch S<b>4</b> on the menu screen, for example, and execute setting and registration again by inputting the number of work strokes and numerical values for the headland area width again. <figref idref="DRAWINGS">FIG. <b>11</b>B</figref> illustrates the work route R and the work start position X2 after the re-setting. In this way, by performing the aforementioned work again, the operator can change the work start position to the one he/she desires.</p>
+<p id="p-0126" num="0124">Note that, if the fourth mode is not selected at the second Step SA<b>2</b>, the other modes described below are selected and the work is performed in that mode (sixth Step SA<b>6</b>).</p>
+<heading id="h-0025" level="1">Second Example</heading>
+<p id="p-0127" num="0125">Subsequently, another area registration system of the present invention (hereinafter referred to as a &#x201c;second example&#x201d; in some cases) will be described specifically with reference to <figref idref="DRAWINGS">FIG. <b>12</b></figref> and the like.</p>
+<p id="p-0128" num="0126">Note that, in this second example, unlike the first example, a case where the headland width value automatically set by any of the first mode to the third mode shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref> is changed again to an arbitrary numerical value by the operator will be described.</p>
+<p id="p-0129" num="0127">Note that, in the second example, too, as in the first example, the following items, that is, the information relating to the field such as the work width W, the minimum turning radius of the tractor <b>1</b> and the like (sizes, shapes and the like, for example), the work start position X of the travel route R (see <figref idref="DRAWINGS">FIG. <b>8</b></figref>) and the like are assumed to be already stored/registered in the storage unit <b>103</b> in advance.</p>
+<p id="p-0130" num="0128">First, the menu page for specifying the headland width, that is, the screen of the display <b>102</b> as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, is displayed (first Step SB<b>1</b>), and if the first mode is selected among the first mode to the third mode (second Step SB<b>2</b>), the screen shifts to the third Step SB<b>3</b>.</p>
+<p id="p-0131" num="0129">For example, if the operator selects the first mode in which the first headland area and the second headland area are set to the minimum values among the first mode to the third mode, the values of the respective headland areas are automatically input (third Step SB<b>3</b>). Note that, in this case, as shown in <figref idref="DRAWINGS">FIG. <b>11</b>A</figref>, the width of the first headland area including the turn is determined by the turning width in which the work vehicle can turn and a safety margin (approximately 1 m). In addition, the width of the second headland area not including the turn is determined by the width required for the work vehicle to travel and the safety margin (approximately 1 m).</p>
+<p id="p-0132" num="0130">Subsequently, the target travel route R is generated by the automatically input widths of the first headland area and the second headland area (fourth Step SB<b>4</b>). Subsequently, it is determined whether or not the work start position X is set to the position desired by the operator in the target travel route R (fifth Step SB<b>5</b>).</p>
+<p id="p-0133" num="0131">And if the work start position X is set to the position desired by the operator, the work route generation work can be finished here, but if the work start position X and the like are not set to the desired position, the processing returns to the second Step SB<b>2</b>. The operator can then change the widths of the first headland area and the second headland area on the screen shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref> when any of the first mode to the third mode is selected.</p>
+<p id="p-0134" num="0132">After the operator sets the widths of the first headland area and the second headland area, the screen shifts to the work setting screen where the vehicle speed during the work and the vehicle speed at a turn are set by operating the forward tab T<b>1</b> in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, similarly to Example 1. Then, after final confirmation of setting items, the target travel route R is generated.</p>
+<p id="p-0135" num="0133">On the other hand, if it is determined to be NO at the second Step SB<b>2</b>, that is, if the operator does not want to select any of the first mode to the third mode but wants to set the width of the headland area in the fourth mode, then the processing shifts to the sixth Step SB<b>6</b>. In this case, the operator can arbitrarily input the values for the widths of the first headland area and the second headland area. For example, the operator specifies and inputs the number of work strokes in the second headland area as 2 and the number of work strokes in the first headland area as 4, here. Then, if the operator wants to select the fourth mode, he/she touches the selection switch S<b>4</b> (seventh Step SB<b>7</b>).</p>
+<p id="p-0136" num="0134">Here, the same operation as that in the first example can be performed. On the other hand, if a mode other than the first mode and the fourth mode, that is, the second mode or the third mode is selected at the sixth Step SB<b>6</b>, the processing shifts to a processing work in the other modes (eighth Step SB<b>8</b>).</p>
+<heading id="h-0026" level="1">Third Example</heading>
+<p id="p-0137" num="0135">Subsequently, another area registration system of the present invention (hereinafter referred to as a &#x201c;third example&#x201d;) will be described specifically with reference to <figref idref="DRAWINGS">FIG. <b>13</b></figref>, <figref idref="DRAWINGS">FIG. <b>14</b></figref> and the like.</p>
+<p id="p-0138" num="0136">Note that, in this third example, unlike the first and second examples, in the control unit <b>105</b> of the remote control device <b>100</b>, a case in which the number of work strokes or the numerical value of the width for the headland width set and registered by the operator does not reach the numerical value set in advance and a case of exceeding that will be described.</p>
+<p id="p-0139" num="0137">In the third example, too, as in the first and second examples, the following items, that is, the information relating to the field such as the work width W, the minimum turning radius of the tractor <b>1</b> and the like (sizes, shapes and the like, for example), the work start position X of the travel route R (see <figref idref="DRAWINGS">FIG. <b>8</b></figref>) and the like are assumed to be already stored/registered in advance in the storage unit <b>103</b>.</p>
+<p id="p-0140" num="0138">Here, the case in which the specified value has not reached the numerical value set in advance will be described by using <figref idref="DRAWINGS">FIG. <b>13</b></figref>. First, a menu page to allow input of the desired numerical value for the number of work strokes, that is, the screen as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref> is displayed on the display <b>102</b> (first Step SC<b>1</b>). Then, it is determined whether or not the fourth mode is to be set (second Step SC<b>2</b>). For that purpose, the operator touches the selection switch S<b>4</b> with a finger or the like. As a result, such a state is brought about that the number of the strokes or the numerical values of the headland widths in the first headland area and the second headland area can be input on the screen.</p>
+<p id="p-0141" num="0139">Subsequently, the operator numerically inputs the desired number of work strokes or the numerical values of the headland widths for the second headland area and the first headland area (third Step SC<b>3</b>).</p>
+<p id="p-0142" num="0140">For example, suppose that the work width is 2 m, an input of two strokes is made for the first headland area, and an input of four strokes is made for the second headland area.</p>
+<p id="p-0143" num="0141">Here, the route generation unit <b>105</b>A and the control unit <b>105</b> of the remote control device <b>100</b> (tablet) determines whether the set number of work strokes (or a value) is too small (whether it falls below the limit value or not) (fourth Step SC<b>4</b>). If the number of work strokes is larger than or equal to the limit value, the processing shifts to the fifth Step SC<b>5</b>.</p>
+<p id="p-0144" num="0142">Then, the work route R is generated in accordance with the set number of work strokes (fifth Step SC<b>5</b>).</p>
+<p id="p-0145" num="0143">Then, the operator determines whether or not there is any problem with the work start position X in the generated work route R (sixth Step SC<b>6</b>). If it is determined here that there is no problem with the work start position X or the like, the area registration work is finished.</p>
+<p id="p-0146" num="0144">On the other hand, if it is determined that there is a problem (in the case of NO) in SC<b>6</b>, that is, if the operator wants to change the set values of the first headland area and the second headland area, the processing returns to the second Step SC<b>2</b>. As a result, when the fourth mode is set again, the operator can input a numerical value for the number of work strokes or the headland width. On the other hand, if the operator does not want to change the set values, the target travel route R is generated after the work setting screen and setting items are confirmed, as in the first example.</p>
+<p id="p-0147" num="0145">Note that, if the fourth mode is not desired to be set in the second Step SC<b>2</b>, the processing shifts to the seventh Step SC<b>7</b>. Then, in this seventh Step SC<b>7</b>, the processing work in other modes is executed until the work processing is completed.</p>
+<p id="p-0148" num="0146">In addition, regarding the value of the headland width, if the set value (the number of work strokes, for example) is below the limit value in the fourth Step SC<b>4</b>, the minimum widths of the first headland area and the second headland area are automatically input/set (eighth Step SC<b>8</b>). In other words, if the first headland area can only be traveled with three strokes or more, three strokes (6 m in the value of the headland width), which is the minimum value, is set. That is, a value different from the input value specified by the operator is set.</p>
+<p id="p-0149" num="0147">In this case, a screen notifying the operator that the value specified by the operator was not set is displayed (ninth Step SC<b>9</b>).</p>
+<p id="p-0150" num="0148">In the next tenth Step SC<b>10</b>, a work route is generated in the same way as in the first and second examples described above (tenth Step SC<b>10</b>).</p>
+<p id="p-0151" num="0149">After that work route is generated, the processing shifts to the sixth Step SC<b>6</b>, and the same work is repeated.</p>
+<p id="p-0152" num="0150">In addition, when the work similar to the aforementioned flow of procedural processing is performed, in the fourth Step SC<b>4</b> above, the case where the set value is not too small but too large (regarding the determination on whether or not the preset upper limit value is exceeded) will be explained with reference to <figref idref="DRAWINGS">FIG. <b>14</b></figref>. Note that, in this case, from the first Step SD<b>1</b> to the third Step SD<b>3</b>, there is practically no difference in contents in those from the first Step SC<b>1</b> to the third Step SC<b>3</b> in the third example shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref> and thus, explanation till that is omitted and started at the fourth Step SD<b>4</b>.</p>
+<p id="p-0153" num="0151">In the fourth Step SD<b>4</b>, it is determined whether or not the specified value exceeds a preset threshold value (fourth Step SD<b>4</b>). Then, if the preset threshold value is not exceeded, the same processing as the fifth and sixth Steps SC<b>5</b> and SC<b>6</b> shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref> is executed, and the predetermined work route and the like are set and registered.</p>
+<p id="p-0154" num="0152">On the other hand, in the fourth Step SD<b>4</b>, if the value set is too large (the threshold value is exceeded), the processing shifts to the eighth Step SD<b>8</b>. The remote control device (tablet) <b>100</b> then displays a message that the set value is too large. That is, suppose that the work width is 2 m, and 50 strokes are input as the number of work strokes for the first headland area and the second headland area, respectively, for example. If the work area becomes smaller due to the number of work strokes, and a travel route cannot be generated, an error is displayed on the screen. This display may be alerted by a pop-up and the like on the screen, for example.</p>
+<p id="p-0155" num="0153">Note that, in this case, since the processing shifts to the second mode SD<b>2</b>, the operator can input the numerical value again by selecting and setting the fourth mode.</p>
+<p id="p-0156" num="0154">Also, in the second mode SD<b>2</b>, if the fourth mode is not to be selected, by shifting to the seventh Step SD<b>7</b> and setting another desired mode, the processing there can be executed until it is finished.</p>
+<p id="p-0157" num="0155">Thereafter, when the operator changes the set values of the widths of the first headland area and the second headland area, the target travel route R is generated after confirmation of the work setting screen and the setting items, as in Example 1.</p>
+<p id="p-0158" num="0156">As described above, according to this embodiment, by accessing the changing unit <b>101</b>D (and operating the changing unit <b>101</b>D) via the selection switch S<b>4</b>, the operator can change and register the headland area (indirectly, the work area) set once (or specified by the operator himself/herself) to a desired value. In other words, the operator can change (or re-set) the setting by reviewing the sizes of the headland area and the work area by the changing unit <b>101</b>D through the operation of the selection switch S<b>4</b>.</p>
+<p id="p-0159" num="0157">That is, on the conventional travel route setting screen, only such setting that the first headland width and the second headland width automatically become the minimum numbers of work strokes could be made, respectively, by control of the control unit. On the other hand, in this configuration, the operator can freely change the sizes of the headland area and the work area that have been set, for example, by inputting the desired values by the changing unit <b>101</b>D through the headland area setting unit <b>101</b>C by operating the selection switch S<b>4</b> that constitutes the interface and the like. As a result, a travel route that matches the work start position desired by the operator can be generated. This makes it possible to change the travel route to the one that takes into account not only the work area but also the number of work strokes in the headland area and to set it.</p>
+<heading id="h-0027" level="1">First Another Embodiment</heading>
+<p id="p-0160" num="0158">Subsequently, the area registration system according to first another embodiment will be described in detail with reference to <figref idref="DRAWINGS">FIGS. <b>15</b> to <b>17</b></figref>.</p>
+<p id="p-0161" num="0159">In the aforementioned first embodiment, the work area is set by setting the width of the headland area and the number of work strokes, but in the first another embodiment, the work area is set before setting the size of the headland area. In the area registration system of the present invention shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>, a selection switch S<b>5</b> for setting the work area is provided in addition to the selection switches S<b>1</b> to S<b>4</b> on an operation screen <b>101</b>&#x2032; displaying a menu for area registration on the display <b>102</b> of a remote control device <b>100</b>&#x2032; (see <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>3</b></figref>).</p>
+<p id="p-0162" num="0160">This selection switch S<b>5</b> is connected to the work area setting unit <b>101</b>B of the remote control device <b>100</b>&#x2032;, and in addition to the automatic setting of the work &#x201c;area&#x201d; HA by the control unit <b>105</b>, the work area WA may be set, reviewed or changed via this work area setting unit <b>101</b>B by an operation of this selection switch S<b>5</b>.</p>
+<p id="p-0163" num="0161">That is, prior to setting and changing of the headland width (or without setting or changing the headland width), the operator causes the tractor <b>1</b>, which is a work vehicle, to travel in a desired area for which the operator wants to set and to register and sends the data on the travel locus to the work area setting unit <b>101</b>B of the remote control device <b>100</b>&#x2032; via wireless communication so that the work area HA can be set freely. Note that, by this setting and changing of the work area, the headland width is also changed.</p>
+<p id="p-0164" num="0162">Note that, in setting and registering of the work area WA, specifically, the travel locus may be registered as the work area WA by using the straight line mode of automatic travel for the tractor <b>1</b> which self-travels, for example. Alternatively, while traveling along a boundary of the desired work area WA by manual travel (see <figref idref="DRAWINGS">FIG. <b>16</b>(<i>a</i>)</figref>), each point of an area constituting a boundary part of the work area WA, which is the desired cultivating area (in <figref idref="DRAWINGS">FIG. <b>16</b>(<i>b</i>)</figref>, for example, four corners A&#x2032;, B&#x2032;, C&#x2032;, and D&#x2032; in a case of a square or each vertex in a case of a pentagon or other polygons) is registered as points. As a result, the desired work area can be formed and set and registered by connecting these points with straight lines.</p>
+<p id="p-0165" num="0163">In other words, in a forming work of the work area WA at this time, by tracing each of the points A&#x2032; to D&#x2032; displayed on the touch panel <b>101</b>, which is a display screen of the display <b>102</b> (displayed in an inside area S of the field shown in <figref idref="DRAWINGS">FIG. <b>16</b>(<i>b</i>)</figref>, for example), obtained by actual travel of the tractor <b>1</b> (see <figref idref="DRAWINGS">FIG. <b>16</b>(<i>a</i>)</figref>) by a touch pen or the like, not shown, while visually checking it, an outer profile S&#x2032; of the work area can be geometrically formed. This makes it possible to set the work area WA of a substantial square (slightly closer to a trapezoid, to be strict) as shown in <figref idref="DRAWINGS">FIG. <b>17</b></figref> easily. Therefore, this work area WA may be registered as the &#x201c;work &#x201c;area&#x201d; HA&#x201d; in the storage unit <b>103</b> via the work area setting unit <b>101</b>B of the remote control device <b>100</b>.</p>
+<p id="p-0166" num="0164">In addition to this, without actually causing the tractor <b>1</b> to travel, by operating the selection switch S<b>5</b> to a selectively set work area input mode, the desired work area WA can be registered by the operator by free geometrical input on the screen.</p>
+<p id="p-0167" num="0165">After the registration of the work area WA, by causing the tractor <b>1</b> to actually travel around an outer perimeter of the work area WA as shown in <figref idref="DRAWINGS">FIG. <b>17</b></figref>, whether it can safely travel is checked. As a result, when travel safety is confirmed, this work area WA is set and registered as the work &#x201c;area&#x201d; HA. In addition, here, the work route (or the travel route R) as indicated by a solid line in <figref idref="DRAWINGS">FIG. <b>17</b></figref> can be displayed on the screen of the display <b>102</b> by the route generation unit <b>105</b>A.</p>
+<p id="p-0168" num="0166">In this way, the work area HA can be set without setting or changing the headland width. This makes it possible to reduce the number of processes involved in setting of the work area HA, and the work can be performed efficiently.</p>
+<heading id="h-0028" level="1">Second Embodiment</heading>
+<p id="p-0169" num="0167">Subsequently, a second embodiment will be described with reference to <figref idref="DRAWINGS">FIG. <b>18</b></figref>.</p>
+<p id="p-0170" num="0168">In the aforementioned first another embodiment, the work area is set by traveling on an outline of an area to be a work area, but in a second embodiment, the work area is set from a travel locus of linear travel. In the area registration system in the second embodiment, on the touch panel <b>101</b> of the display <b>102</b> in a remote control device <b>100</b>&#x2033; (see <figref idref="DRAWINGS">FIG. <b>1</b></figref> to <figref idref="DRAWINGS">FIG. <b>3</b></figref>), other than the selection switches S<b>1</b> to S<b>4</b>, a selection switch S<b>6</b> is additionally provided for setting a work area.</p>
+<p id="p-0171" num="0169">By touching this selection switch S<b>6</b> by a finger or the like, an operation screen <b>101</b>&#x2033; shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref> that displays a menu for registering the work area via the work area setting unit <b>101</b>B is displayed. There, the work area WA is formed automatically in advance.</p>
+<p id="p-0172" num="0170">Also in the second embodiment, it is configured such that the tractor <b>1</b> is first actually made to travel, and the work area WA is formed and registered from data on the work width and the number of work strokes on the basis of the linear travel locus actually traveled. However, a difference from the first another embodiment is that, in the first another embodiment, the tractor <b>1</b> is made to travel along the outline of the work area WA, while in the second embodiment, the work area WA is registered only from the linear travel locus. In other words, the work area WA can be registered on the basis of the linear travel locus, the work width set and registered in advance and the number of work strokes.</p>
+<p id="p-0173" num="0171">This makes it possible to set and to register two work areas WA in the field area. For example, different crops can be grown in respective work areas WA in a large field, which is practically convenient.</p>
+<heading id="h-0029" level="1">Addendum of the Invention</heading>
+<p id="p-0174" num="0172">A first feature configuration of the present invention is including a vehicle information setting unit that sets information on a work vehicle autonomously traveling in a travel area, a work area setting unit that sets a work area in which the work vehicle performs a work, a headland area setting unit that sets a headland area constituted by a headland area including a turn and/or a headland area not including a turn, which is disposed on an outer side the work area and excludes the work area in the travel area on the basis of the information on the work vehicle, and a changing unit that can change setting of a size of both or either one of the headland area that includes a turn and the headland area that does not include a turn among the headland areas set by the headland area setting unit.</p>
+<p id="p-0175" num="0173">According to this configuration, the operator can change the headland area or the work area which was set once to a desired value by using the changing unit. In other words, the operator can change (or re-set) the setting by reviewing the sizes of the headland area and the work area.</p>
+<p id="p-0176" num="0174">That is, on the conventional travel route setting screen, only such setting that the width of the headland (headland width) and the width of the headland turn (turning headland width) become the minimum number of strokes could be made, respectively, but in this configuration, regarding the headland area which has been set, sizes of these areas can be freely changed by the operator by inputting a desired value by the changing unit. As a result, a travel route that matches the work start position desired by the operator can be generated. This makes it possible to change the travel route to the one that takes into account not only the work area but also the number of work strokes in the headland area and to set it.</p>
+<p id="p-0177" num="0175">A second feature configuration of the present invention is that the changing unit is configured to allow the operator to change the size of the headland area in accordance with the input value of the headland area width or the number of work strokes.</p>
+<p id="p-0178" num="0176">According to this configuration, as in the case of the second feature configuration, the size of the headland area (and the size of the work area) can be set and changed to a value desired by the operator.</p>
+<p id="p-0179" num="0177">A third feature configuration of the present invention is that the notification unit is provided for notifying that the value of the headland area width or the number of work strokes is not accepted when the work vehicle cannot make a turn in the headland area regarding the value of the headland area width or the number of work strokes which has been input.</p>
+<p id="p-0180" num="0178">According to this configuration, if, for example, the headland area width is too narrow, this situation can be notified to the operator that the value input by the operator is not accepted. This ensures that the operator can reliably grasp this situation without overlooking it. As a result, it is possible to have the setting changed to a safe headland area by changing the setting again, for example. In this way, a work vehicle such as a tractor can be safely caused to travel autonomously in a headland area that has been re-set to a safe size without deviating from the headland area.</p>
+<p id="p-0181" num="0179">A fourth feature configuration of the present invention is that the route generation unit that sets a travel route in the work area and the notification unit that notifies that a value of the headland area width or the number of strokes is not accepted, when the route generation unit cannot set a travel route in the work area for the value of the headland area width or the number of work strokes which has been input are provided.</p>
+<p id="p-0182" num="0180">According to this configuration, as in the third feature configuration, when the area settings in the work area are reviewed and changed according to a request of the operator, if an efficient and safe travel route is not set, this situation can be notified to the operator, for example. This makes it possible for the operator to reliably grasp the situation without overlooking it and to re-set a safe and efficient travel route, which is an effect that can be obtained.</p>
+<p id="p-0183" num="0181">A fifth feature configuration of the present invention is that the work start position setting unit for setting a position where the work vehicle starts a work is provided, and it is configured such that the set work start position can be changed by the operator when the size of the headland area is changed by the changing unit.</p>
+<p id="p-0184" num="0182">According to this configuration, the operator can change the size of the headland area to have a desired work start position.</p>
+<p id="p-0185" num="0183">A sixth feature configuration of the present invention is that the headland area can be set automatically, and it is configured such that the data having been already set automatically can be modified by the operator by inputting a predetermined value.</p>
+<p id="p-0186" num="0184">According to this configuration, the operator can modify not only data when the operator input, but also the data that is automatically input, which is convenient.</p>
+<p id="p-0187" num="0185">Note that, the area registration system of the present invention may be constituted by a system including the autonomously traveling work vehicle <b>1</b> and the remote control device <b>100</b> or may be constituted by the remote control device <b>100</b> alone. In other words, the remote control device <b>100</b> is an example of the area registration system of the present invention.</p>
+<p id="p-0188" num="0186">Note that the present invention is not limited to the aforementioned embodiments, but also includes configurations in which each configurations obtained by mutually substituting or changing a combination of each configuration disclosed in the above-mentioned embodiments and configurations obtained by mutually substituting or changing a combination of known inventions and each configuration disclosed in the aforementioned embodiments.</p>
+<p id="p-0189" num="0187">The technical scope of the present invention is not limited to the embodiments described above but extends to the matters described in the claims and their equivalents.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An area registration method for a work vehicle to travel autonomously in a travel area, executing:
+<claim-text>setting information on the work vehicle that autonomously travels in the travel area;</claim-text>
+<claim-text>setting a work area that is included in the travel area and in which the work vehicle performs a work;</claim-text>
+<claim-text>setting a headland area that is included in the travel area and disposed on an outer side of the work area in which the work vehicle performs the work; and</claim-text>
+<claim-text>when an operation to input setting information of the headland area is accepted after the work area and the headland area have been set, changing sizes of the work area and the headland area on the basis of the input setting information on which the work vehicle uses to travel and work.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The area registration method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>when an operation to input a width of the headland area or a number of work strokes is accepted after the work area and the headland area have been set, a size of the headland area is changed in accordance with the width of the headland area or the number of work strokes which has been input, and the size of the work area is changed in accordance with the changed size of the headland area.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The area registration method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein
+<claim-text>when the work vehicle cannot make a turn in the headland area whose size was changed in accordance with the width of the headland area or the number of work strokes which has been input, notification is made that the width of the headland area or the number of work strokes which has been input is not accepted.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The area registration method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising:
+<claim-text>setting a travel route in the work area; and</claim-text>
+<claim-text>it is notified that the width of the headland area or the number of work strokes which has been input is not accepted, when the travel route cannot be set in the work area whose size was changed in accordance with the width of the headland area or the number of work strokes which has been input.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The area registration method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>setting a work start position, which is a position at which the work vehicle starts a work in the work area; and</claim-text>
+<claim-text>the set work start position is changed when the sizes of the work area and the headland area are changed after the work start position was set.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The area registration method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the headland area can be automatically set on the basis of a predetermined condition; and</claim-text>
+<claim-text>the automatically set headland area can be changed by inputting a width of the headland area or a number of work strokes.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The area registration method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the headland area is set on the basis of the information of the work vehicle; and</claim-text>
+<claim-text>the work area is set on the basis of the setting information of the set headland area.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The area registration method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the headland area includes a first headland area that includes a turn and a second headland area that does not include a turn; and</claim-text>
+<claim-text>a size of at least either one of the first headland area and the second headland area is changed on the basis of the input setting information.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. An area registration system for a work vehicle to travel autonomously in a travel area, comprising:
+<claim-text>a vehicle information setting unit that sets information on a work vehicle that autonomously travels in a travel area;</claim-text>
+<claim-text>a work area setting unit that sets a work area included in the travel area and in which the work vehicle performs a work;</claim-text>
+<claim-text>a headland area setting unit that sets a headland area included in the travel area and disposed on an outer side of the work area in which the work vehicle performs the work; and</claim-text>
+<claim-text>a changing unit that changes the sizes of the work area and the headland area on the basis of the input setting information on which the work vehicle uses to travel and work, when an operation to input setting information of the headland area is accepted after the work area and the headland area have been set.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

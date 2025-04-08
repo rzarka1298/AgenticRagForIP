@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="US12193346-20250114.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20241225" date-publ="20250114">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>12193346</doc-number>
+<kind>B2</kind>
+<date>20250114</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18229935</doc-number>
+<date>20230803</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<us-term-of-grant><us-term-extension>0</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>45</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>45</main-group>
+<subgroup>023</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20250114</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<invention-title id="d2e51">Turf aerators and assemblies for same</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2151117</doc-number>
+<kind>A</kind>
+<name>Kepler</name>
+<date>19390300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 63/166</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172418</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2347748</doc-number>
+<kind>A</kind>
+<name>Melling</name>
+<date>19440500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/023</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172 88</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2638831</doc-number>
+<kind>A</kind>
+<name>Ferguson</name>
+<date>19530500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/023</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172 75</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3429378</doc-number>
+<kind>A</kind>
+<name>Mascaro</name>
+<date>19690200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/023</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172 97</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4336760</doc-number>
+<kind>A</kind>
+<name>Cohen</name>
+<date>19820600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/026</classification-cpc-text>
+<classification-national><country>US</country><main-classification>111131</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4867244</doc-number>
+<kind>A</kind>
+<name>Cozine</name>
+<date>19890900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/023</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172 97</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5119880</doc-number>
+<kind>A</kind>
+<name>Zehrung, Jr.</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/026</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172 43</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5398767</doc-number>
+<kind>A</kind>
+<name>Warke</name>
+<date>19950300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/023</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172 97</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6892821</doc-number>
+<kind>B2</kind>
+<name>Wessel</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/023</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>7341114</doc-number>
+<kind>B2</kind>
+<name>Classen et al.</name>
+<date>20080300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>7669667</doc-number>
+<kind>B2</kind>
+<name>Petersen et al.</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>7971653</doc-number>
+<kind>B2</kind>
+<name>Harris, III</name>
+<date>20110700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>8255126</doc-number>
+<kind>B2</kind>
+<name>Hunt et al.</name>
+<date>20120800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>8291991</doc-number>
+<kind>B1</kind>
+<name>Cook</name>
+<date>20121000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>8757283</doc-number>
+<kind>B2</kind>
+<name>Wessel</name>
+<date>20140600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/023</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172125</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>8800677</doc-number>
+<kind>B2</kind>
+<name>Georgoulias et al.</name>
+<date>20140800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>8827000</doc-number>
+<kind>B2</kind>
+<name>Aldridge et al.</name>
+<date>20140900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>8844645</doc-number>
+<kind>B2</kind>
+<name>Hall et al.</name>
+<date>20140900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>8925643</doc-number>
+<kind>B2</kind>
+<name>Georgoulias et al.</name>
+<date>20150100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>8955610</doc-number>
+<kind>B1</kind>
+<name>Longmeyer</name>
+<date>20150200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>9462738</doc-number>
+<kind>B2</kind>
+<name>Bryant et al.</name>
+<date>20161000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>9510497</doc-number>
+<kind>B2</kind>
+<name>Zabel et al.</name>
+<date>20161200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>9924623</doc-number>
+<kind>B2</kind>
+<name>Georgoulias</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>10206321</doc-number>
+<kind>B2</kind>
+<name>Georgoulias</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/023</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>10398074</doc-number>
+<kind>B2</kind>
+<name>Lapp et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>2011/0005783</doc-number>
+<kind>A1</kind>
+<name>Livingstone</name>
+<date>20110100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>2013/0248213</doc-number>
+<kind>A1</kind>
+<name>Wessel</name>
+<date>20130900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/023</classification-cpc-text>
+<classification-national><country>US</country><main-classification>172 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>2018/0153085</doc-number>
+<kind>A1</kind>
+<name>Smith</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01B 45/00</classification-cpc-text>
+</us-citation>
+<us-citation>
+<nplcit num="00029">
+<othercit>Billy Goat Turf Aerator Manual, 14 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>15</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-cpc-text>A01B 45/00</classification-cpc-text>
+<classification-cpc-text>A01B 45/02</classification-cpc-text>
+<classification-cpc-text>A01B 45/023</classification-cpc-text>
+<classification-cpc-text>A01B 45/026</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>14</number-of-drawing-sheets>
+<number-of-figures>14</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>17528951</doc-number>
+<date>20211117</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11716916</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18229935</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16361053</doc-number>
+<date>20190321</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11272652</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17528951</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62646937</doc-number>
+<date>20180323</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20230380319</doc-number>
+<kind>A1</kind>
+<date>20231130</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Briggs &#x26; Stratton, LLC</orgname>
+<address>
+<city>Wauwatosa</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>King</last-name>
+<first-name>Brandon</first-name>
+<address>
+<city>Pleasant Hill</city>
+<state>MO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Coates</last-name>
+<first-name>William</first-name>
+<address>
+<city>Lee's Summit</city>
+<state>MO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Foley &#x26; Lardner LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Briggs &#x26; Stratton, LLC</orgname>
+<role>02</role>
+<address>
+<city>Wauwatosa</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>McGowan</last-name>
+<first-name>Jamie L</first-name>
+<department>3671</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A turf aerator includes a frame, a tine shaft rotatably supported by the frame, a plurality of tines coupled to the tine shaft, a swing arm supporting the plurality of tines, and an input. The swing arm being rotatably supported by the frame and configured to rotate the plurality of tines between an operating position and a retracted position. Actuation of the input (i) actuates the swing arm to transition the plurality of tines from the retracted position to the operating position and (ii) activates the tine shaft to move the plurality of tines.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="120.57mm" wi="158.75mm" file="US12193346-20250114-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="164.25mm" wi="159.68mm" file="US12193346-20250114-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="195.92mm" wi="148.08mm" orientation="landscape" file="US12193346-20250114-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="196.60mm" wi="146.64mm" orientation="landscape" file="US12193346-20250114-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="152.57mm" wi="103.04mm" file="US12193346-20250114-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="208.36mm" wi="117.26mm" file="US12193346-20250114-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="192.53mm" wi="156.72mm" orientation="landscape" file="US12193346-20250114-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="192.45mm" wi="147.57mm" orientation="landscape" file="US12193346-20250114-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="176.36mm" wi="149.18mm" orientation="landscape" file="US12193346-20250114-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="154.60mm" wi="159.34mm" file="US12193346-20250114-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="138.43mm" wi="98.89mm" file="US12193346-20250114-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="148.08mm" wi="92.71mm" file="US12193346-20250114-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="182.54mm" wi="160.19mm" orientation="landscape" file="US12193346-20250114-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="123.36mm" wi="102.62mm" file="US12193346-20250114-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="132.08mm" wi="75.95mm" file="US12193346-20250114-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED PATENT APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of U.S. patent application Ser. No. 17/528,951, filed on Nov. 17, 2021, which is a continuation of U.S. patent application Ser. No. 16/361,053, filed on Mar. 21, 2019, which claims the benefit of and priority to U.S. Provisional Application No. 62/646,937, filed on Mar. 23, 2018, all of which are hereby incorporated by reference in their entireties.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Aerators are commonly used to improve turf quality by driving sets of coring tines into the ground to remove soil (often in cylindrical portions referred to as &#x201c;plugs&#x201d;). This counteracts soil compaction by creating cavities that permit water and other nutrients to better reach the roots of the remaining grass, and thereby promotes the overall health of the turf. Embodiments of the current disclosure advance the aerator art.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0004" num="0003">The following presents a simplified summary of the invention in order to provide a basic understanding of some aspects of the invention. This summary is not an extensive overview of the invention. It is not intended to identify critical elements of the invention or to delineate the scope of the invention. Its sole purpose is to present some concepts of the invention in a simplified form as a prelude to the more detailed description that is presented elsewhere.</p>
+<p id="p-0005" num="0004">In one embodiment, a turf aerator includes a retracting tine assembly and an input mechanism. The tine assembly includes a plurality of tines, a pair of swing arms, and a linkage for selectively moving the pair of swing arms and the plurality of tines from the operating position to the retracted position. The pair of swing arms support the plurality of tines and are configured to rotate the plurality of tines between an operating position to a retracted position. The input is coupled to the linkage and the input is operable to active the linkage to move the pair of swing arms and the plurality of tines from the operating position to the retracted position.</p>
+<p id="p-0006" num="0005">In some embodiments, the input includes a foot pedal operable by a food of an operator.</p>
+<p id="p-0007" num="0006">In some embodiments, the input includes a hand lever operable by a hand of an operator.</p>
+<p id="p-0008" num="0007">In some embodiments, a first end of the linkage terminates at the input and a second end of the linkage is coupled to a keeper bar.</p>
+<p id="p-0009" num="0008">In some embodiments, the turf aerator includes a latch for engaging the keeper bar when the pair of swing arms and the plurality of tines are in the retracted position.</p>
+<p id="p-0010" num="0009">In some embodiments, the input and the turf aerator further include a second input coupled to the latch and configured to disengage the keeper bar from the latch to allow the pair of swing arms and the plurality of tines to move from the retracted position to the operating position.</p>
+<p id="p-0011" num="0010">In some embodiments, the second input includes a release handle operable by a hand of an operator.</p>
+<p id="p-0012" num="0011">In some embodiments, the first input includes a food pedal operable by a food of an operator and the second input includes a release handle operable by a hand of the operator.</p>
+<p id="p-0013" num="0012">In another embodiment, a turf aerator includes a frame, a tine shaft rotatably supported by the frame, a plurality of tines coupled to the tine shaft, a swing arm supporting the plurality of tines, a linkage, and an input for (i) actuating the linkage to transition the retractor plate from the retracted position to the operating position and (ii) activating the tine shaft to move the plurality of tines. The swing arm is rotatably supported by the frame and is configured to rotate the plurality of tines between an operating position and a retracted position. The linkage selectively moves the swing arm and the plurality of tines from the operating position to the retracted position.</p>
+<p id="p-0014" num="0013">In some embodiments, a first end of the linkage terminates at a pedal. In some embodiments, the linkage is configured to allow an operator's hands to remain engaged with handles of the aerator when the swing arm and the plurality of tines are moving from the operating position to the retracted position.</p>
+<p id="p-0015" num="0014">In some embodiments, a second end of the linkage is rotatably coupled to the swing arm.</p>
+<p id="p-0016" num="0015">In some embodiments, a second end of the linkage is indirectly rotatably coupled to the swing arm.</p>
+<p id="p-0017" num="0016">In some embodiments, the tine shaft is a tine crank shaft, and when the input is not engaged the tine crank shaft is inactive.</p>
+<p id="p-0018" num="0017">In some embodiments, the linkage includes a driving link and a driven link operable by the driving link. The driving link defines a linkage first end. The driven link has a sliding slot. A distal end of the driving link has a sliding element passing through the sliding slot and interacting with the driven link.</p>
+<p id="p-0019" num="0018">In some embodiments, the input includes a cable and a release handle.</p>
+<p id="p-0020" num="0019">In some embodiments, the tine shaft is configured to rotate when the plurality of tines is in the operating position and the retracted position.</p>
+<p id="p-0021" num="0020">In another embodiment, a turf aerator includes a frame, a tine shaft rotatably supported by the frame, a plurality of tines coupled to the tine shaft, a pair of swing arms supporting the plurality of tines and configured to rotate the plurality of tines between an operating position and a retracted position, and a linkage for selectively moving the pair of swing arms and the plurality of tines from the operating position to the retracted position. The first end of the linkage terminates at a pedal.</p>
+<p id="p-0022" num="0021">In some embodiments, the linkage includes a driving link and a driven link operable by the driving link. The driving link defining the linkage first end. The driven link having a sliding slot. A distal end of the driving link having a sliding element passing through the sliding slot and interacting with the driven link.</p>
+<p id="p-0023" num="0022">In some embodiments, the linkage is configured to allow an operator's hands to remain engaged with handles of the aerator when the pair of swing arms and the plurality of tines are moving from the operating position and the retracted position.</p>
+<p id="p-0024" num="0023">In some embodiments, the turf aerator includes an input coupled to the linkage. The input includes a release handle that is configured to be selectively engaged by an operator for (i) actuating the linkage to transition the pair of swing arms and the plurality of tines from the retracted position to the operating position and (ii) activating the tine shaft to move the plurality of tines.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of an aerator according to an exemplary embodiment of the current disclosure, shown with the tine assembly at a retracted position.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIGS. <b>2</b>A and <b>2</b>B</figref> are opposite side views of the aerator of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, shown with the tine assembly at the retracted position.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear view of the aerator of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, shown with the tine assembly at the retracted position.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a top view of the aerator of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, shown with the tine assembly at the retracted position.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is another perspective view of the aerator of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, shown with the tine assembly at the retracted position.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIGS. <b>6</b>A and <b>6</b>B</figref> are perspective views of the aerator of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, shown with the tine assembly at an operating position.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIGS. <b>7</b>A, <b>7</b>B, and <b>7</b>C</figref> are partial views of the aerator of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, shown with the tine assembly at the retracted position.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIGS. <b>8</b>A, <b>8</b>B, and <b>8</b>C</figref> are partial views of the aerator of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, shown with the tine assembly at the operating position.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0033" num="0032">Referring to the Figures generally, a turf aerator is shown, according to an exemplary embodiment. The turf aerator includes a tine assembly that is movable between an operating position, where tines perforate soil underneath the aerator, and a retracted position, in which the tines do not perforate the soil. To move the tine assembly between the operating position and the retracted position, an operator can use single motions, with either one hand or one foot engaging with a component of the aerator. In addition, the linkages between an operator interface and the components of the aerator are more rigid in nature, as compared to cables or other flexible linkages that may be used on conventional aerators. In this way, the operation of the aerator is simplified for the operator, and breakages of components, such as cables or other linkages, may be reduced or eliminated.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIGS. <b>1</b> through <b>8</b>C</figref> show a turf aerator according to one embodiment <b>100</b> of the current disclosure. The aerator <b>100</b> includes a frame <b>110</b> with front and rear ends <b>110</b><i>a</i>, <b>110</b><i>b </i>and a plurality of wheels <b>112</b> operatively coupled to the frame <b>110</b>. Two front wheels <b>112</b><i>a </i>and two rear wheels <b>112</b><i>b </i>are shown in the drawings, though more or fewer wheels <b>112</b> may be included. As is known in the art, the wheels <b>112</b> may be powered by an engine or motor, hydraulically, et cetera.</p>
+<p id="p-0035" num="0034">A retracting tine assembly <b>120</b>, best shown in <figref idref="DRAWINGS">FIGS. <b>5</b> through <b>8</b>A</figref>, is movable between an operating position <b>120</b><i>a </i>at which tines <b>122</b> of the tine assembly <b>120</b> may be used to perforate soil with small holes and a retracted position <b>120</b><i>b </i>at which the tines <b>122</b> will not intersect the ground. The tine assembly <b>120</b> broadly includes a tine crank <b>121</b> rotatably supported by the frame <b>110</b>, a plurality of the tines <b>122</b> coupled to the tine crank <b>121</b>, a pair of retractor plate swing arms <b>125</b>, a retractor plate <b>128</b> for positioning the tines <b>122</b>, a keeper bar <b>131</b>, a latch <b>135</b>, an input mechanism, such as a release handle <b>141</b>, release cable <b>143</b>, linkage <b>151</b>, and another input mechanism, such as a pedal <b>159</b>.</p>
+<p id="p-0036" num="0035">As known in the art, the tine crank <b>121</b> (<figref idref="DRAWINGS">FIGS. <b>6</b>B, <b>7</b>A, and <b>8</b>A</figref>) may be powered (i.e., rotated) by a belt and pulley or chain and sprocket powered by an engine or motor, by a hydraulic motor, battery pack(s) of a variety of different chemistries, such as lithium-ion, nickel cadmium, lead acid, nickel-metal hydride, et cetera, or otherwise as currently known or later developed. And the tines <b>122</b> may be any desired aerating tines, whether now know or later developed, which may be coupled to and operated by the tine crank <b>121</b>.</p>
+<p id="p-0037" num="0036">The pair of retractor plate swing arms <b>125</b> are rotatably supported by the frame <b>110</b> at pivot points <b>126</b> located at opposite sides of the frame <b>110</b> (see <figref idref="DRAWINGS">FIGS. <b>6</b>A and <b>6</b>B</figref>). The retractor plate <b>128</b> is fixed (directly or indirectly) to the swing arms <b>125</b> and defines a plurality of openings <b>129</b> (<figref idref="DRAWINGS">FIG. <b>7</b>A</figref>) through which the tines <b>122</b> pass. The location of the retractor plate <b>128</b> determines whether the tine assembly <b>120</b> is at the operating position <b>120</b><i>a </i>or the retracted position <b>120</b><i>b</i>. More specifically, when the retractor plate <b>128</b> is relatively horizontal as shown in <figref idref="DRAWINGS">FIG. <b>6</b>B</figref> (the operating position <b>120</b><i>a</i>), the retractor plate <b>128</b> guides the tines <b>122</b> to move toward and away from the ground as the tine crank <b>121</b> rotates; and when the retractor plate <b>128</b> is relatively vertical as shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref> (the retracted position <b>120</b><i>b</i>), the retractor plate <b>128</b> supports the tines <b>122</b> such that the tines <b>122</b> cannot interact with the ground. The retractor plate <b>128</b> includes slots through which the tines <b>122</b> move to contact the ground when in the operating position <b>120</b><i>a</i>. The retractor plate <b>128</b> can also control how fast the aerator <b>100</b> moves in the forward direction, while also simultaneously helping to propel the aerator <b>100</b> in the direction of movement. When at the operating position <b>120</b><i>a</i>, the tines <b>122</b> are generally located between the rear wheels <b>112</b><i>b </i>and preferably do not extend rearwardly beyond the rear wheels <b>112</b><i>b</i>; and when at the retracted position <b>120</b><i>b</i>, at least some of the tines <b>122</b> preferably extend rearwardly of the rear wheels <b>112</b><i>b. </i></p>
+<p id="p-0038" num="0037">The keeper bar <b>131</b> engages with the latch <b>135</b> to maintain the tine assembly <b>120</b> at the retracted position <b>120</b><i>b</i>. The keeper bar <b>131</b> is fixed relative to the swing arms <b>125</b> and may extend directly from one or both swing arms <b>125</b> or otherwise be attached to structure extending from one or both swing arms <b>125</b> (such as shown in <figref idref="DRAWINGS">FIGS. <b>6</b>A and <b>6</b>B</figref>, for example). As shown in <figref idref="DRAWINGS">FIGS. <b>7</b>A through <b>7</b>C</figref>, a hook portion <b>136</b> of the latch <b>135</b> interacts with the keeper bar <b>131</b> to maintain the retractor plate <b>128</b> relatively vertical.</p>
+<p id="p-0039" num="0038">The latch <b>135</b> is rotatably coupled to the frame <b>110</b> at pivot point <b>137</b> and is biased to hold the keeper bar <b>131</b> by a spring <b>138</b> (e.g., a mechanical spring, gas spring, hydraulic spring, et cetera), as shown in <figref idref="DRAWINGS">FIGS. <b>7</b>A and <b>7</b>B</figref>. And the input mechanism or release handle <b>141</b> (<figref idref="DRAWINGS">FIG. <b>1</b></figref>) interacts with the latch <b>135</b> through the release cable <b>143</b>, as best illustrated in <figref idref="DRAWINGS">FIGS. <b>7</b>A through <b>8</b>C</figref>. More particularly, one end of the cable <b>143</b> is coupled to the handle <b>141</b> and another end of the cable <b>143</b> terminates at a striker <b>144</b>. A spring <b>145</b> biases the striker <b>144</b> in a direction that that does not urge the hook portion <b>136</b> to disengage the keeper bar <b>131</b>. Yet sufficient input from the release handle <b>141</b> to the cable <b>143</b> causes the striker <b>144</b> to overcome the force of the spring <b>145</b> (and the force of the spring <b>138</b>), rotating the latch <b>135</b> about the pivot point <b>137</b> and releasing the keeper bar <b>131</b> from the hook portion <b>136</b>. With the keeper bar <b>131</b> released from the hook portion <b>136</b>, gravity causes the retractor plate <b>128</b> to move to be relatively horizontal (and thus the swing arms <b>125</b> to rotate about the pivot points <b>126</b>), such that the tine assembly <b>120</b> is at the operating position <b>120</b><i>a</i>. A shield <b>149</b> may be rotatably supported (directly or indirectly) by at least one of the swing arms <b>125</b> so that the shield <b>149</b> lowers to provide a buffer between the tines <b>122</b> and the operator when the tine assembly <b>120</b> is at the operating position <b>120</b><i>a</i>, as shown in <figref idref="DRAWINGS">FIG. <b>6</b>B</figref>.</p>
+<p id="p-0040" num="0039">The linkage <b>151</b> is provided to move the tine assembly <b>120</b> from the operating position <b>120</b><i>a </i>to the retracted position <b>120</b><i>b</i>. One end <b>151</b><i>a </i>of the linkage <b>151</b> terminates at the input mechanism or pedal <b>159</b>, and another end <b>151</b><i>b </i>of the linkage <b>151</b> is directly or indirectly rotatably coupled to the swing arm <b>125</b> (in the embodiment <b>100</b>, the end <b>151</b><i>b </i>is coupled to the keeper bar <b>131</b> and has an axis of rotation that is coaxial with the keeper bar <b>131</b>; this arrangement may be particularly desirable). The pedal end <b>151</b><i>a </i>may be coupled to (e.g., through welding, bolts, or any other appropriate fastener) or form the pedal <b>159</b>. While the linkage <b>151</b> may be configured in various ways, it may be particularly desirable for the linkage <b>151</b> to include a driving link <b>152</b> associated with the pedal end <b>151</b><i>a </i>and a driven link <b>156</b> operable by the driving link <b>152</b>. The driving link <b>152</b> is rotatably coupled to the frame <b>110</b> at pivot point <b>153</b> (<figref idref="DRAWINGS">FIG. <b>8</b>A</figref>), and a biasing member <b>154</b> (<figref idref="DRAWINGS">FIG. <b>6</b>B</figref>) biases the driving link <b>152</b> such that the pedal <b>159</b> is typically raised. A distal end of the driving link <b>152</b> includes a pin or other sliding element <b>155</b> (<figref idref="DRAWINGS">FIG. <b>8</b>A</figref>) for interacting with the driven link <b>156</b>, and the driven link <b>156</b> includes a sliding slot <b>157</b> which interacts with the sliding element <b>155</b>. The driven link <b>156</b> forms the link end <b>151</b><i>b </i>and is coupled to the keeper bar <b>131</b> about axis of rotation <b>158</b> (<figref idref="DRAWINGS">FIG. <b>8</b>A</figref>).</p>
+<p id="p-0041" num="0040">In use, the tine assembly <b>120</b> may start at the retracted position <b>120</b><i>b </i>(<figref idref="DRAWINGS">FIGS. <b>1</b> through <b>5</b> and <b>7</b>A through <b>7</b>C</figref>), with the keeper bar <b>131</b> held by the latch <b>135</b> (<figref idref="DRAWINGS">FIGS. <b>7</b>A through <b>7</b>C</figref>). The aerator <b>100</b> may be easily transported when the tine assembly <b>120</b> is at the retracted position <b>120</b><i>b</i>, as the tines <b>122</b> cannot interact with the ground. When the operator desires to use the tines <b>122</b>, the tine assembly <b>120</b> may be quickly moved to the operating position <b>120</b><i>a </i>by actuating the release handle <b>141</b>. Actuation of the release handle <b>141</b> causes the cable <b>143</b> to move the striker <b>144</b>, overcoming the force of the spring <b>145</b> and the spring <b>138</b> and rotating the latch <b>135</b> about the pivot point <b>137</b> to release the keeper bar <b>131</b> from the hook portion <b>136</b>. With the keeper bar <b>131</b> released from the hook portion <b>136</b>, gravity causes the retractor plate <b>128</b> to move to be relatively horizontal (and the swing arms <b>125</b> to rotate about the pivot points <b>126</b>), such that the tine assembly <b>120</b> is at the operating position <b>120</b><i>a. </i></p>
+<p id="p-0042" num="0041">Movement of the aerator <b>100</b> from the retracted position <b>120</b><i>b </i>to the operating position <b>120</b><i>a </i>occurs in a single motion by the operator and can be performed without starting or stopping the engine. Moving conventional aerators into an operating position may require three separate steps: (1) engaging the clutch mechanism, (2) moving a lever to lower the tines into an operating position, and (3) grabbing a forward direction control to operate the aerator in a forward direction. While performing these steps, an operator must know the sequence in which to perform the steps and must perform the steps relatively quickly. On the contrary, the aerator <b>100</b> described herein allows for a single, fluid motion to move the tine assembly <b>120</b> into an operating position <b>120</b><i>a</i>. Accordingly, the operator does not need to know a certain sequence for performing the steps and does not need to try to perform three different movements in a quick sequence. Instead, using only one hand, the operator can actuate the release handle <b>141</b> to move the aerator <b>100</b> into the operating position <b>120</b><i>a </i>as described above.</p>
+<p id="p-0043" num="0042">To return the tine assembly <b>120</b> to the retracted position <b>120</b><i>b</i>, an operator steps upon the pedal <b>159</b> and rotates the driving link <b>152</b> (e.g., steel linkage) about the pivot point <b>153</b>. Rotation of the driving link <b>152</b> causes the sliding element <b>155</b> to move along the sliding slot <b>157</b>, ultimately raising the linkage end <b>151</b><i>b </i>(and rotating the swing arm <b>125</b>) and positioning the keeper bar <b>131</b> to be held by the latch <b>135</b>. Rotation of the swing arm <b>125</b> rotates the retractor plate <b>128</b>, forcing the tines <b>122</b> to be pointed such that they cannot intersect the ground. In some embodiments, the input mechanism or pedal <b>159</b> can be a hand lever that is operable using a single hand.</p>
+<p id="p-0044" num="0043">In operation, the pedal <b>159</b> is operated solely through a stepping movement such that the operator does not need to use either of his or her hands to operate the pedal <b>159</b> to return the tine assembly <b>120</b> to the retracted position <b>120</b><i>b</i>. In this way, the operator's hands are free to remain engaged with the handles of the aerator <b>100</b> during movement from the operating position <b>120</b><i>a </i>to the retracted position <b>120</b><i>b</i>. Accordingly, the operator can focus on safely and effectively maneuvering the aerator <b>100</b> during operation. In addition, in situations where the operator may be new to operating the aerator <b>100</b>, the operator does not need to worry about taking his or her hands off of the aerator <b>100</b> during operation and can learn to operate the hydro-static drive capabilities of the aerator <b>100</b>. Conventional aerators may also use a flexible cable linkage to lift a tine assembly out of operation. In contrast, the aerator <b>100</b> uses a solid (e.g., steel) linkage to move the tine assembly <b>120</b> into the retracted position <b>120</b><i>b</i>. As such, the likelihood of a breakage in the linkage, or that the linkage may be snagged on other portions of the aerator <b>100</b> or by an operator, is reduced.</p>
+<p id="p-0045" num="0044">As utilized herein, the terms &#x201c;approximately&#x201d;, &#x201c;about&#x201d;, &#x201c;substantially&#x201d;, and similar terms are intended to have a broad meaning in harmony with the common and accepted usage by those of ordinary skill in the art to which the subject matter of this disclosure pertains. It should be understood by those of skill in the art who review this disclosure that these terms are intended to allow a description of certain features described and claimed without restricting the scope of these features to the precise numerical ranges provided. Accordingly, these terms should be interpreted as indicating that insubstantial or inconsequential modifications or alterations of the subject matter described and claimed are considered to be within the scope of the invention as recited in the appended claims.</p>
+<p id="p-0046" num="0045">It should be noted that the term &#x201c;exemplary&#x201d; as used herein to describe various embodiments is intended to indicate that such embodiments are possible examples, representations, and/or illustrations of possible embodiments (and such term is not intended to connote that such embodiments are necessarily extraordinary or superlative examples).</p>
+<p id="p-0047" num="0046">Unless described differently above, the terms &#x201c;coupled,&#x201d; &#x201c;connected,&#x201d; and the like, as used herein, mean the joining of two members directly or indirectly to one another. Such joining may be stationary (e.g., permanent) or moveable (e.g., removable, releasable, etc.). Such joining may be achieved with the two members or the two members and any additional intermediate members being integrally formed as a single unitary body with one another or with the two members or the two members and any additional intermediate members being attached to one another.</p>
+<p id="p-0048" num="0047">References herein to the positions of elements (e.g., &#x201c;top,&#x201d; &#x201c;bottom,&#x201d; &#x201c;above,&#x201d; &#x201c;below,&#x201d; etc.) are merely used to describe the orientation of various elements in the figures. It should be noted that the orientation of various elements may differ according to other exemplary embodiments, and that such variations are intended to be encompassed by the present disclosure.</p>
+<p id="p-0049" num="0048">Also, the term &#x201c;or&#x201d; is used in its inclusive sense (and not in its exclusive sense) so that when used, for example, to connect a list of elements, the term &#x201c;or&#x201d; means one, some, or all of the elements in the list. Conjunctive language such as the phrase &#x201c;at least one of X, Y, and Z,&#x201d; unless specifically stated otherwise, is otherwise understood with the context as used in general to convey that an item, term, etc. may be either X, Y, Z, X and Y, X and Z, Y and Z, or X, Y, and Z (i.e., any combination of X, Y, and Z). Thus, such conjunctive language is not generally intended to imply that certain embodiments require at least one of X, at least one of Y, and at least one of Z to each be present, unless otherwise indicated.</p>
+<p id="p-0050" num="0049">It is important to note that the construction and arrangement of the elements of the systems and methods as shown in the exemplary embodiments are illustrative only. Although only a few embodiments of the present disclosure have been described in detail, those skilled in the art who review this disclosure will readily appreciate that many modifications are possible (e.g., variations in sizes, dimensions, structures, shapes and proportions of the various elements, values of parameters, mounting arrangements, use of materials, colors, orientations, etc.) without materially departing from the novel teachings and advantages of the subject matter recited. For example, elements shown as integrally formed may be constructed of multiple parts or elements. It should be noted that the elements and/or assemblies of the components described herein may be constructed from any of a wide variety of materials that provide sufficient strength or durability, in any of a wide variety of colors, textures, and combinations. Accordingly, all such modifications are intended to be included within the scope of the present inventions. Other substitutions, modifications, changes, and omissions may be made in the design, operating conditions, and arrangement of the preferred and other exemplary embodiments without departing from scope of the present disclosure or from the spirit of the appended claims.</p>
+<p id="p-0051" num="0050">Many different arrangements of the various components depicted, as well as components not shown, are possible without departing from the spirit and scope of the present invention. Embodiments of the present invention have been described with the intent to be illustrative rather than restrictive. Alternative embodiments will become apparent to those skilled in the art that do not depart from its scope. A skilled artisan may develop alternative means of implementing the aforementioned improvements without departing from the scope of the present invention. It will be understood that certain features and subcombinations are of utility and may be employed without reference to other features and subcombinations and are contemplated within the scope of the claims. It may be possible for various steps in described methods to be undertaken simultaneously or in other orders than specifically provided.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A turf aerator, comprising:
+<claim-text>a frame;</claim-text>
+<claim-text>a tine shaft rotatably supported by the frame;</claim-text>
+<claim-text>a plurality of tines coupled to the tine shaft;</claim-text>
+<claim-text>a swing arm supporting the plurality of tines, the swing arm being rotatably supported by the frame and configured to rotate the plurality of tines between an operating position and a retracted position; and</claim-text>
+<claim-text>an input, wherein actuation of the input (i) actuates the swing arm to transition the plurality of tines from the retracted position to the operating position and (ii) activates the tine shaft to move the plurality of tines, wherein pivotal actuation of the input from a first position to a second position actuates the plurality of tines to the operating position and activates the tine shaft, and wherein the plurality of tines are maintained in the operating position until actuation of a second input that is rotatably coupled to the swing arm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The turf aerator of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the tine shaft is a tine crank shaft, and wherein when the input is not engaged the tine crank shaft is inactive.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The turf aerator of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the input includes a cable and a release handle.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The turf aerator of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the tine shaft is configured to rotate in the operating position and the retracted position.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A turf aerator, comprising:
+<claim-text>a frame;</claim-text>
+<claim-text>a handle coupled to the frame;</claim-text>
+<claim-text>a tine shaft rotatably supported by the frame;</claim-text>
+<claim-text>a plurality of tines coupled to the tine shaft;</claim-text>
+<claim-text>a swing arm supporting the plurality of tines, the swing arm being rotatably supported by the frame and configured to rotate the plurality of tines between an operating position and a retracted position; and</claim-text>
+<claim-text>a lever pivotally coupled to the handle and pivotally movable between a first position and a second position, wherein actuation of the lever from the first position to a second position both actuates the swing arm to transition the plurality of tines from the retracted position to the operating position and activates the tine shaft to move the plurality of tines, wherein the plurality of tines are maintained in the operating position until actuation of a second input that is rotatably coupled to the swing arm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The turf aerator of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the tine shaft is a tine crank shaft, and wherein when the lever is in the first position, the tine crank shaft is inactive.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The turf aerator of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the lever is coupled to a cable.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The turf aerator of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the tine shaft is configured to rotate in the operating position and the retracted position.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The turf aerator of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the second input is in the form of a pedal.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A turf aerator, comprising:
+<claim-text>a frame;</claim-text>
+<claim-text>a handle coupled to the frame;</claim-text>
+<claim-text>a tine shaft rotatably supported by the frame;</claim-text>
+<claim-text>a plurality of tines coupled to the tine shaft;</claim-text>
+<claim-text>a swing arm supporting the plurality of tines, the swing arm being rotatably supported by the frame and configured to rotate the plurality of tines between an operating position and a retracted position; and</claim-text>
+<claim-text>a hand lever pivotally coupled to the handle and movable between a first position where the hand lever is oriented perpendicular to the handle and a second position where the hand lever is oriented parallel to the handle, wherein actuation of the hand lever from the first position to a second position both actuates the swing arm to transition the plurality of tines from the retracted position to the operating position and activates the tine shaft to move the plurality of tines, wherein the plurality of tines are maintained in the operating position until actuation of a second input that is rotatably coupled to the swing arm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The turf aerator of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the tine shaft is a tine crank shaft, and wherein when the hand lever is in the first position, the tine crank shaft is inactive.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The turf aerator of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the hand lever is coupled to a cable.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The turf aerator of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the tine shaft is configured to rotate in the operating position and the retracted position.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The turf aerator of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the second input is in the form of a pedal.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The turf aerator of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the pedal is coupled to a linkage and the linkage is coupled to the swing arm.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

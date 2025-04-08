@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="US12167722-20241217.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20241126" date-publ="20241217">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>12167722</doc-number>
+<kind>B2</kind>
+<date>20241217</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17778139</doc-number>
+<date>20201119</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>FI</country>
+<doc-number>20195997</doc-number>
+<date>20191121</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant><us-term-extension>203</us-term-extension></us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>67</main-group>
+<subgroup>033</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>N</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>67</main-group>
+<subgroup>033</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">Apparatus for growing invertebrates</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2015/0296760</doc-number>
+<kind>A1</kind>
+<name>Perednia</name>
+<date>20151000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01K 67/033</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>CN</country>
+<doc-number>208692094</doc-number>
+<kind>U</kind>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>KR</country>
+<doc-number>20190073891</doc-number>
+<kind>A</kind>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>WO</country>
+<doc-number>WO 96/31117</doc-number>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01K 80/00</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>WO</country>
+<doc-number>WO2017198895</doc-number>
+<kind>A1</kind>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>WO</country>
+<doc-number>WO2018169398</doc-number>
+<kind>A1</kind>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>WO</country>
+<doc-number>WO2019211511</doc-number>
+<kind>A1</kind>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00008">
+<othercit>English language machine translation of CN208692094U.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00009">
+<othercit>English language machine translation of KR20190073891A.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00010">
+<othercit>Search Report from the Finnish Patent Office for 20195997.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00011">
+<othercit>Written Opinion for PCT/FI2020/000016.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>15</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-cpc-text>A01K 80/00</classification-cpc-text>
+<classification-cpc-text>A01K 67/03</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20220408706</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Entoprot OY</orgname>
+<address>
+<city>Oulu</city>
+<country>FI</country>
+</address>
+</addressbook>
+<residence>
+<country>FI</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Riihimaa</last-name>
+<first-name>Ari</first-name>
+<address>
+<city>Oulu</city>
+<country>FI</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>BelayIP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Entoprot OY</orgname>
+<role>03</role>
+<address>
+<city>Oulu</city>
+<country>FI</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Michener</last-name>
+<first-name>Joshua J</first-name>
+<department>3642</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Mudd</last-name>
+<first-name>Henry Hooper</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/FI2020/000016</doc-number>
+<date>20201119</date>
+</document-id>
+<us-371c12-date>
+<date>20220519</date>
+</us-371c12-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2021/099674</doc-number>
+<kind>A </kind>
+<date>20210527</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An apparatus for growing invertebrates, such as arthropods, rheumatoid worms and nematodes is described. The apparatus includes a rotatable casing defining a chamber and at least one growing platform inside said casing. Inside the casing there is a group of first pipes having a pipe wall. The first pipes are configured to act as growing platforms providing growing spaces for the invertebrates. Preferably the number of first pipes is more than three. The first pipes may be immovably attached to the casing.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="66.55mm" wi="158.75mm" file="US12167722-20241217-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="258.23mm" wi="169.16mm" file="US12167722-20241217-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="252.56mm" wi="168.32mm" file="US12167722-20241217-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="238.59mm" wi="150.96mm" file="US12167722-20241217-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a national phase application of International Application No.: PCT/FI2020/000016, filed on Nov. 19, 2020, and claims the benefit of priority of Finnish application 20195997, filed on Nov. 21, 2019, the content of both of which is herein incorporated by reference.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<heading id="h-0003" level="1">Field of the Invention</heading>
+<p id="p-0003" num="0002">The invention relates to an apparatus for growing invertebrates, said apparatus comprising a rotatable casing defining a chamber and at least one growing platform inside said casing.</p>
+<heading id="h-0004" level="1">Description of Related Art</heading>
+<p id="p-0004" num="0003">Invertebrates, such as insect larvae and worms, can be used as a protein source for animals and humans. Invertebrates can be grown efficiently in artificial growing spaces by placing them in contact with a suitable food source. When the invertebrates have grown enough, they are removed from the growing space and processed into animal or human food. Invertebrates can use a wide range of organic material as food, which makes them ideal for protein production. However, attempts to produce invertebrates in industrial scale are still rare.</p>
+<p id="p-0005" num="0004">A conventional method for growing invertebrates is to use flat trays as growing platforms. Food is added periodically to the surface of the trays. Keeping an optimum amount of food on the trays is difficult. The trays should carry a thick layer of food to feed as many larvae as possible. On the other hand, if the thickness of the food layer is too big, the heat inside the food layer may rise too high and the amount of oxygen inside the food layer may fall too low for the invertebrates to grow. This increases the risk of undergoing anaerobic fermentation.</p>
+<p id="p-0006" num="0005">Document US 2015/0296760 A1 discloses a rotating feeder bin for growing, feeding and harvesting insect larvae. The feeder bin has a cylindrical sidewall. The inside surface of the bin may be lined with mixing bars or ridges, whose function is to mix and aerate the contents of the bin, when the bin is rotated. This feeder bin has no platforms or trays for the food, whereby the bin can offer only a limited growing area for the larvae.</p>
+<p id="p-0007" num="0006">Document FI20187064 discloses an apparatus for growing invertebrates comprising a rotatable casing defining a growing chamber and at least one plate-like growing platform inside the casing. The growing platform is configured to stay in horizontal position, when the casing is rotated. Although the apparatus disclosed in FI20187064 is as such workable, optimal administration of food on the growing platforms is still difficult.</p>
+<p id="p-0008" num="0007">An object of the invention is to provide an apparatus for growing invertebrates in which defects relating to the prior art are diminished.</p>
+<p id="p-0009" num="0008">The object of the invention is achieved with an apparatus, that is characterized in what is disclosed in the independent claim. Some preferred embodiments of the apparatus are disclosed in the dependent claims.</p>
+<heading id="h-0005" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">The present invention relates to an apparatus for growing invertebrates, said apparatus comprising a rotatable casing defining a chamber and at least one growing platform inside said casing. Inside the casing there is a group of first pipes having a pipe wall. The first pipes are configured to act as growing platforms providing growing spaces for the invertebrates. The pipe walls of the first pipes have first openings for feeding nutrient inside the first pipe through the first openings. The number of the first pipes depends on the volume and dimensions of the casing and it can be chosen. Preferably the number of first pipes is more than three.</p>
+<p id="p-0011" num="0010">The apparatus according to the invention is especially suitable growing space for invertebrates that use spiracles and tracheae for gas exchange, i.e. they need air, but it is applicable to other kinds of invertebrates too. By expression &#x2018;needing air&#x2019; it is here meant that the invertebrates breathe gas. Invertebrate groups that are capable to grow in the apparatus according to the invention, but are not limited to these, are arthropods, rheumatoid worms and nematodes. Word &#x2018;grow&#x2019; is not to be understood to mean the whole life span of the invertebrates, but it can include only one or more life stages of parts of them. An example of a life stage is the larval stage of a fly.</p>
+<p id="p-0012" num="0011">In a first preferred embodiment of the apparatus according to the invention the first pipes are arranged into the casing immovably. Immovably arrangement means, that when the casing rotates around its rotation axis, the position and location of the first pipes in relation to the casing remains unchanged, i.e. the first pipes rotate around the rotation axis of the casing and turn simultaneously around their own rotation axis.</p>
+<p id="p-0013" num="0012">In a second preferred embodiment of the apparatus according to the invention the casing comprises a first end wall, a second end wall and a cylindrical side wall. The first pipes have a first end attached to the first end wall and a second end attached to the second end wall.</p>
+<p id="p-0014" num="0013">In yet another preferred embodiment of the apparatus according to the invention in connection at least one first opening there is a scoop for directing nutrient towards the first opening.</p>
+<p id="p-0015" num="0014">In yet another preferred embodiment of the apparatus according to the invention inside at least one first pipe there is a second pipe, which second pipe has a pipe wall, which second pipe is configured to act as growing platform and/or growing space for the invertebrates. Preferably, the pipe wall of the second pipe has second openings for feeding nutrient inside the second pipe through the second openings.</p>
+<p id="p-0016" num="0015">In yet another preferred embodiment of the apparatus according to the invention the second pipe is movable in relation to the first pipe and the first pipe and the second pipe inside said first pipe can be arranged to a first formation, where at least most of each first opening is substantially aligned with one second opening and to a second formation, where at least most of the first openings are not aligned with any second opening. Preferably, substantially all first openings of the first pipe are aligned with one second opening of the second pipe, when the first and second pipes are in the first formation and substantially none of the first openings is aligned with any second opening, when the first and second pipes are in the second formation. Preferably, the first and second openings are substantially equal in size and shape. This means, that a first opening can be aligned with only one second opening at the time.</p>
+<p id="p-0017" num="0016">In yet another preferred embodiment of the apparatus according to the invention the second pipe is movable inside the first pipe in the axial direction of the first pipe. Alternatively or additionally the second pipe is rotatable inside the first pipe.</p>
+<p id="p-0018" num="0017">In yet another preferred embodiment of the apparatus according to the invention the attachment point of the first end of the first pipe to the first end wall and the attachment point of the second end of the first pipe to the second end wall are different seen in the radial direction from the imaginary central axis of the casing. In this embodiment the first ends of the first and second pipes dive into the nutrient layer and rise out of the nutrient layer first, i.e. before the second end of the pipes, during the rotation of the casing. The nutrient enters inside the first and second pipes through the first and second openings in the first end of the pipes and flow inside the pipes towards the second end as the casing rotates.</p>
+<p id="p-0019" num="0018">In yet another preferred embodiment of the apparatus according to the invention the first pipe and the second pipe are curved. Preferably, the distance between the outer surface of the first pipe and the inner surface of the casings side wall stays constant over the whole length of the first pipe. The first pipe may have spiral or helical form.</p>
+<p id="p-0020" num="0019">In yet another preferred embodiment of the apparatus according to the invention it further comprises a support frame supporting the casing and a motor for rotating the casing around a rotation axis.</p>
+<p id="p-0021" num="0020">In yet another preferred embodiment of the apparatus according to the invention it further comprises a central pipe having a chamber portion locating inside the casing and a first end extending outside the casing. The chamber portion has apertures for feeding nutrient inside the casing via the central pipe. Preferably, the imaginary central axis of the central pipe is coaxial with the rotation axis of the casing.</p>
+<p id="p-0022" num="0021">In yet another preferred embodiment of the apparatus according to the invention the first end wall or the second end wall is openable.</p>
+<p id="p-0023" num="0022">In yet another preferred embodiment of the apparatus according to the invention the casing has holes for feeding air inside the casing and at least one openable hatch for removing invertebrates from the casing. Preferably, the holes and the hatches are arranged to the first and/or to the second end wall.</p>
+<p id="p-0024" num="0023">In yet another preferred embodiment of the apparatus according to the invention the casing is substantially watertight. Substantially watertight casing enables using organic material containing slurry as a nutrient for the invertebrates.</p>
+<p id="p-0025" num="0024">An advantage of the invention is, that it increases the amount of the invertebrates that can grow in a certain volume of a growing chamber compared to the prior art methods. Thus, the invention makes it possible to use the floor area or 3-dimensional space of the production facility more efficiently.</p>
+<p id="p-0026" num="0025">A further advantage of the invention is that it provides an efficient way to mix the food inside the growing chamber and at the same time provides an undisturbed area for the invertebrates to feed and grow.</p>
+<p id="p-0027" num="0026">Another further advantage of the invention is that it improves the growing process by providing the invertebrates a constant and steady growing environment. The invention makes it easier to arrange the measurement and adjustment of various environmental variables such as temperature and concentrations of chemical substances and gasses. Also heat-control and washing the growing chamber and its contents are easier.</p>
+<p id="p-0028" num="0027">Another further advantage is that the invention can easily be modified for different species of invertebrates that require different growing conditions. The invention also prevents the invertebrates from drowning in the food.</p>
+<p id="p-0029" num="0028">Another further advantage of the invention is, that it prevents the formation of anaerobic areas in the food layer and reduces the risk of an anaerobic fermentation.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE SEVERAL VIEWS OF THE DRAWING</heading>
+<p id="p-0030" num="0029">Further advantages, features, and details of the various embodiments of this disclosure will become apparent from the ensuing description of a preferred exemplary embodiment and with the aid of the drawings. The features and combinations of features recited below in the description, as well as the features and feature combination shown after that in the drawing description or in the drawings alone, may be used not only in the particular combination recited, but also in other combinations on their own, without departing from the scope of the disclosure.</p>
+<p id="p-0031" num="0030">In the following the invention will be described in detail, by way of examples, with reference to the accompanying drawings in which:</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>1</b><i>a </i></figref>shows an example of an apparatus according to the invention as side elevation,</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>1</b><i>b </i></figref>shows a transverse cross section of the apparatus of <figref idref="DRAWINGS">FIG. <b>1</b></figref><i>a, </i></p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIGS. <b>2</b><i>a </i>and <b>2</b><i>b </i></figref>show a part of the casing belonging to the apparatus of <figref idref="DRAWINGS">FIG. <b>1</b><i>a </i></figref>in a longitudinal cross section view,</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>3</b><i>a </i></figref>shows a transverse cross section of the casing of a preferred embodiment of the apparatus according to the invention, and</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>3</b><i>b </i></figref>shows a transverse cross section of the casing of another preferred embodiment of the apparatus according to the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0037" num="0036">As used throughout the present disclosure, unless specifically stated otherwise, the term &#x201c;or&#x201d; encompasses all possible combinations, except where infeasible. For example, the expression &#x201c;A or B&#x201d; shall mean A alone, B alone, or A and B together. If it is stated that a component includes &#x201c;A, B, or C&#x201d;, then, unless specifically stated otherwise or infeasible, the component may include A, or B, or C, or A and B, or A and C, or B and C, or A and B and C. Expressions such as &#x201c;at least one of&#x201d; do not necessarily modify an entirety of the following list and do not necessarily modify each member of the list, such that &#x201c;at least one of &#x201c;A, B, and C&#x201d; should be understood as including only one of A, only one of B, only one of C, or any combination of A, B, and C.</p>
+<p id="p-0038" num="0037">The embodiments in the following description are given as examples only and a person skilled in the art can carry out the invention also in some other way than what is described in the description. Though the description may refer to a certain embodiment or embodiments, this does not mean that the reference would be directed towards only one described embodiment or that the described characteristic would be usable only in one described embodiment. The individual characteristics of two or more embodiments may be combined and new embodiments of the invention may thus be provided.</p>
+<p id="p-0039" num="0038">In <figref idref="DRAWINGS">FIG. <b>1</b><i>a </i></figref>an example of an apparatus according to the invention is shown as a side elevation and in <figref idref="DRAWINGS">FIG. <b>1</b><i>b </i></figref>the apparatus of <figref idref="DRAWINGS">FIG. <b>1</b><i>a </i></figref>is shown as a transverse cross-sectional view. In the following both figures are explained simultaneously.</p>
+<p id="p-0040" num="0039">The apparatus comprises a casing <b>8</b> defining a closed chamber <b>10</b>, which acts as a growing space for the invertebrates. The casing has a first end wall <b>16</b>, a second end wall <b>18</b> a and cylindrical side wall <b>20</b> connecting the side walls. A central pipe <b>30</b> goes through the centre points of both end walls. The first end on the central pipe is supported to a first column <b>12</b><i>a </i>next to the first end wall outside the chamber and the second end of the central pipe <b>30</b> is supported to a second column <b>12</b><i>b </i>next to the second end wall <b>18</b> outside the chamber. In the upper end of the columns there is a hole, through which the central pipe protrudes. The holes are furnished with bearings <b>42</b>, which enables the central pipe and the casing <b>8</b> attached to it to rotate around the imaginary central axis of the central pipe. Thus, the rotation axis of the casing is coaxial with the imaginary central axis of the central pipe. Preferably, the casing and the central pipe are made of metal.</p>
+<p id="p-0041" num="0040">The lower ends of the columns abut against a load bearing base <b>44</b> or a floor. Between the base and the side wall <b>20</b> of the casing, near the second end wall there is two support rolls <b>46</b> at a distance from each other. Both support rolls are rotatably connected to a bracket <b>48</b> resting on the base <b>44</b>. The first and second columns <b>12</b><i>a</i>, <b>12</b><i>b</i>, the support rolls and the brackets belong to a support frame, which supports the casing <b>8</b> above the base enabling the rotation of the casing. Since the second end of the casing is supported by the support rolls, the load carried by the second column can be small. The primary function of the second column is to support the casing in horizontal direction, when the casing is rotated. Between the support rolls there is a drive wheel <b>50</b>, which is driven by a motor <b>40</b> (<figref idref="DRAWINGS">FIG. <b>1</b><i>b</i></figref>). The outer surface of the drive wheel is pressed against the outer surface of the casing. When the drive wheel is rotated by operating the motor, the casing <b>8</b> rotates around its rotation axis.</p>
+<p id="p-0042" num="0041">On the first end on the central pipe <b>30</b> there is a pump <b>52</b> for pumping nutrient, i.e. food, inside the central pipe. The portion of the central pipe, which is here called the chamber portion, has apertures in the pipe wall (not show in <figref idref="DRAWINGS">FIGS. <b>1</b><i>a </i>and <b>1</b><i>b</i></figref>), through which apertures the nutrient flows inside the chamber. The pump may be equipped with a hopper for feeding nutrient into the pump. The nutrient is preferably in a form of organic slurry, which is easily transferable by pumping.</p>
+<p id="p-0043" num="0042">Inside the casing <b>8</b> there is a group on first pipes <b>14</b>, which act as growing surfaces and growing spaces for the invertebrates. The first pipes are attached from the first ends to the first end wall <b>16</b> and from their second ends to the second end wall <b>18</b>. The first pipes are attached to the casing in an immovably manner, i.e. the location and position on the first piper in relation to the casing remains unchanged as the casing rotates around its rotation axis.</p>
+<p id="p-0044" num="0043">In <figref idref="DRAWINGS">FIGS. <b>2</b><i>a </i>and <b>2</b><i>b </i></figref>a part of the casing <b>8</b> belonging to the apparatus of <figref idref="DRAWINGS">FIG. <b>1</b><i>a </i></figref>is shown in a longitudinal cross section view. In the following both figures are explained simultaneously.</p>
+<p id="p-0045" num="0044">The casing <b>8</b> has a first end wall <b>16</b>, a second end wall <b>18</b> and a cylindrical side wall <b>20</b>. The first end wall is attached to the side wall and to the central pipe <b>30</b> by weld seam <b>19</b>. The first end wall and the side wall are thus fixedly connected. The second end wall <b>18</b> is attached to the second end of the side wall in a detachable manner, i.e., the second end wall is openable. On the edge of the second end wall <b>18</b> there is a rim <b>17</b> encircling the second end on the side wall <b>20</b>. In the centre of the second end wall <b>18</b> there is a hole surrounded by a tubular sleeve <b>15</b>. The central pipe <b>30</b> goes through the hole and the sleeve. The sleeve is attached to the central pipe with detachable clamping means, such as a clamping screw <b>21</b>. When the sleeve is connected to the central pipe, the rim secures the joint of the second end of the side wall <b>20</b> and the second end wall <b>18</b>. When the clamping screw is opened, the second end wall may be removed by sliding it towards the second end on the central pipe. The second end wall <b>18</b> further comprises holes <b>34</b> for feeding air inside the casing <b>8</b> and at least one openable hatch <b>28</b> for removing invertebrates from the casing.</p>
+<p id="p-0046" num="0045">Inside the casing there is a group of first pipes <b>14</b>, which have a cylindrical pipe wall. In <figref idref="DRAWINGS">FIGS. <b>2</b><i>a </i>and <b>2</b><i>b </i></figref>only one first pipe is depicted to preserve the clarity of the figures. First pipes extend from the first end wall <b>16</b> of the casing to the second end wall <b>18</b> of the casing. In this embodiment the first pipes are horizontal. The first pipes are attached to the casing in an immovable manner, which means, that the first pipes cannot move or change position in relation to the casing, when the casing rotates around its rotation axis. In the embodiment shown in <figref idref="DRAWINGS">FIGS. <b>2</b><i>a </i>and <b>2</b><i>a </i></figref>the immovable attachment has been carried out by joining the first end of the first pipe and the first end wall <b>16</b> together by a weld seam <b>19</b>. The second end wall <b>18</b> is provided with a round collar <b>56</b>, which surrounds the second end on the first pipe <b>14</b>. When the second end wall is secured in place, the collar prevents the movement of the second end of the first pipe along the surface on the second end wall.</p>
+<p id="p-0047" num="0046">The pipe wall of the first pipe <b>14</b> has slit-like first openings <b>22</b>, through which nutrient and invertebrates can enter inside the first pipe. The first openings are distributed in groups along the whole length of the first pipe. Between each consecutive group there is a portion of solid pipe wall and in each group the openings are evenly distributed around the circumference of the first pipe. On the outer surface of the first pipe <b>14</b>, in connection of at least one first opening, there may be a scoop <b>36</b>, which directs nutrient through the first openings. The scoop fills up when the first pipe rotates downwards towards its lowermost position and empties through the first opening when the first pipe rises upwards during the rotation circle of the casing.</p>
+<p id="p-0048" num="0047">Inside at least one first pipe <b>15</b> there is a second pipe <b>24</b>. The length of the second pipe is smaller than the length of the first pipe. The outer diameter of the second pipe is only slightly smaller than the inner diameter of the first pipe, i.e. between the outer surface of the second pipe and inner surface of the first pipe there is a small gap, which enables the second pipe to move inside the first pipe in the longitudinal direction of the pipes. In the pipe wall of the second pipe there are second openings <b>26</b> through which nutrient and invertebrates can enter inside the second pipe. The size and shape of the second openings is equal with the size and shape of the first openings and the second openings are distributed over the length and circumference of the second pipe in a similar way than the first openings. Preferably the width of the first and second openings is more than 6 mm and less than the diameter of the pipe.</p>
+<p id="p-0049" num="0048">In the second end of the second pipe <b>24</b> there is a rod <b>58</b>, which penetrates through the second end wall <b>18</b> via a hole. The protruding end of the rod is furnished with a detachable handle <b>60</b>. The second pipe can be moved inside the first pipe by pushing or pulling the handle in the longitudinal direction of the second pipe. In <figref idref="DRAWINGS">FIG. <b>2</b><i>a </i></figref>the second pipe is in the furthermost position at first end on the first pipe and each first opening of the first pipe is in aligned with one second opening of the second pipe. This set-up of the first and second pipe is here called the first formation. In the first formation the first and second openings provide an entrance for the nutrient and the invertebrates through the pipe walls on first and second pipe inside the second pipe. Preferably, the first and second pipes are made of metal.</p>
+<p id="p-0050" num="0049">In <figref idref="DRAWINGS">FIG. <b>2</b><i>b </i></figref>the second pipe is in the furthermost position at second end on the first pipe where each first opening of the first pipe is facing a solid pipe wall portion of the second pipe and each second opening of the second pipe is facing a solid pipe wall portion of the first pipe, respectively. This set-up of the first and second pipe is here called the second formation. When the pipes are in the second formation there is no entrance inside the first and second pipe. The pipes are meant to be settled to the second formation, when there is enough nutrient and invertebrates inside the second pipe, whereby the pipes offer a steady and constant environment for the invertebrates to grow. When the casing rotates, the first and second pipes also rotate around the common centre line of first and second pipe causing the nutrient inside the second pipe to roll over the inner surface of the second pipe. The nutrient is thus in a constant slow movement, which enhances the mixing of air to the nutrient, equalizes the temperature distribution inside the nutrient and prevents the formation of anaerobic areas in the nutrient layer. The outer surface of the first pipe also carries a layer of nutrient and acts as a growing platform for the invertebrates.</p>
+<p id="p-0051" num="0050">In the embodiment depicted in <figref idref="DRAWINGS">FIGS. <b>2</b><i>a </i>and <b>2</b><i>b</i></figref>, the second pipe is moved inside the first pipe in the longitudinal direction of the pipes, when the pipes are moved from the first formation to the second formation and vice versa. The second pipe can also be rotated around its rotation axis inside the first pipe whereby the pipes are moved from the first formation to the second formation and vice versa by rotating the second pipe. The rod <b>58</b> may be furnished with an actuator for moving and/or rotating the second pipe inside the first pipe.</p>
+<p id="p-0052" num="0051">Preferably there is one second pipe in each first pipe of the apparatus. However, it is also possible that there is a second pipe in only some of the first pipes. Further it is conceivable, that there is no second pipe in any of the first pipes. In the latter case the first pipes alone act as growing spaces for the invertebrates.</p>
+<p id="p-0053" num="0052">In <figref idref="DRAWINGS">FIG. <b>3</b><i>a </i></figref>a first preferred embodiment the apparatus according to the invention is shown as a transverse cross section and in <b>3</b><i>b </i>a second preferred embodiment of the apparatus according to the invention is shown as a transverse cross section. The first pipes can be arranged inside the casing <b>8</b> in numerous ways. In the embodiment shown in <b>3</b><i>a </i>the first pipes <b>14</b> are in two ring-like formations around the central pipe <b>30</b>. The diameter of the first pipes in the outer ring is bigger that the diameter of the first pipes in the inner ring. Naturally the diameters of the second pipes inside the first pipes follows the diameters of the first pipes. In the embodiment shown in <figref idref="DRAWINGS">FIG. <b>3</b><i>b </i></figref>the first pipes are in one ring-like formation around the central pipe <b>30</b>. The diameter and number of the first and second pipes can thus be selected and the location inside the casing may be varied. The diameter of the first and second pipes may be 6 mm to 400 mm. Preferably the diameter of the pipes is 50 to 100 mm.</p>
+<p id="p-0054" num="0053">In the embodiments of the invention depicted above, the first pipes are attached to the end walls of the casing. However, it is not necessary to attach or connect the first pipes into the casing side wall or end walls at all. Instead it is possible to fill the interior of the casing, i.e. the chamber, with loose first pipes, which abut against the side wall of the casing and neighbouring pipes. In this embodiment the tight fitting of the first pipes into the casing prevents the first pipes moving inside the casing. The first pipes may be grouped and/or joined together to one or more pipe units outside the casing, which unit/units can be installed to and removed from the casing as a separate part/parts.</p>
+<p id="p-0055" num="0054">Some preferred embodiments of apparatus according to the invention have been disclosed above. The invention is not limited to the solutions explained above, but the inventional idea can be applied in different ways within the limits set by the claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An apparatus for growing invertebrates, comprising:
+<claim-text>a rotatable casing comprising a chamber and at least one growing platform inside said rotatable casing (<b>8</b>),</claim-text>
+<claim-text>a group of first pipes arranged inside the casing, wherein:
+<claim-text>each of the group of first pipes comprises a pipe wall having first openings configured to feed nutrient inside each of the group of first pipes through the first openings;</claim-text>
+<claim-text>each of the group of first pipes is configured to act as growing platforms providing growing spaces for the invertebrates, and</claim-text>
+</claim-text>
+<claim-text>wherein arranged inside at least one of the first pipes is a second pipe comprising a pipe wall and is configured to act as a growing space for the invertebrates.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first pipes are arranged into the casing immovably.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the rotatable casing further comprises:
+<claim-text>a first end wall,</claim-text>
+<claim-text>a second end wall, and</claim-text>
+<claim-text>a cylindrical side wall, and</claim-text>
+<claim-text>wherein the first pipes further comprise a first end attached to the first end wall and a second end attached to the second end wall.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein in connection with at least one first opening there is a scoop for directing nutrient towards the first opening.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pipe wall of the second pipe further comprises second openings configured for feeding nutrient inside the second pipe through the second openings.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second pipe is configured to move in relation to the first pipe and the first pipe and the second pipe arranged inside said first pipe is arranged at a first formation where at least a majority of a number of each first opening is substantially aligned with one second opening and at a second formation, where at least a majority of a number of the first openings are not aligned with any second opening.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second pipe is configured to move inside the first pipe in an axial direction of the first pipe.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second pipe is configured to rotate inside the first pipe.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The apparatus according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the first end further comprises an attachment point to the first end wall, the second end comprises an attachment point to the second end wall, and the attachment point of the second end is different to the first end attachment point from a perspective in a radial direction from an imaginary central axis of the casing.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first pipes and the second pipes are curved.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a support frame supporting the casing and a motor for rotating the casing around a rotation axis.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a central pipe having a chamber portion located inside the casing and a first end extending outside the casing, and wherein the chamber portion comprises apertures configured to feed nutrient inside the casing via the central pipe.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The apparatus according to any <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the first end wall or the second end wall is openable.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the casing further comprises:
+<claim-text>holes configured to feed air inside the casing, and</claim-text>
+<claim-text>at least one openable hatch configured for removing invertebrates from the casing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the casing is substantially watertight.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,33 @@
+# Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Editor settings / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node.js / Vite / React files
+node_modules/
+dist/
+build/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Optional: You might want to ignore local configuration files
+# that contain sensitive data
+*.local.json

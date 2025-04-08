@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="US12167746-20241217.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20241126" date-publ="20241217">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>12167746</doc-number>
+<kind>B2</kind>
+<date>20241217</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17615730</doc-number>
+<date>20200603</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>FR</country>
+<doc-number>1906092</doc-number>
+<date>20190607</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant><us-term-extension>301</us-term-extension></us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>D</subclass>
+<main-group>3</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>D</subclass>
+<main-group>3</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>85</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>D</subclass>
+<main-group>3</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>D</subclass>
+<main-group>3</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>85</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20241217</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">Set of stick-shaped filters made of cardboard, preform for the manufacture thereof and packaging thereof</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3640287</doc-number>
+<kind>A</kind>
+<name>Pinkham</name>
+<date>19720200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A24D 3/045</classification-cpc-text>
+<classification-national><country>US</country><main-classification>131201</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2009/0155512</doc-number>
+<kind>A1</kind>
+<name>Neto et al.</name>
+<date>20090600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2015/0189914</doc-number>
+<kind>A1</kind>
+<name>Simpson et al.</name>
+<date>20150700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2017/0037579</doc-number>
+<kind>A1</kind>
+<name>Marietta-Tondin et al.</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>CN</country>
+<doc-number>205456017</doc-number>
+<kind>U</kind>
+<date>20160800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>CN</country>
+<doc-number>106471187</doc-number>
+<kind>A</kind>
+<date>20170300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>FR</country>
+<doc-number>3057441</doc-number>
+<kind>A1</kind>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>GB</country>
+<doc-number>2383252</doc-number>
+<kind>A</kind>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>2016171831</doc-number>
+<kind>A</kind>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>WO</country>
+<doc-number>2015014999</doc-number>
+<kind>A1</kind>
+<date>20150200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>WO</country>
+<doc-number>2018007300</doc-number>
+<kind>A1</kind>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00012">
+<othercit>Crutch Cards (https://www.instagram.com/crutch.cards/), printed from the Internet on Apr. 30, 2024 (Year: 2013).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00013">
+<othercit>Reddit.com Post: &#x201c;Local weed shops business cards are perforated to make filters/crutches for joints.&#x201d; https://www.reddit.com/r/DesignPorn/comments/am37nz/local_weed_shops_business_cards_are_perforated_to/, printed from the Internet on Apr. 30, 2024 (Year: 2019).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00014">
+<othercit>International Search Report for Application No. PCT/IB2020/055214, dated Jul. 24, 2020, 3 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>5</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>13</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20220240570</doc-number>
+<kind>A1</kind>
+<date>20220804</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<orgname>Republic Technologies (NA) LLC</orgname>
+<address>
+<city>Glenview</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Partouche</last-name>
+<first-name>Olivier</first-name>
+<address>
+<city>Barcelona</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Lerner David LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Republic Technologies (NA) LLC</orgname>
+<role>02</role>
+<address>
+<city>Glenview</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Mayes</last-name>
+<first-name>Dionne W.</first-name>
+<department>1747</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/IB2020/055214</doc-number>
+<date>20200603</date>
+</document-id>
+<us-371c12-date>
+<date>20211201</date>
+</us-371c12-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2020/245730</doc-number>
+<kind>A </kind>
+<date>20201210</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates in particular to a set (<b>2</b>) of filters (<b>10</b>) made of cardboard or cellulosic material. In particular, the set is characterised by the fact that it is in the shape of a generally cylindrical stick which is made up of a plurality of individual filters (<b>10</b>), each formed of a winding on itself of a side made of cardboard or cellulosic material, said filters (<b>10</b>) being arranged in extension of one another and being partially connected in pairs by connecting means (<b>3</b>), such that it is possible to separate at least one filter (<b>10</b>) from. tile stick by removing or severing tile connecting means (<b>3</b>).</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="25.06mm" wi="114.81mm" file="US12167746-20241217-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="175.68mm" wi="119.72mm" file="US12167746-20241217-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="174.67mm" wi="124.21mm" file="US12167746-20241217-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="183.39mm" wi="59.18mm" orientation="landscape" file="US12167746-20241217-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="166.96mm" wi="123.95mm" file="US12167746-20241217-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">The present application is a national phase entry under 35 U.S.C. &#xa7; 371 of International Application No. PCT/IB2020/055214 filed Jun. 3, 2020, which claims priority from French Application No. 1906092 filed Jun. 7, 2019, all of which are incorporated herein by reference.</p>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to the field of smoking articles and particularly cigarettes. More specifically, the present invention relates to the field of rolling cigarettes, in particular filters for rolling cigarettes, asymmetric or non-asymmetric manufactured tubes or cones.</p>
+<heading id="h-0003" level="1">TECHNOLOGICAL BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Many types of cigarette filters or asymmetric or non-asymmetric manufactured tubes (cones) for smokers are known.</p>
+<p id="p-0005" num="0004">Usually, these filters are composed of cylindrical blocks of foam or cellulose. Cigarette filters allow filtering some substances contained in tobacco, and thus reducing the impact of tar and nicotine, as well as softening the smoke.</p>
+<p id="p-0006" num="0005">Coarser filters <b>10</b> for cigarettes are also known, as illustrated in the appended <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>3</b></figref>, produced by rolling a cardboard web or a cellulose-based material. These filters are generally referred to as &#x201c;toncar&#x201d; which is the back slang of &#x201c;carton&#x201d; (cardboard) in French, or tip.</p>
+<p id="p-0007" num="0006">There are many types of cardboard filters in the form of a booklet or a roll, printed or unprinted, delivered flat or non-flat, and which the user rolls up when forming a cigarette. There are also ready-to-use pre-rolled filters, as there are asymmetric or non-asymmetric manufactured tubes, with this same type of pre-rolled filters.</p>
+<p id="p-0008" num="0007">The use of a cardboard filter tip <b>10</b> allows the rolling paper user to position a filter at the cigarette tip to prevent the tobacco from coming out of the cigarette and going into the mouth. It also allows smoking all of the cigarette tobacco without getting burned.</p>
+<p id="p-0009" num="0008">Generally, the known filter tips <b>10</b> are rolled on themselves to form by folding an &#x201c;S&#x201d; <b>11</b> or similar geometry, in order to create the interior of the filter and obstruct the passage of the tobacco, then different turns 12 on the outside of the initial &#x201c;S&#x201d; shape <b>11</b>.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIGS. <b>4</b> and <b>5</b></figref> illustrate, without limitation, other examples of such filter tips, in which the folding <b>11</b> has respectively the shape of the letters &#x201c;W&#x201d; and &#x201c;M&#x201d;.</p>
+<p id="p-0011" num="0010">Reference may be made in particular to document FR3057441 in the name of the present applicant for more detail on the manufacturing technique of such a filter.</p>
+<p id="p-0012" num="0011">Once a smoker wishes to buy such already pre-rolled filter tips, packages are made available to him, in which these filter tips are either in bulk (this is the case of packaging in the form of plastic or paper bags), or stored next to each other (this is the case of box-like packaging).</p>
+<p id="p-0013" num="0012">But in these two configurations, unless being very careful, there is a high risk that several filter tips slip from the package and fall to the ground. Likewise, if the previously opened package slips from the user's hands, it is likely that a large part of the filter tips will spill out on the ground.</p>
+<p id="p-0014" num="0013">In this context, the closest prior art known to the present applicant consists of WO2015/014999, WO2018/007300, GB2383252 and US2015/189914.</p>
+<p id="p-0015" num="0014">In any event, the present invention aims at providing a complete solution to the problem described above.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0016" num="0015">Thus, the present invention relates mainly to a set of filters made of cardboard or cellulosic material, characterized in that it has the shape of a generally cylindrical stick which consists of a plurality of individual filters, each consisting of a winding on itself of a blank of cardboard or cellulosic material, these filters, disposed in the extension of each other, being partially connected in pairs by connecting means, such that it is possible to separate at least one filter from said stick by removing or severing said connecting means, and such that it comprises only a single sheet of cardboard or cellulosic material in which parallel cutouts which individualize said blanks are formed, each of the cutouts being partial that is to say there are, between the cutouts, bridges of material, forming said connecting means, which connect two neighboring blanks.</p>
+<p id="p-0017" num="0016">In this way, the constituent filters of the set form a single &#x201c;entity&#x201d; from which the user will take a filter as and when needed.</p>
+<p id="p-0018" num="0017">And in the event that a set slips from the package or falls to the ground, it suffices to recover in a single gesture this set and not a plurality of scattered filters.</p>
+<p id="p-0019" num="0018">In addition, this &#x201c;stick&#x201d; presentation allows packaging several sets of the same type in a case (of parallelepiped shape, for example in the format of a packet of cigarettes) or a bag.</p>
+<p id="p-0020" num="0019">Finally, the fact that the set comprises only, that is to say solely, a sheet without any other additional element, contributes to improving its use (any fraction of this set is usable) and to facilitating its manufacture.</p>
+<p id="p-0021" num="0020">According to other non-limiting and advantageous characteristics of this set, taken alone or in any combination:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0021">said bridges of material are positioned such that they are angularly equidistant at the periphery of each filter;</li>
+        <li id="ul0002-0002" num="0022">this set comprises at least four bridges of material;</li>
+        <li id="ul0002-0003" num="0023">it includes at least five filters;</li>
+        <li id="ul0002-0004" num="0024">it includes at most fifteen filters.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0022" num="0025">The invention also relates to a preform for the manufacture of a set according to any of the aforementioned characteristics.</p>
+<p id="p-0023" num="0026">This preform is remarkable in that it consists of a sheet of cardboard or cellulosic material in which parallel cutouts which individualize said blanks are formed, each of the cutouts being partial that is to say there are, between the cutouts, bridges of material which connect two neighboring blanks.</p>
+<p id="p-0024" num="0027">Finally, it relates to a packaging for such a set. This set consists of an envelope similar in shape to that of said stick, which includes pre-cutouts which are disposed in such a way that they extend facing the areas which separate the individual filters when a stick is present in said envelope.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0025" num="0028">Other characteristics and advantages of the invention will become apparent upon reading the following description of one preferred embodiment of the invention. This description is made with reference to the appended drawings in which:</p>
+<p id="p-0026" num="0029"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a left view of a cardboard filter which may form part of the set according to the present invention;</p>
+<p id="p-0027" num="0030"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a right view of the same filter;</p>
+<p id="p-0028" num="0031"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a perspective view of the filter of <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>;</p>
+<p id="p-0029" num="0032"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a perspective view of another embodiment of this filter,</p>
+<p id="p-0030" num="0033"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a perspective view of yet another embodiment of this filter;</p>
+<p id="p-0031" num="0034"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a front view of a stick-shaped set, in accordance with the present invention;</p>
+<p id="p-0032" num="0035"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a perspective view of the set of <figref idref="DRAWINGS">FIG. <b>6</b></figref>;</p>
+<p id="p-0033" num="0036"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a first front view of the set of <figref idref="DRAWINGS">FIG. <b>6</b></figref>, representing an end filter being detached;</p>
+<p id="p-0034" num="0037"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a second front view of the set of <figref idref="DRAWINGS">FIG. <b>6</b></figref>, representing an end filter being detached;</p>
+<p id="p-0035" num="0038"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is still a front view of the set of <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the end filter being represented detached from the rest of the set;</p>
+<p id="p-0036" num="0039"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a perspective and partial view of the filter and of the set of <figref idref="DRAWINGS">FIG. <b>10</b></figref>, intended more particularly to show the &#x201c;bridges of material&#x201d; which exist between two neighboring filters;</p>
+<p id="p-0037" num="0040"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a top view of a &#x201c;preform&#x201d; which allows obtaining a set according to the invention;</p>
+<p id="p-0038" num="0041"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a detail view of <figref idref="DRAWINGS">FIG. <b>12</b></figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0039" num="0042">Throughout the present application, including the claims, the terms &#x201c;tip&#x201d;, &#x201c;filter&#x201d; and &#x201c;filter-tip&#x201d; are used interchangeably to denote the same object.</p>
+<p id="p-0040" num="0043">As it is particularly visible, the appended <figref idref="DRAWINGS">FIGS. <b>6</b> and <b>7</b></figref> deal, in accordance with the present invention, with a generally cylindrical stick-shaped set <b>2</b> which consists of a plurality of individual and identical filters <b>10</b>, for example in accordance with one of the embodiments visible in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>5</b></figref> mentioned above, each consisting of a winding on itself a cardboard blank.</p>
+<p id="p-0041" num="0044">These filters <b>10</b> are disposed in the extension of each other so as to thus constitute the stick.</p>
+<p id="p-0042" num="0045">The example represented here deal with a set <b>2</b> consisting of five filters. This number is absolutely not limiting. It would be possible to form sets including a different number of filters, preferably a greater number. As an indication, this number is less than or equal to 15, so as to constitute sets of reasonable size, compatible with the currently available packages.</p>
+<p id="p-0043" num="0046">In accordance with the invention, the filters <b>10</b> of the set <b>2</b> are connected in pairs by connecting means, so that it is possible to separate at least one filter <b>10</b> from said stick by removing or severing said connecting means.</p>
+<p id="p-0044" num="0047">According to the invention, these connecting means consist of &#x201c;bridges&#x201d; of material which connect two neighboring filters <b>2</b>.</p>
+<p id="p-0045" num="0048">These bridges or &#x201c;attachment points&#x201d;, referenced <b>3</b>, are particularly visible in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. They form an integral part of the filters.</p>
+<p id="p-0046" num="0049">These bridges of material are sufficient to make the filters <b>10</b> secured to each other and to give some cohesion to the set <b>2</b>.</p>
+<p id="p-0047" num="0050">However, these bridges <b>3</b> are not sufficiently resistant to oppose the separation of a filter <b>10</b> (see <figref idref="DRAWINGS">FIG. <b>10</b></figref>), after tilting of this filter <b>10</b> at an acute angle, as shown by the arrow f in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. If necessary, this tilting movement can be continued until obtaining a larger angle, close to the right angle, as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0048" num="0051">The tilting forces the material of the filters, so that the bridges <b>3</b> break and burst. Thus, the filter <b>10</b> is detached from the other ones and is ready to be used. It should be noted that there is no residue or other material to throw away, because the bridges <b>3</b> form an integral part of the filters <b>10</b> and consist of the same material. In other words, any fraction of this set is usable. The fact that the bridges <b>3</b> form part of the filters makes the use of the set extremely easy and simplifies its manufacture.</p>
+<p id="p-0049" num="0052">If necessary, this titling movement can be combined with a slight pulling movement, once the user feels that the end filter <b>10</b> is about to separate from the set <b>2</b>.</p>
+<p id="p-0050" num="0053">In a particularly advantageous manner, the bridges are distributed angularly equidistant at the periphery of each filter, so as to give uniform cohesion to the set and allow easy separation.</p>
+<p id="p-0051" num="0054">Of course, each time the user wishes to take a filter <b>10</b>, he operates in the same way as described above.</p>
+<p id="p-0052" num="0055">To obtain such a set <b>2</b>, a preform <b>4</b> such as the one represented in the appended <figref idref="DRAWINGS">FIG. <b>12</b></figref> is preferably used.</p>
+<p id="p-0053" num="0056">This preform <b>4</b> consists of an elongated rectangular cardboard web, whose parallel long sides are referenced <b>40</b> and the short sides are referenced <b>41</b>.</p>
+<p id="p-0054" num="0057">In this perform 4, five strips <b>5</b> whose long sides extend parallel to the short sides <b>41</b> of the preform <b>4</b> are individualized.</p>
+<p id="p-0055" num="0058">Each strip is separated from its neighbor (neighbors) by partial cutouts <b>6</b> which are separated by the aforementioned bridges of material <b>3</b>.</p>
+<p id="p-0056" num="0059">The production of the pre-cutouts is preferably implemented using an automated machine which will not be described here because it does not constitute the core of the invention.</p>
+<p id="p-0057" num="0060">The preform <b>4</b> is then wound on itself in a manner similar to what is already produced and known for making individual filters. Here again, an automated machine is preferably used. As soon as the preform takes its final stick shape, a string of glue is placed in order to ensure the cohesion of this stick over time.</p>
+<p id="p-0058" num="0061">The preform <b>4</b> may optionally have additional pre-cutouts over part of its thickness, to facilitate the shaping of the filters, as explained in FR 3057441 mentioned above.</p>
+<p id="p-0059" num="0062">In addition to the aforementioned advantages related to the use of the aforementioned set <b>2</b>, the manufacture of this set from a preform <b>4</b> allows rationalizing this operation.</p>
+<p id="p-0060" num="0063">The present invention also relates to packaging for such a set. This has not been represented in the figures so as not to weigh them down unnecessarily.</p>
+<p id="p-0061" num="0064">Such a packaging for a set <b>2</b> such as the one described above consists of an envelope of shape similar to that of said aforementioned stick. In other words, it also has a stick shape and is dimensioned to allow inserting a set therein, while enclosing it. This envelope includes pre-cutouts which are disposed in such a way that they extend facing the areas which separate the individual filters <b>10</b> when a stick is present in said envelope.</p>
+<p id="p-0062" num="0065">Advantageously, this packaging is transparent or translucent, so that the consumer can easily see the number of present filters. It is possible to envisage that the material which constitutes this packaging is the same as that of the transparent packaging of cigarette packets.</p>
+<p id="p-0063" num="0066">When the consumer wishes to take a filter from the packaging, with a single gesture, he will break one of the pre-cutouts of the packaging, as well as the pre-cutout facing the set <b>2</b>.</p>
+<p id="p-0064" num="0067">In addition to the advantages already described relating to the present invention, it can be noted that it is extremely easy to transport a stick-shaped set (consisting for example of six filters), for mobile use without dispersing or losing said filters.</p>
+<p id="p-0065" num="0068">The consumer can successively take a filter, so that the stick is reduced but remains compact and in one piece.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A set of filters made of cardboard or cellulosic material, wherein said set has the shape of a generally cylindrical stick which consists of a plurality of individual filters, each consisting of a winding on itself of a blank of the cardboard or cellulosic material, said filters, disposed in an end-to-end arrangement adjacent each other, being partially connected in pairs by connecting means, such that it is possible to separate at least one of said filters from said stick by removing or severing said connecting means, and wherein said set comprises only a single sheet of cardboard or cellulosic material in which parallel cutouts which individualize seach filter are formed, and each of the cutouts are partial in that there are, between said cutouts, bridges of material, forming said connecting means, which connect two adjacent blanks.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The set according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said bridges of material are positioned such that they are angularly equidistant at the periphery of each filter.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The set according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein it comprises at least four bridges of material.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The set according <claim-ref idref="CLM-00001">claims 1</claim-ref>, wherein it includes at least five filters.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The set according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein it includes at most fifteen filters.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
