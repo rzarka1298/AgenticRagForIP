@@ -8,7 +8,12 @@ from pydantic import BaseModel
 from llama_stack_client.lib.agents.agent import Agent
 from llama_stack_client.lib.agents.event_logger import EventLogger
 from llama_stack_client.types import Document
+import yaml
+from pathlib import Path
 import XMLPatent
+from llama_stack.distribution.library_client import LlamaStackAsLibraryClient
+
+
 
 # Global variables for our client, agent, session, and vector DB ID
 client = None
@@ -17,10 +22,9 @@ session_id = None
 vector_db_id = None
 
 # Asynchronous client initialization helper
-async def create_library_client(template="together"):
-    from llama_stack import LlamaStackAsLibraryClient
-    client = LlamaStackAsLibraryClient(template)
-    await client.async_client.initialize()
+async def create_library_client():
+    client = LlamaStackAsLibraryClient("together")
+    await client.async_client.initialize()  # runs cleanly inside the existing loop
     return client
 
 # Synchronous function to load patent documents from a folder
@@ -69,13 +73,17 @@ async def lifespan(app: FastAPI):
     documents = load_patent_documents(folder)
     print(f"Loaded {len(documents)} patent documents.")
 
-    # 3. Retrieve available vector DB providers.
-    # Update the filtering: select the provider whose API identifies Weaviate
+    # 3. Retrieve available vector DB providers (now Chroma)
     providers_list = await asyncio.to_thread(client.providers.list)
-    weaviate_providers = [provider for provider in providers_list if provider.api.lower() == "weaviate"]
-    if not weaviate_providers:
-        raise Exception("No Weaviate provider found in the provider list.")
-    provider_id = weaviate_providers[0].provider_id
+    chroma_providers = [
+        provider for provider in providers_list
+        if provider.api.lower() == "chromadb"
+    ]
+    if not chroma_providers:
+        raise Exception("No ChromaDB provider found in the provider list.")
+    provider_id = chroma_providers[0].provider_id
+
+
 
     # 4. Register the vector DB with Weaviate as the memory.
     # Note: This vector_db_id will be used by the RAG agent for retrieval.
@@ -102,7 +110,7 @@ async def lifespan(app: FastAPI):
         model=os.environ["INFERENCE_MODEL"],
         instructions=(
             "You are a patent expert assistant. Use the provided documents to answer questions about patents accurately. "
-            "Always respond in clear, fluent English, and do not include any markup tags like <inference> in your answer."
+            "Always respond in clear, fluent English, and do not include any markup tags like inference> in your answer."
         ),
         enable_session_persistence=False,
         tools=[

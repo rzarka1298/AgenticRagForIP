@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 function App() {
@@ -7,23 +7,36 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [queryHistory, setQueryHistory] = useState([]);
   const [selectedHistoryItem, setSelectedHistoryItem] = useState(null);
+  const [error, setError] = useState(null);
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = useCallback(async (e) => {
     e.preventDefault();
     if (!query.trim()) return;
     
     setLoading(true);
     setResponse("");
+    setError(null);
     setSelectedHistoryItem(null);
 
     try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 10000); // 10 second timeout
+
       const res = await fetch("http://localhost:8000/query", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({ user_query: query }),
+        signal: controller.signal
       });
+
+      clearTimeout(timeoutId);
+
+      if (!res.ok) {
+        throw new Error(`HTTP error! status: ${res.status}`);
+      }
+
       const data = await res.json();
       const cleanResponse = data.response
         .replaceAll("<inference>", "")
@@ -31,25 +44,34 @@ function App() {
         .trim();
       setResponse(cleanResponse);
       
-      setQueryHistory(prev => [...prev, {
-        id: Date.now(),
-        query: query,
-        response: cleanResponse,
-        timestamp: new Date().toLocaleString()
-      }]);
+      setQueryHistory(prev => {
+        const newHistory = [...prev, {
+          id: Date.now(),
+          query: query,
+          response: cleanResponse,
+          timestamp: new Date().toLocaleString()
+        }];
+        // Keep only the last 10 queries
+        return newHistory.slice(-10);
+      });
     } catch (err) {
-      setResponse("Error contacting backend.");
+      if (err.name === 'AbortError') {
+        setError("Request timed out. Please try again.");
+      } else {
+        setError("Error contacting backend. Please make sure the server is running.");
+      }
+      console.error('Error:', err);
     } finally {
       setLoading(false);
       setQuery("");
     }
-  };
+  }, [query]);
 
-  const handleHistoryClick = (item) => {
+  const handleHistoryClick = useCallback((item) => {
     setSelectedHistoryItem(item);
     setQuery(item.query);
     setResponse(item.response);
-  };
+  }, []);
 
   return (
     <div className="flex h-screen bg-white">
@@ -57,6 +79,7 @@ function App() {
       <motion.div 
         initial={{ x: -300 }}
         animate={{ x: 0 }}
+        transition={{ duration: 0.3 }}
         className="w-80 bg-gray-50 border-r border-gray-200 p-6 overflow-y-auto shadow-lg"
       >
         <h2 className="text-2xl font-bold text-gray-800 mb-6">Query History</h2>
@@ -66,6 +89,7 @@ function App() {
               key={item.id}
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.2 }}
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
               onClick={() => handleHistoryClick(item)}
@@ -87,11 +111,22 @@ function App() {
         {/* Response Area */}
         <div className="flex-1 overflow-y-auto p-8">
           <AnimatePresence mode="wait">
+            {error && (
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -20 }}
+                className="bg-red-50 border border-red-200 rounded-xl p-8 shadow-lg mb-4"
+              >
+                <p className="text-red-600">{error}</p>
+              </motion.div>
+            )}
             {response && (
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 exit={{ opacity: 0, y: -20 }}
+                transition={{ duration: 0.3 }}
                 className="bg-white border border-gray-200 rounded-xl p-8 shadow-lg"
               >
                 <div className="mb-4">
@@ -123,6 +158,7 @@ function App() {
                 disabled={loading}
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
+                transition={{ duration: 0.2 }}
                 className="absolute right-2 bottom-2 bg-gray-800 hover:bg-gray-700 text-white px-6 py-2 rounded-lg transition disabled:opacity-50 disabled:cursor-not-allowed shadow-md"
               >
                 {loading ? "Searching..." : "Search"}

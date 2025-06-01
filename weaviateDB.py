@@ -3,11 +3,16 @@ import time
 import sys
 import logging
 from pathlib import Path
-
+from dotenv import load_dotenv
+load_dotenv()
 import weaviate
 from weaviate.classes.init import Auth
 from weaviate.classes.config import Configure
+from weaviate.classes.config import Property
+from weaviate.classes.config import Configure, Property, DataType
+
 import XMLPatent
+XMLPatent.DIR_PATH = os.path.join(os.getcwd(), "XML")
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
@@ -42,88 +47,100 @@ def create_weaviate_client():
     sys.exit(1)
 
 def create_or_get_patents_collection(client):
-    """
-    Create a 'Patents' collection if it doesn't exist; otherwise, return the existing one.
-    """
-    schema_name = "Patents"
+    schema_name = "PatentProject"
+
+    # 1) List existing class names (list_all() returns a list of strings)
     try:
-        schema = client.schema.get()
-        for class_obj in schema.get("classes", []):
-            if class_obj["class"] == schema_name:
-                logging.info("Collection '%s' already exists. Retrieving it.", schema_name)
-                return client.collections.get(schema_name)
+        existing = client.collections.list_all()
+        if schema_name in existing:
+            logging.info("Collection '%s' already exists; retrieving it.", schema_name)
+            return client.collections.get(schema_name)
     except Exception as e:
-        logging.warning("Could not retrieve existing schema: %s", e)
-    
-    # Create new collection/schema if not found
+        logging.warning("Could not list existing collections: %s", e)
+
+    # 2) Otherwise create it exactly once
+    logging.info("Collection '%s' not found; creating it now...", schema_name)
     try:
-        logging.info("Creating collection '%s'...", schema_name)
         patents = client.collections.create(
             name=schema_name,
-            vectorizer_config=Configure.Vectorizer.text2vec_weaviate(),  # Uses Weaviate text embeddings
-            generative_config=Configure.Generative.cohere(),              # Sets up the Cohere generative integration
+            vectorizer_config=Configure.Vectorizer.text2vec_weaviate(),
+            generative_config=Configure.Generative.cohere(),
             properties=[
-                {"name": "title", "dataType": ["text"]},
-                {"name": "abstract", "dataType": ["text"]},
-                {"name": "description", "dataType": ["text"]}
-            ]
+                Property(name="title",       data_type=DataType.TEXT),
+                Property(name="abstract",    data_type=DataType.TEXT),
+                Property(name="description", data_type=DataType.TEXT),
+            ],
         )
         logging.info("Collection '%s' created successfully.", schema_name)
         return patents
     except Exception as e:
-        logging.error("Error creating collection '%s': %s", schema_name, e)
+        logging.error("Failed to create collection '%s': %s", schema_name, e)
         sys.exit(1)
+
 
 def add_patents_to_collection(collection, batch_size=10):
     """
-    Ingest a batch of patent XML files into the Weaviate collection.
+    Ingest up to `batch_size` patent XML files into the Weaviate collection.
     """
-    # Retrieve the list of patents and define how many to add for testing
     data = XMLPatent.file_list
     test_db_size = min(batch_size, len(data))
-    
-    # Define the base directory using pathlib for cross-platform compatibility
     patent_dir = Path(XMLPatent.DIR_PATH)
-    
+
+    error_names = []
+    error_count = 0
+
+    # Properly open the batch context so `batch` has add_object() and number_errors
     with collection.batch.dynamic() as batch:
         for i in range(test_db_size):
-            name = data[i]
-            file_path = patent_dir / f"{name}.xml"
+            name = data[i]  # e.g. "US1234567-20241217.XML"
+
+            # Try uppercase then lowercase extension
+            file_path = patent_dir / name
             if not file_path.exists():
-                # Attempt alternative file layout if not found
-                alternative_path = patent_dir / name / f"{name}.xml"
-                file_path = alternative_path if alternative_path.exists() else None
-            
-            if file_path is None:
-                logging.error("File for patent '%s' not found.", name)
+                stem = Path(name).stem
+                alt = patent_dir / f"{stem}.xml"
+                file_path = alt if alt.exists() else None
+
+            if not file_path or not file_path.exists():
+                logging.error("File not found: %s", name)
+                error_names.append(name)
+                error_count += 1
                 continue
 
+            # Parse XML
             try:
                 patent_data = XMLPatent.parse_patent_xml(str(file_path))
             except Exception as e:
-                logging.error("Error parsing XML for patent '%s': %s", name, e)
+                logging.error("XML parse error for %s: %s", name, e)
+                error_names.append(name)
+                error_count += 1
                 continue
 
+            # Add to batch
             try:
                 batch.add_object({
-                    "title": patent_data.get("title", ""),
-                    "abstract": patent_data.get("abstract", ""),
+                    "title":       patent_data.get("title", ""),
+                    "abstract":    patent_data.get("abstract", ""),
                     "description": patent_data.get("description", "")
                 })
                 logging.info("Queued patent '%s' for import.", name)
             except Exception as e:
-                logging.exception("Error adding patent '%s' to batch: %s", name, e)
-            
+                logging.error("Batch add error for %s: %s", name, e)
+                error_names.append(name)
+                error_count += 1
+
+            # Bail out if too many errors
             if batch.number_errors > 10:
-                logging.error("Batch import stopped due to excessive errors (%d errors).", batch.number_errors)
+                logging.error("Stopping ingestion: >10 errors on batch.")
                 break
 
-    if batch.failed_objects:
-        logging.warning("Number of failed imports: %d", len(batch.failed_objects))
-        if batch.failed_objects:
-            logging.warning("First failed object: %s", batch.failed_objects[0])
+    # Outside the with-block: batch has been sent
+    if error_count:
+        logging.warning("Ingestion completed with %d errors.", error_count)
+        logging.warning("Examples of failures: %s", error_names[:5])
     else:
-        logging.info("All patents imported successfully.")
+        logging.info("All %d patents imported successfully.", test_db_size)
+
 
 def main():
     client = create_weaviate_client()
@@ -134,8 +151,11 @@ def main():
     
     # Optional: Query a few objects to verify ingestion
     try:
-        result = patents_collection.query.get(properties=["title", "abstract"], limit=5)
-        logging.info("Sample documents from collection: %s", result)
+        fetch_result = patents_collection.query.fetch_objects(
+            limit=5,
+            return_properties=["title", "abstract"]
+        )
+        logging.info("Sample documents (fetch_objects): %s", fetch_result)
     except Exception as e:
         logging.error("Error querying sample patents: %s", e)
     
