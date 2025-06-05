@@ -31,3 +31,4 @@ build/
 # Optional: You might want to ignore local configuration files
 # that contain sensitive data
 *.local.json
+
